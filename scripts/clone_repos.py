@@ -174,7 +174,11 @@ def clone_and_push(repo_info: dict, username: str, analysis: str) -> str | None:
         )
         branch = result.stdout.strip() or "main"
 
-        # 6. origin을 내 레포로 교체 후 push
+        # 6. shallow clone → 전체 히스토리 복원 (빈 레포 push 시 필수)
+        print(f"    Unshallowing...")
+        run_cmd(["git", "fetch", "--unshallow"], cwd=repo_dir)
+
+        # 7. origin을 내 레포로 교체 후 push
         print(f"    Pushing to {username}/{target_repo} (branch: {branch})...")
         run_cmd(["git", "remote", "remove", "origin"], cwd=repo_dir)
         run_cmd(["git", "remote", "add", "origin", push_url], cwd=repo_dir)
