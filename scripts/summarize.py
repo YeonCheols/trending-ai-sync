@@ -1,6 +1,6 @@
 """
 OpenAI API를 이용해 수집된 항목을 한국어로 요약합니다.
-- 모델: gpt-4o-mini
+- 모델: gpt-4o
 - 대상: GitHub 30개 / HuggingFace 20개 / arXiv 20개
 """
 import json

@@ -12,9 +12,24 @@
 
 ## 📌 목차
 
+- [🔬 AI 분석 레포 (5)](#-ai-분석-레포)
 - [🐙 GitHub Trending (30)](#-github-trending)
 - [🤗 HuggingFace Trending (8)](#-huggingface-trending)
 - [📄 arXiv Papers (0)](#-arxiv-papers)
+
+---
+
+## 🔬 AI 분석 레포
+
+> 매일 상위 5개 레포를 clone하고 GPT-4o가 분석한 `ANALYSIS.md`를 추가합니다.
+
+| # | 레포 | 원본 Stars | 분석 날짜 |
+|:---:|---|:---:|:---:|
+| 1 | [**chops**](https://github.com/YeonCheols/ai-sync-chops) | ⭐ 530 | `2026-03-24` |
+| 2 | [**ai-engineering-from-scratch**](https://github.com/YeonCheols/ai-sync-ai-engineering-from-scratch) | ⭐ 414 | `2026-03-24` |
+| 3 | [**opencode-claude-auth**](https://github.com/YeonCheols/ai-sync-opencode-claude-auth) | ⭐ 397 | `2026-03-24` |
+| 4 | [**desktop**](https://github.com/YeonCheols/ai-sync-desktop) | ⭐ 262 | `2026-03-24` |
+| 5 | [**awesome-free-llm-apis**](https://github.com/YeonCheols/ai-sync-awesome-free-llm-apis) | ⭐ 239 | `2026-03-24` |
 
 ---
 
@@ -25,7 +40,7 @@
 <details>
 <summary>
   <b>1. <a href="https://github.com/Shpigford/chops">chops</a></b>
-  &nbsp; ⭐ <b>529</b> &nbsp; ![Swift](https://img.shields.io/badge/-Swift-888888?style=flat-square&logo=swift&logoColor=white)
+  &nbsp; ⭐ <b>530</b> &nbsp; ![Swift](https://img.shields.io/badge/-Swift-888888?style=flat-square&logo=swift&logoColor=white)
 </summary>
 
 <br>
@@ -40,7 +55,7 @@
 |---|---|
 | 📅 생성일 | `2026-03-18` |
 | 💻 언어 | `Swift` |
-| ⭐ Stars | `529` |
+| ⭐ Stars | `530` |
 | 🍴 Forks | `27` |
 
 **🏷 토픽:** `ai` `macos` `skills` `swiftui`
