@@ -17,8 +17,7 @@
         "skills",
         "swiftui"
       ],
-      "created_at": "2026-03-18",
-      "summary": "\"Chops는 macOS용 앱으로 Claude Code, Cursor, Codex, Windsurf, Amp와 같은 AI 에이전트의 기술을 쉽게 탐색, 편집, 관리할 수 있습니다. SwiftUI를 기반으로 하여 AI 기술의 효율적인 통합과 관리를 지원합니다.\""
+      "created_at": "2026-03-18"
     },
     {
       "source": "github",
@@ -26,7 +25,7 @@
       "title": "ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
-      "stars": 412,
+      "stars": 413,
       "forks": 71,
       "language": "Python",
       "topics": [
@@ -51,8 +50,7 @@
         "tutorial",
         "typescript"
       ],
-      "created_at": "2026-03-18",
-      "summary": "'AI Engineering From Scratch' 저장소는 AI 에이전트, 컴퓨터 비전, 심층 학습 등 다양한 AI 주제를 다루며, 이를 직접 구현하고 배포하는 과정에 대한 튜토리얼을 제공합니다. 이 과정은 AI 엔지니어링에 관심 있는 개발자들이 기초부터 고급 주제까지 학습하며 프로젝트를 완성하는 데 활용될 수 있습니다."
+      "created_at": "2026-03-18"
     },
     {
       "source": "github",
@@ -60,7 +58,7 @@
       "title": "opencode-claude-auth",
       "url": "https://github.com/griffinmartin/opencode-claude-auth",
       "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed",
-      "stars": 395,
+      "stars": 396,
       "forks": 34,
       "language": "TypeScript",
       "topics": [
@@ -76,8 +74,7 @@
         "opencode-plugin",
         "typescript"
       ],
-      "created_at": "2026-03-19",
-      "summary": "opencode-claude-auth는 사용자의 기존 Claude Code 인증 정보를 이용해 별도의 로그인 없이 OpenCode plugin에 접근할 수 있게 해주는 도구입니다. 이 플러그인은 AI 관련 프로젝트에서 효율적인 인증 작업을 지원하며, Node.js 및 TypeScript 환경에서 활용됩니다."
+      "created_at": "2026-03-19"
     },
     {
       "source": "github",
@@ -99,8 +96,7 @@
         "skills",
         "tools"
       ],
-      "created_at": "2026-03-20",
-      "summary": "\"Desktop\" GitHub 저장소는 'Yak is all you need'라는 슬로건 아래, 에이전트 기반의 AI 기능을 활용하여 로컬 환경에서 데스크톱 애플리케이션을 지원하는 오픈 소스 프로젝트입니다. 주요 기능으로는 사용자 맞춤형 스킬 및 도구를 결합해 다양한 작업을 자동화·지원하는 것이 있으며, 인공지능 에이전트, LLM, MCP와 같은 최신 기술을 통합하여 생산성 향상을 목표로 합니다."
+      "created_at": "2026-03-20"
     },
     {
       "source": "github",
@@ -124,8 +120,7 @@
         "openclaw-plugin",
         "router"
       ],
-      "created_at": "2026-03-21",
-      "summary": "awesome-free-llm-apis 저장소는 항상 무료로 이용할 수 있는 LLM API 목록을 제공합니다. AI 에이전트, OpenAI, Anthropic 등 다양한 LLM 관련 API 키를 통해 AI 모델을 쉽게 활용할 수 있도록 지원합니다."
+      "created_at": "2026-03-21"
     },
     {
       "source": "github",
@@ -133,7 +128,7 @@
       "title": "ai-engineering-interview-questions",
       "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
       "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
-      "stars": 198,
+      "stars": 199,
       "forks": 56,
       "language": "Markdown",
       "topics": [
@@ -151,8 +146,7 @@
         "questions-and-answers",
         "rag"
       ],
-      "created_at": "2026-03-21",
-      "summary": "'ai-engineering-interview-questions' 저장소는 AI 엔지니어링 인터뷰를 준비하는 데 도움이 되는 질문과 답변을 제공합니다. 주요 주제로는 에이전트, 미세 조정, 양자화 등이 포함되어 있으며, 인터뷰 대비를 위한 실질적인 자료로 활용될 수 있습니다."
+      "created_at": "2026-03-21"
     },
     {
       "source": "github",
@@ -160,7 +154,7 @@
       "title": "cc-skills-golang",
       "url": "https://github.com/samber/cc-skills-golang",
       "description": "🧑‍🎨 A collection of Golang agentic skills that works",
-      "stars": 154,
+      "stars": 155,
       "forks": 5,
       "language": "Go",
       "topics": [
@@ -184,8 +178,7 @@
         "skillsmp",
         "vibe-coding"
       ],
-      "created_at": "2026-03-21",
-      "summary": "cc-skills-golang 저장소는 Golang을 기반으로 하는 다양한 에이전트 기술을 모은 컬렉션으로, 코드 작성과 관련된 AI 에이전트에 활용됩니다. 이 저장소는 개발자들이 코드 생성 및 자동화 작업을 효율적으로 수행할 수 있도록 돕습니다."
+      "created_at": "2026-03-21"
     },
     {
       "source": "github",
@@ -205,8 +198,7 @@
         "claude",
         "claude-code"
       ],
-      "created_at": "2026-03-18",
-      "summary": "\"claude-code-toolkit\"는 AI 에이전트 시스템으로, /do 라우터를 생성하는 기능을 제공합니다. 이 도구는 AI 기반의 워크플로우와 작업 처리 자동화에 활용될 수 있습니다."
+      "created_at": "2026-03-18"
     },
     {
       "source": "github",
@@ -223,8 +215,7 @@
         "ddia",
         "skills"
       ],
-      "created_at": "2026-03-22",
-      "summary": "ai-coding-principles 저장소는 Claude Code의 스킬 모음을 제공하여 AI 코딩의 규율을 강화하고 일반적인 안티 패턴을 방지합니다. AI 개발자들이 더 나은 코드 품질을 유지하며 효율적인 개발을 할 수 있도록 지원합니다."
+      "created_at": "2026-03-22"
     },
     {
       "source": "github",
@@ -256,8 +247,7 @@
         "wasm",
         "webcontainers"
       ],
-      "created_at": "2026-03-19",
-      "summary": "Clawless는 WebContainers를 활용하여 브라우저에서 실행되는 서버리스 런타임으로, Claw AI 에이전트의 개발과 테스트를 지원합니다. 주로 AI 에이전트의 실행 및 로깅, 개발자 도구, 정책 엔진 기능을 제공합니다."
+      "created_at": "2026-03-19"
     },
     {
       "source": "github",
@@ -283,8 +273,7 @@
         "python",
         "skills"
       ],
-      "created_at": "2026-03-20",
-      "summary": "Pattern8은 AI 에이전트의 행동을 제어하기 위한 거버넌스 프레임워크로, 프로젝트 내 AI 에이전트의 안전하고 규정된 동작을 보장합니다. 이 도구는 Python 환경에서 쉽게 설치할 수 있으며, AI 안정성과 관련된 다양한 분야에 활용될 수 있습니다."
+      "created_at": "2026-03-20"
     },
     {
       "source": "github",
@@ -302,8 +291,7 @@
         "obsidian",
         "obsidian-plugin"
       ],
-      "created_at": "2026-03-22",
-      "summary": "\"katmer-code\"는 Obsidian 내에서 Claude AI를 활용하여 학술 연구 기능을 제공하고, 인라인 차이 편집 및 MCP 지원을 특징으로 하는 플러그인입니다. 이 플러그인은 연구자들이 보다 효율적으로 데이터를 관리하고 분석할 수 있도록 돕습니다."
+      "created_at": "2026-03-22"
     },
     {
       "source": "github",
@@ -319,8 +307,7 @@
         "nodejs",
         "petition"
       ],
-      "created_at": "2026-03-18",
-      "summary": "\"no-ai-in-nodejs-core\" 저장소는 Node.js 코어에 LLM이 생성한 풀 리퀘스트 수용을 금지하기 위한 청원서입니다. 이 저장소는 AI 도구의 사용 제한을 통해 코드 품질과 개발자 참여를 유지하려는 목적이 있습니다."
+      "created_at": "2026-03-18"
     },
     {
       "source": "github",
@@ -338,8 +325,7 @@
         "observability",
         "safety"
       ],
-      "created_at": "2026-03-18",
-      "summary": "Agent Lens는 AI 안전성과 해석 가능성 연구를 위해 에이전트의 관찰 가능성 및 재생 도구를 제공하는 저장소입니다. 이는 AI 시스템의 동작을 모니터링하고 분석하여 안전한 AI 개발에 기여합니다."
+      "created_at": "2026-03-18"
     },
     {
       "source": "github",
@@ -364,8 +350,7 @@
         "unreal-engine",
         "valorant"
       ],
-      "created_at": "2026-03-18",
-      "summary": "ValorantAi 저장소는 Valorant 게임에서 스킨을 변경하고 잠금 해제하는 도구를 제공하는 소프트웨어입니다. 이 도구는 AI와 스크립트를 활용하여 게임 내 다양한 스킨을 자유롭게 사용할 수 있도록 도와줍니다."
+      "created_at": "2026-03-18"
     },
     {
       "source": "github",
@@ -385,8 +370,7 @@
         "openclaw",
         "spring-ai"
       ],
-      "created_at": "2026-03-19",
-      "summary": "Memind는 Java로 구현된 AI 에이전트를 위한 자가 진화형 인지 메모리 시스템으로, AI 에이전트가 24/7 능동적으로 작동하며 이해력을 가질 수 있도록 지원합니다. 주로 OpenClaw와 같은 AI 에이전트에 활용되어 지속적인 학습과 상호작용을 통해 성능을 향상시킵니다."
+      "created_at": "2026-03-19"
     },
     {
       "source": "github",
@@ -419,8 +403,7 @@
         "vulnerability-scanner",
         "worm-gpt"
       ],
-      "created_at": "2026-03-21",
-      "summary": "Worm-GPT-LLM-2026은 LLM(대형 언어 모델)에 대한 레드팀 활동과 프롬프트 엔지니어링을 위한 고성능 C++ 실행 엔진으로, 정렬 보호막을 우회하고 자율적인 비검열 대화 로직을 로컬에서 활용할 수 있습니다. 이 저장소는 주로 사이버 보안 및 침투 테스트 분야에서 동적 탈옥 페이로드를 배포하고 취약점 스캐너로 사용됩니다."
+      "created_at": "2026-03-21"
     },
     {
       "source": "github",
@@ -436,8 +419,7 @@
         "ai-agents",
         "generative-ai"
       ],
-      "created_at": "2026-03-19",
-      "summary": "\"Agent Engineer\"는 소프트웨어 엔지니어를 위한 실용적인 코스로, agentic 프레임워크와 AI 에이전트, 생성형 AI를 다룹니다. 이 코스를 통해 엔지니어들은 AI 기반 에이전트를 설계하고 구현하는 능력을 개발할 수 있습니다."
+      "created_at": "2026-03-19"
     },
     {
       "source": "github",
@@ -461,8 +443,7 @@
         "shopify-tools",
         "tiktok-shop-automation"
       ],
-      "created_at": "2026-03-18",
-      "summary": "eCommerce-Skills 저장소는 AI 에이전트를 위한 전자상거래 기능을 제공하여 제품 연구, 마케팅 자동화, 공급망 최적화, 비즈니스 분석을 지원합니다. Amazon, Shopify, Etsy, TikTok Shop 등 다양한 플랫폼에서 온라인 판매자들이 이를 활용할 수 있습니다."
+      "created_at": "2026-03-18"
     },
     {
       "source": "github",
@@ -494,8 +475,7 @@
         "prompt-generator",
         "prompt-toolkit"
       ],
-      "created_at": "2026-03-22",
-      "summary": "codexmaster 저장소는 Codex의 출력을 거의 완벽하게 만들어주는 32개의 마크다운 파일로 구성된 프레임워크 파일 시스템과 프롬프트 생성기를 제공합니다. 이 도구는 거버넌스, 실행, 워크플로우, 표준, 디자인, 검증 등 다양한 파일로 구성되어 있으며, 앱과 웹 사이트 구축에 대한 마스터 프롬프트 생성기도 포함하고 있습니다."
+      "created_at": "2026-03-22"
     },
     {
       "source": "github",
@@ -520,8 +500,7 @@
         "optimization",
         "weight-streaming"
       ],
-      "created_at": "2026-03-20",
-      "summary": "mlx-flash는 Apple Silicon에서 RAM보다 큰 대규모 모델을 실행할 수 있도록 메모리를 최적화하는 기술입니다. 주로 대형 언어 모델의 추론 성능을 향상시키기 위해 활용됩니다."
+      "created_at": "2026-03-20"
     },
     {
       "source": "github",
@@ -547,8 +526,7 @@
         "ruby",
         "windsurf"
       ],
-      "created_at": "2026-03-18",
-      "summary": "rails-ai-context는 AI 코딩 도구들이 Ruby on Rails 앱의 스키마, 모델, 라우트, 컨트롤러, 뷰와 관례까지 완벽하게 이해할 수 있도록 지원합니다. 기본 설정 없이 13개의 실시간 MCP 도구와 자동 생성된 컨텍스트 파일을 통해 Claude Code, Cursor, Windsurf, Copilot, OpenCode와 같은 플랫폼에서 활용 가능합니다."
+      "created_at": "2026-03-18"
     },
     {
       "source": "github",
@@ -579,8 +557,27 @@
         "photo-management",
         "smart-album"
       ],
-      "created_at": "2026-03-22",
-      "summary": "\"Album-Formula-Ai-2026-Update\"는 인공지능과 머신러닝을 활용해 사진 앨범을 자동 생성하고 이미지 품질을 향상시키는 도구입니다. 이 저장소는 디지털 사진 관리 및 레이아웃 최적화를 위한 스마트 앨범 제작에 활용될 수 있습니다."
+      "created_at": "2026-03-22"
+    },
+    {
+      "source": "github",
+      "id": "ianho7/ai-friendly-web-design-skill",
+      "title": "ai-friendly-web-design-skill",
+      "url": "https://github.com/ianho7/ai-friendly-web-design-skill",
+      "description": "A Claude Code Skill that helps you build web interfaces friendly to both AI agents and human users — covering semantic HTML, ARIA attributes, stable locators, form best practices, and more.",
+      "stars": 34,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "ai",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "skills"
+      ],
+      "created_at": "2026-03-23"
     },
     {
       "source": "github",
@@ -588,7 +585,7 @@
       "title": "free-video-downloader",
       "url": "https://github.com/liyupi/free-video-downloader",
       "description": "2026 年编程导航 AI 编程实战新项目，基于 Vue 3 + FastAPI + yt-dlp + DeepSeek + Stripe 的 AI 万能视频下载总结器，支持 1800+ 平台视频下载、AI 视频总结摘要、思维导图生成、AI 问答、字幕导出、Stripe 国际支付。覆盖 SSE 流式传输、JWT 认证、SEO/GEO 优化。用一套教程掌握 AI 编程全流程，从需求分析到商业变现，不到一周学完，给你的简历增加竞争力",
-      "stars": 33,
+      "stars": 34,
       "forks": 6,
       "language": "Vue",
       "topics": [
@@ -605,8 +602,7 @@
         "tailwindcss",
         "vue"
       ],
-      "created_at": "2026-03-23",
-      "summary": "free-video-downloader는 Vue 3와 FastAPI를 기반으로 유튜브를 포함한 1800개 이상의 플랫폼에서 비디오를 다운로드하고, AI로 비디오 요약과 생각 정리 지도 생성, AI 질의응답 및 자막 추출 기능을 제공합니다. 이 프로젝트는 SSE 스트리밍, JWT 인증, SEO/GEO 최적화를 지원하며, AI 프로그래밍을 배워 상용화할 수 있는 과정을 제공합니다."
+      "created_at": "2026-03-23"
     },
     {
       "source": "github",
@@ -626,8 +622,7 @@
         "open-webui",
         "superpowers"
       ],
-      "created_at": "2026-03-22",
-      "summary": "SuperPowersWUI는 로컬 LLM 개발 워크플로우를 위해 설계된 Open WebUI 도구로, 브레인스토밍에서 실행까지 모든 단계를 지원합니다. 이 도구는 다양한 LLM 관련 프로젝트에 활용될 수 있으며, 사용자에게 체계적인 계획 수립과 실행 기능을 제공합니다."
+      "created_at": "2026-03-22"
     },
     {
       "source": "github",
@@ -659,29 +654,7 @@
         "research-claw",
         "science"
       ],
-      "created_at": "2026-03-18",
-      "summary": "ResearchClawBench는 AI 에이전트를 활용하여 자동 연구 전 과정을 평가하기 위한 벤치마크로, 재발견부터 새로운 발견에 이르는 연구 능력을 테스트합니다. 주로 AI 과학자 또는 자동화 연구 분야에서 활용되며, 다양한 AI 모델과 툴의 성능을 비교하고 검증하는 데 사용됩니다."
-    },
-    {
-      "source": "github",
-      "id": "ianho7/ai-friendly-web-design-skill",
-      "title": "ai-friendly-web-design-skill",
-      "url": "https://github.com/ianho7/ai-friendly-web-design-skill",
-      "description": "A Claude Code Skill that helps you build web interfaces friendly to both AI agents and human users — covering semantic HTML, ARIA attributes, stable locators, form best practices, and more.",
-      "stars": 32,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [
-        "agent",
-        "agent-skills",
-        "ai",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "skills"
-      ],
-      "created_at": "2026-03-23",
-      "summary": "이 저장소는 AI 에이전트와 인간 사용자 모두에게 친화적인 웹 인터페이스를 구축하는 기술을 제공합니다. 시맨틱 HTML, ARIA 속성, 안정적인 로케이터, 폼 모범 사례 등을 다루어 웹 접근성을 향상시킵니다."
+      "created_at": "2026-03-18"
     },
     {
       "source": "github",
@@ -689,7 +662,7 @@
       "title": "WeiClaw",
       "url": "https://github.com/kellyvv/WeiClaw",
       "description": "一条命令，把微信变成任何 AI Agent 的入口 | Connect WeChat to any AI Agent with one command",
-      "stars": 28,
+      "stars": 30,
       "forks": 3,
       "language": "JavaScript",
       "topics": [
@@ -713,8 +686,7 @@
         "wechat-bot",
         "weixin"
       ],
-      "created_at": "2026-03-22",
-      "summary": "WeiClaw는 단 한 줄의 명령어로 WeChat을 다양한 AI 에이전트의 게이트웨이로 변환할 수 있는 오픈 소스 도구입니다. 이 도구는 Node.js로 개발되었으며, AI 챗봇, 음성 비서와 같은 다양한 인공지능 애플리케이션과의 통합을 지원합니다."
+      "created_at": "2026-03-22"
     },
     {
       "source": "github",
@@ -742,8 +714,7 @@
         "openai",
         "playwright"
       ],
-      "created_at": "2026-03-22",
-      "summary": "HolyClaude는 AI 코딩 작업 환경을 제공하는 도구로, Claude Code와 웹 UI, 다양한 AI CLI, 헤드리스 브라우저 및 50개 이상의 도구를 포함합니다. 주로 개발자들을 위한 AI 기반 코딩, 자동화 및 웹 애플리케이션 테스트에 활용됩니다."
+      "created_at": "2026-03-22"
     },
     {
       "source": "github",
@@ -776,8 +747,7 @@
         "yolo",
         "yolov11"
       ],
-      "created_at": "2026-03-22",
-      "summary": "Trt-trackbot은 GPU 가속을 활용하여 실시간 상호작용 멀티 객체 추적 시스템을 구축하는 ROS 2 로봇 프로젝트로, TurtleBot3에서의 시각적 추적을 위한 재현 가능하고 기준이 될 수 있는 시스템을 제공합니다. 연구자와 엔지니어를 대상으로 하며, AI 및 로보틱스 분야에서 활용될 수 있습니다."
+      "created_at": "2026-03-22"
     },
     {
       "source": "github",
@@ -932,27 +902,11 @@
     },
     {
       "source": "github",
-      "id": "mattersec-labs/seclens",
-      "title": "seclens",
-      "url": "https://github.com/mattersec-labs/seclens",
-      "description": "Role-Specific Evaluation of LLMs for Security Vulnerability Detection",
-      "stars": 18,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "ai",
-        "benchmark",
-        "security-research"
-      ],
-      "created_at": "2026-03-20"
-    },
-    {
-      "source": "github",
       "id": "f/poke-gate",
       "title": "poke-gate",
       "url": "https://github.com/f/poke-gate",
       "description": "Expose your machine to your Poke AI assistant via MCP tunnel",
-      "stars": 18,
+      "stars": 19,
       "forks": 1,
       "language": "JavaScript",
       "topics": [
@@ -966,6 +920,39 @@
         "tunnel"
       ],
       "created_at": "2026-03-23"
+    },
+    {
+      "source": "github",
+      "id": "MatchaOnMuffins/orchestrator",
+      "title": "orchestrator",
+      "url": "https://github.com/MatchaOnMuffins/orchestrator",
+      "description": "Tmux for claude code",
+      "stars": 18,
+      "forks": 2,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "ai",
+        "claude-code",
+        "orchestration"
+      ],
+      "created_at": "2026-03-21"
+    },
+    {
+      "source": "github",
+      "id": "mattersec-labs/seclens",
+      "title": "seclens",
+      "url": "https://github.com/mattersec-labs/seclens",
+      "description": "Role-Specific Evaluation of LLMs for Security Vulnerability Detection",
+      "stars": 18,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "benchmark",
+        "security-research"
+      ],
+      "created_at": "2026-03-20"
     },
     {
       "source": "github",
@@ -1034,23 +1021,6 @@
         "productivity"
       ],
       "created_at": "2026-03-20"
-    },
-    {
-      "source": "github",
-      "id": "MatchaOnMuffins/orchestrator",
-      "title": "orchestrator",
-      "url": "https://github.com/MatchaOnMuffins/orchestrator",
-      "description": "Tmux for claude code",
-      "stars": 17,
-      "forks": 2,
-      "language": "TypeScript",
-      "topics": [
-        "agents",
-        "ai",
-        "claude-code",
-        "orchestration"
-      ],
-      "created_at": "2026-03-21"
     },
     {
       "source": "github",
@@ -1259,6 +1229,26 @@
     },
     {
       "source": "github",
+      "id": "fengzhizi715/OpenVitamin",
+      "title": "OpenVitamin",
+      "url": "https://github.com/fengzhizi715/OpenVitamin",
+      "description": "本地优先的 AI 平台，统一承载模型推理、图片生成、工作流编排与智能体能力组合。",
+      "stars": 12,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "agent-orchestration",
+        "ai",
+        "ai-agents",
+        "ai-platform",
+        "local-ai",
+        "local-first",
+        "workflow"
+      ],
+      "created_at": "2026-03-22"
+    },
+    {
+      "source": "github",
       "id": "l497996153/AI-RPG-Engine",
       "title": "AI-RPG-Engine",
       "url": "https://github.com/l497996153/AI-RPG-Engine",
@@ -1391,23 +1381,20 @@
     },
     {
       "source": "github",
-      "id": "fengzhizi715/OpenVitamin",
-      "title": "OpenVitamin",
-      "url": "https://github.com/fengzhizi715/OpenVitamin",
-      "description": "本地优先的 AI 平台，统一承载模型推理、图片生成、工作流编排与智能体能力组合。",
+      "id": "UNLINEARITY/CLI-WeChat-Bridge",
+      "title": "CLI-WeChat-Bridge",
+      "url": "https://github.com/UNLINEARITY/CLI-WeChat-Bridge",
+      "description": "CLI 命令行工具 集成微信Clawbot , 目前支持无缝集成Codex !",
       "stars": 10,
-      "forks": 0,
-      "language": "Python",
+      "forks": 2,
+      "language": "TypeScript",
       "topics": [
-        "agent-orchestration",
         "ai",
-        "ai-agents",
-        "ai-platform",
-        "local-ai",
-        "local-first",
-        "workflow"
+        "bot",
+        "codex",
+        "wechat"
       ],
-      "created_at": "2026-03-22"
+      "created_at": "2026-03-23"
     },
     {
       "source": "github",
@@ -1428,23 +1415,6 @@
         "workflow"
       ],
       "created_at": "2026-03-21"
-    },
-    {
-      "source": "github",
-      "id": "UNLINEARITY/CLI-WeChat-Bridge",
-      "title": "CLI-WeChat-Bridge",
-      "url": "https://github.com/UNLINEARITY/CLI-WeChat-Bridge",
-      "description": "CLI 命令行工具 集成微信Clawbot , 目前支持无缝集成Codex !",
-      "stars": 10,
-      "forks": 2,
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "bot",
-        "codex",
-        "wechat"
-      ],
-      "created_at": "2026-03-23"
     },
     {
       "source": "github",

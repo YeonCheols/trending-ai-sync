@@ -25,7 +25,7 @@
       "title": "ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
-      "stars": 412,
+      "stars": 413,
       "forks": 71,
       "language": "Python",
       "topics": [
@@ -58,7 +58,7 @@
       "title": "opencode-claude-auth",
       "url": "https://github.com/griffinmartin/opencode-claude-auth",
       "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed",
-      "stars": 395,
+      "stars": 396,
       "forks": 34,
       "language": "TypeScript",
       "topics": [
@@ -128,7 +128,7 @@
       "title": "ai-engineering-interview-questions",
       "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
       "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
-      "stars": 198,
+      "stars": 199,
       "forks": 56,
       "language": "Markdown",
       "topics": [
@@ -154,7 +154,7 @@
       "title": "cc-skills-golang",
       "url": "https://github.com/samber/cc-skills-golang",
       "description": "🧑‍🎨 A collection of Golang agentic skills that works",
-      "stars": 154,
+      "stars": 155,
       "forks": 5,
       "language": "Go",
       "topics": [
@@ -561,11 +561,31 @@
     },
     {
       "source": "github",
+      "id": "ianho7/ai-friendly-web-design-skill",
+      "title": "ai-friendly-web-design-skill",
+      "url": "https://github.com/ianho7/ai-friendly-web-design-skill",
+      "description": "A Claude Code Skill that helps you build web interfaces friendly to both AI agents and human users — covering semantic HTML, ARIA attributes, stable locators, form best practices, and more.",
+      "stars": 34,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "ai",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "skills"
+      ],
+      "created_at": "2026-03-23"
+    },
+    {
+      "source": "github",
       "id": "liyupi/free-video-downloader",
       "title": "free-video-downloader",
       "url": "https://github.com/liyupi/free-video-downloader",
       "description": "2026 年编程导航 AI 编程实战新项目，基于 Vue 3 + FastAPI + yt-dlp + DeepSeek + Stripe 的 AI 万能视频下载总结器，支持 1800+ 平台视频下载、AI 视频总结摘要、思维导图生成、AI 问答、字幕导出、Stripe 国际支付。覆盖 SSE 流式传输、JWT 认证、SEO/GEO 优化。用一套教程掌握 AI 编程全流程，从需求分析到商业变现，不到一周学完，给你的简历增加竞争力",
-      "stars": 33,
+      "stars": 34,
       "forks": 6,
       "language": "Vue",
       "topics": [
@@ -638,31 +658,11 @@
     },
     {
       "source": "github",
-      "id": "ianho7/ai-friendly-web-design-skill",
-      "title": "ai-friendly-web-design-skill",
-      "url": "https://github.com/ianho7/ai-friendly-web-design-skill",
-      "description": "A Claude Code Skill that helps you build web interfaces friendly to both AI agents and human users — covering semantic HTML, ARIA attributes, stable locators, form best practices, and more.",
-      "stars": 32,
-      "forks": 0,
-      "language": "JavaScript",
-      "topics": [
-        "agent",
-        "agent-skills",
-        "ai",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "skills"
-      ],
-      "created_at": "2026-03-23"
-    },
-    {
-      "source": "github",
       "id": "kellyvv/WeiClaw",
       "title": "WeiClaw",
       "url": "https://github.com/kellyvv/WeiClaw",
       "description": "一条命令，把微信变成任何 AI Agent 的入口 | Connect WeChat to any AI Agent with one command",
-      "stars": 28,
+      "stars": 30,
       "forks": 3,
       "language": "JavaScript",
       "topics": [
@@ -902,27 +902,11 @@
     },
     {
       "source": "github",
-      "id": "mattersec-labs/seclens",
-      "title": "seclens",
-      "url": "https://github.com/mattersec-labs/seclens",
-      "description": "Role-Specific Evaluation of LLMs for Security Vulnerability Detection",
-      "stars": 18,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "ai",
-        "benchmark",
-        "security-research"
-      ],
-      "created_at": "2026-03-20"
-    },
-    {
-      "source": "github",
       "id": "f/poke-gate",
       "title": "poke-gate",
       "url": "https://github.com/f/poke-gate",
       "description": "Expose your machine to your Poke AI assistant via MCP tunnel",
-      "stars": 18,
+      "stars": 19,
       "forks": 1,
       "language": "JavaScript",
       "topics": [
@@ -936,6 +920,39 @@
         "tunnel"
       ],
       "created_at": "2026-03-23"
+    },
+    {
+      "source": "github",
+      "id": "MatchaOnMuffins/orchestrator",
+      "title": "orchestrator",
+      "url": "https://github.com/MatchaOnMuffins/orchestrator",
+      "description": "Tmux for claude code",
+      "stars": 18,
+      "forks": 2,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "ai",
+        "claude-code",
+        "orchestration"
+      ],
+      "created_at": "2026-03-21"
+    },
+    {
+      "source": "github",
+      "id": "mattersec-labs/seclens",
+      "title": "seclens",
+      "url": "https://github.com/mattersec-labs/seclens",
+      "description": "Role-Specific Evaluation of LLMs for Security Vulnerability Detection",
+      "stars": 18,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "benchmark",
+        "security-research"
+      ],
+      "created_at": "2026-03-20"
     },
     {
       "source": "github",
@@ -1004,23 +1021,6 @@
         "productivity"
       ],
       "created_at": "2026-03-20"
-    },
-    {
-      "source": "github",
-      "id": "MatchaOnMuffins/orchestrator",
-      "title": "orchestrator",
-      "url": "https://github.com/MatchaOnMuffins/orchestrator",
-      "description": "Tmux for claude code",
-      "stars": 17,
-      "forks": 2,
-      "language": "TypeScript",
-      "topics": [
-        "agents",
-        "ai",
-        "claude-code",
-        "orchestration"
-      ],
-      "created_at": "2026-03-21"
     },
     {
       "source": "github",
@@ -1229,6 +1229,26 @@
     },
     {
       "source": "github",
+      "id": "fengzhizi715/OpenVitamin",
+      "title": "OpenVitamin",
+      "url": "https://github.com/fengzhizi715/OpenVitamin",
+      "description": "本地优先的 AI 平台，统一承载模型推理、图片生成、工作流编排与智能体能力组合。",
+      "stars": 12,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "agent-orchestration",
+        "ai",
+        "ai-agents",
+        "ai-platform",
+        "local-ai",
+        "local-first",
+        "workflow"
+      ],
+      "created_at": "2026-03-22"
+    },
+    {
+      "source": "github",
       "id": "l497996153/AI-RPG-Engine",
       "title": "AI-RPG-Engine",
       "url": "https://github.com/l497996153/AI-RPG-Engine",
@@ -1361,23 +1381,20 @@
     },
     {
       "source": "github",
-      "id": "fengzhizi715/OpenVitamin",
-      "title": "OpenVitamin",
-      "url": "https://github.com/fengzhizi715/OpenVitamin",
-      "description": "本地优先的 AI 平台，统一承载模型推理、图片生成、工作流编排与智能体能力组合。",
+      "id": "UNLINEARITY/CLI-WeChat-Bridge",
+      "title": "CLI-WeChat-Bridge",
+      "url": "https://github.com/UNLINEARITY/CLI-WeChat-Bridge",
+      "description": "CLI 命令行工具 集成微信Clawbot , 目前支持无缝集成Codex !",
       "stars": 10,
-      "forks": 0,
-      "language": "Python",
+      "forks": 2,
+      "language": "TypeScript",
       "topics": [
-        "agent-orchestration",
         "ai",
-        "ai-agents",
-        "ai-platform",
-        "local-ai",
-        "local-first",
-        "workflow"
+        "bot",
+        "codex",
+        "wechat"
       ],
-      "created_at": "2026-03-22"
+      "created_at": "2026-03-23"
     },
     {
       "source": "github",
@@ -1398,23 +1415,6 @@
         "workflow"
       ],
       "created_at": "2026-03-21"
-    },
-    {
-      "source": "github",
-      "id": "UNLINEARITY/CLI-WeChat-Bridge",
-      "title": "CLI-WeChat-Bridge",
-      "url": "https://github.com/UNLINEARITY/CLI-WeChat-Bridge",
-      "description": "CLI 命令行工具 集成微信Clawbot , 目前支持无缝集成Codex !",
-      "stars": 10,
-      "forks": 2,
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "bot",
-        "codex",
-        "wechat"
-      ],
-      "created_at": "2026-03-23"
     },
     {
       "source": "github",
