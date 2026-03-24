@@ -2,7 +2,7 @@ name: Sync Trending AI
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # UTC 00:00 = KST 09:00
+    - cron: '0 0 */3 * *'  # 3일마다 UTC 00:00 = KST 09:00
   workflow_dispatch:       # 수동 실행 가능
 
 permissions:
