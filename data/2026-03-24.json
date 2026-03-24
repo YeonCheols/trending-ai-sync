@@ -8,7 +8,7 @@
       "title": "chops",
       "url": "https://github.com/Shpigford/chops",
       "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
-      "stars": 529,
+      "stars": 530,
       "forks": 27,
       "language": "Swift",
       "topics": [
@@ -1249,6 +1249,29 @@
     },
     {
       "source": "github",
+      "id": "AIPMAndy/goskill",
+      "title": "goskill",
+      "url": "https://github.com/AIPMAndy/goskill",
+      "description": "🎯 Goal-driven execution helper for long-running tasks and explicit success criteria",
+      "stars": 12,
+      "forks": 1,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "automation",
+        "developer-tools",
+        "goal-driven",
+        "long-running",
+        "openclaw",
+        "python",
+        "task-execution",
+        "workflow"
+      ],
+      "created_at": "2026-03-20"
+    },
+    {
+      "source": "github",
       "id": "l497996153/AI-RPG-Engine",
       "title": "AI-RPG-Engine",
       "url": "https://github.com/l497996153/AI-RPG-Engine",
@@ -1267,29 +1290,6 @@
         "vtt"
       ],
       "created_at": "2026-03-21"
-    },
-    {
-      "source": "github",
-      "id": "AIPMAndy/goskill",
-      "title": "goskill",
-      "url": "https://github.com/AIPMAndy/goskill",
-      "description": "🎯 Goal-driven execution helper for long-running tasks and explicit success criteria",
-      "stars": 11,
-      "forks": 1,
-      "language": "Python",
-      "topics": [
-        "agents",
-        "ai",
-        "automation",
-        "developer-tools",
-        "goal-driven",
-        "long-running",
-        "openclaw",
-        "python",
-        "task-execution",
-        "workflow"
-      ],
-      "created_at": "2026-03-20"
     },
     {
       "source": "github",
