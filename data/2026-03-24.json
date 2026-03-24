@@ -25,7 +25,7 @@
       "title": "ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
-      "stars": 413,
+      "stars": 414,
       "forks": 71,
       "language": "Python",
       "topics": [
@@ -58,7 +58,7 @@
       "title": "opencode-claude-auth",
       "url": "https://github.com/griffinmartin/opencode-claude-auth",
       "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed",
-      "stars": 396,
+      "stars": 397,
       "forks": 34,
       "language": "TypeScript",
       "topics": [
@@ -82,7 +82,7 @@
       "title": "desktop",
       "url": "https://github.com/openyak/desktop",
       "description": "Yak is all you need",
-      "stars": 261,
+      "stars": 262,
       "forks": 38,
       "language": "Python",
       "topics": [
@@ -255,7 +255,7 @@
       "title": "pattern8",
       "url": "https://github.com/Aquifer-sea/pattern8",
       "description": "🎱 AI Agent Governance Framework — Constrain how AI Agents behave in your project. pip install pattern8",
-      "stars": 100,
+      "stars": 99,
       "forks": 2,
       "language": "Python",
       "topics": [
@@ -1215,7 +1215,7 @@
       "title": "SRSA",
       "url": "https://github.com/cheanus/SRSA",
       "description": "The Spaced Repetition Systems for Agents",
-      "stars": 12,
+      "stars": 13,
       "forks": 1,
       "language": "Python",
       "topics": [
@@ -1434,6 +1434,175 @@
       "created_at": "2026-03-20"
     }
   ],
-  "huggingface": [],
+  "huggingface": [
+    {
+      "source": "huggingface",
+      "id": "mlx-community/Qwen3.5-27B-4bit-DWQ",
+      "title": "Qwen3.5-27B-4bit-DWQ",
+      "url": "https://huggingface.co/mlx-community/Qwen3.5-27B-4bit-DWQ",
+      "description": "text-generation",
+      "likes": 4,
+      "downloads": 0,
+      "tags": [
+        "mlx",
+        "safetensors",
+        "qwen3_5",
+        "text-generation",
+        "conversational",
+        "en",
+        "4-bit",
+        "region:us"
+      ],
+      "pipeline_tag": "text-generation",
+      "created_at": "2026-03-24"
+    },
+    {
+      "source": "huggingface",
+      "id": "alvdansen/illustration-1.0-flux-dev",
+      "title": "illustration-1.0-flux-dev",
+      "url": "https://huggingface.co/alvdansen/illustration-1.0-flux-dev",
+      "description": "text-to-image",
+      "likes": 1,
+      "downloads": 0,
+      "tags": [
+        "peft",
+        "flux",
+        "lora",
+        "illustration",
+        "anime",
+        "style",
+        "text-to-image",
+        "bande-dessinee",
+        "graphic-novel",
+        "risograph"
+      ],
+      "pipeline_tag": "text-to-image",
+      "created_at": "2026-03-24"
+    },
+    {
+      "source": "huggingface",
+      "id": "DavidAU/Qwen3.5-9B-Claude-4.6-Opus-Deckard-V4.2-Uncensored-Heretic-Thinking-GGUF",
+      "title": "Qwen3.5-9B-Claude-4.6-Opus-Deckard-V4.2-Uncensored-Heretic-Thinking-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.5-9B-Claude-4.6-Opus-Deckard-V4.2-Uncensored-Heretic-Thinking-GGUF",
+      "description": "image-text-to-text",
+      "likes": 1,
+      "downloads": 0,
+      "tags": [
+        "gguf",
+        "fine tune",
+        "creative",
+        "creative writing",
+        "fiction writing",
+        "plot generation",
+        "sub-plot generation",
+        "story generation",
+        "scene continue",
+        "storytelling"
+      ],
+      "pipeline_tag": "image-text-to-text",
+      "created_at": "2026-03-24"
+    },
+    {
+      "source": "huggingface",
+      "id": "anan19990108/yolov5s_tflite",
+      "title": "yolov5s_tflite",
+      "url": "https://huggingface.co/anan19990108/yolov5s_tflite",
+      "description": "object-detection",
+      "likes": 1,
+      "downloads": 0,
+      "tags": [
+        "tflite",
+        "yolov5",
+        "object-detection",
+        "edge-ai",
+        "qualcomm",
+        "android",
+        "base_model:Ultralytics/YOLOv5",
+        "base_model:finetune:Ultralytics/YOLOv5",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "pipeline_tag": "object-detection",
+      "created_at": "2026-03-24"
+    },
+    {
+      "source": "huggingface",
+      "id": "XiaoyanLi/GooGooLM",
+      "title": "GooGooLM",
+      "url": "https://huggingface.co/XiaoyanLi/GooGooLM",
+      "description": "",
+      "likes": 1,
+      "downloads": 0,
+      "tags": [
+        "region:us"
+      ],
+      "pipeline_tag": "",
+      "created_at": "2026-03-24"
+    },
+    {
+      "source": "huggingface",
+      "id": "Madras1/Jade8b-GGUF",
+      "title": "Jade8b-GGUF",
+      "url": "https://huggingface.co/Madras1/Jade8b-GGUF",
+      "description": "text-generation",
+      "likes": 1,
+      "downloads": 0,
+      "tags": [
+        "transformers",
+        "gguf",
+        "pt-br",
+        "portuguese",
+        "brazilian-portuguese",
+        "conversational",
+        "chatbot",
+        "persona",
+        "qwen2",
+        "qwen2.5"
+      ],
+      "pipeline_tag": "text-generation",
+      "created_at": "2026-03-24"
+    },
+    {
+      "source": "huggingface",
+      "id": "rahul7star/Math-AI-Full",
+      "title": "Math-AI-Full",
+      "url": "https://huggingface.co/rahul7star/Math-AI-Full",
+      "description": "image-text-to-text",
+      "likes": 1,
+      "downloads": 0,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gguf",
+        "qwen3_5",
+        "image-text-to-text",
+        "text-generation-inference",
+        "hindi",
+        "science in hindi",
+        "science",
+        "indian languages"
+      ],
+      "pipeline_tag": "image-text-to-text",
+      "created_at": "2026-03-24"
+    },
+    {
+      "source": "huggingface",
+      "id": "allenai/MolmoBot-SPOC-FR3PickPlace",
+      "title": "MolmoBot-SPOC-FR3PickPlace",
+      "url": "https://huggingface.co/allenai/MolmoBot-SPOC-FR3PickPlace",
+      "description": "",
+      "likes": 1,
+      "downloads": 0,
+      "tags": [
+        "safetensors",
+        "dataset:allenai/molmobot-data",
+        "arxiv:2603.16861",
+        "license:other",
+        "region:us"
+      ],
+      "pipeline_tag": "",
+      "created_at": "2026-03-23"
+    }
+  ],
   "arxiv": []
 }

@@ -7,13 +7,13 @@
 | 소스 | 수집 건수 | 기준 |
 |:---:|:---:|:---|
 | 🐙 GitHub | **30** | ⭐ 10+ stars |
-| 🤗 HuggingFace | **0** | ❤️ 5+ likes |
+| 🤗 HuggingFace | **8** | ❤️ 5+ likes |
 | 📄 arXiv | **0** | cs.AI / cs.LG / cs.CL / cs.CV |
 
 ## 📌 목차
 
 - [🐙 GitHub Trending (30)](#-github-trending)
-- [🤗 HuggingFace Trending (0)](#-huggingface-trending)
+- [🤗 HuggingFace Trending (8)](#-huggingface-trending)
 - [📄 arXiv Papers (0)](#-arxiv-papers)
 
 ---
@@ -52,7 +52,7 @@
 <details>
 <summary>
   <b>2. <a href="https://github.com/rohitg00/ai-engineering-from-scratch">ai-engineering-from-scratch</a></b>
-  &nbsp; ⭐ <b>413</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  &nbsp; ⭐ <b>414</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </summary>
 
 <br>
@@ -67,7 +67,7 @@
 |---|---|
 | 📅 생성일 | `2026-03-18` |
 | 💻 언어 | `Python` |
-| ⭐ Stars | `413` |
+| ⭐ Stars | `414` |
 | 🍴 Forks | `71` |
 
 **🏷 토픽:** `agents` `ai` `ai-agents` `ai-engineering` `computer-vision`
@@ -79,7 +79,7 @@
 <details>
 <summary>
   <b>3. <a href="https://github.com/griffinmartin/opencode-claude-auth">opencode-claude-auth</a></b>
-  &nbsp; ⭐ <b>396</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  &nbsp; ⭐ <b>397</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 </summary>
 
 <br>
@@ -94,7 +94,7 @@
 |---|---|
 | 📅 생성일 | `2026-03-19` |
 | 💻 언어 | `TypeScript` |
-| ⭐ Stars | `396` |
+| ⭐ Stars | `397` |
 | 🍴 Forks | `34` |
 
 **🏷 토픽:** `ai` `anthropic` `authentication` `claude` `claude-code`
@@ -106,7 +106,7 @@
 <details>
 <summary>
   <b>4. <a href="https://github.com/openyak/desktop">desktop</a></b>
-  &nbsp; ⭐ <b>261</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  &nbsp; ⭐ <b>262</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </summary>
 
 <br>
@@ -121,7 +121,7 @@
 |---|---|
 | 📅 생성일 | `2026-03-20` |
 | 💻 언어 | `Python` |
-| ⭐ Stars | `261` |
+| ⭐ Stars | `262` |
 | 🍴 Forks | `38` |
 
 **🏷 토픽:** `agent` `agentic-ai` `desktop-application` `llm` `local`
@@ -295,7 +295,7 @@
 <details>
 <summary>
   <b>11. <a href="https://github.com/Aquifer-sea/pattern8">pattern8</a></b>
-  &nbsp; ⭐ <b>100</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  &nbsp; ⭐ <b>99</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </summary>
 
 <br>
@@ -310,7 +310,7 @@
 |---|---|
 | 📅 생성일 | `2026-03-20` |
 | 💻 언어 | `Python` |
-| ⭐ Stars | `100` |
+| ⭐ Stars | `99` |
 | 🍴 Forks | `2` |
 
 **🏷 토픽:** `agent` `ai` `ai-safety` `claude` `cursor`
@@ -837,6 +837,222 @@
 ## 🤗 HuggingFace Trending
 
 > ❤️ **5+ likes** · 최근 7일 등록 · likes 내림차순
+
+<details>
+<summary>
+  <b>1. <a href="https://huggingface.co/mlx-community/Qwen3.5-27B-4bit-DWQ">Qwen3.5-27B-4bit-DWQ</a></b>
+  &nbsp; ❤️ <b>4</b> &nbsp; ⬇️ 0
+</summary>
+
+<br>
+
+**📝 설명**
+> text-generation
+
+
+ 
+
+| | |
+|---|---|
+| 📅 등록일 | `2026-03-24` |
+| 🔧 파이프라인 | `text-generation` |
+| ❤️ Likes | `4` |
+| ⬇️ Downloads | `0` |
+
+**🏷 태그:** `mlx` `safetensors` `qwen3_5` `text-generation` `conversational`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>2. <a href="https://huggingface.co/alvdansen/illustration-1.0-flux-dev">illustration-1.0-flux-dev</a></b>
+  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
+</summary>
+
+<br>
+
+**📝 설명**
+> text-to-image
+
+
+ 
+
+| | |
+|---|---|
+| 📅 등록일 | `2026-03-24` |
+| 🔧 파이프라인 | `text-to-image` |
+| ❤️ Likes | `1` |
+| ⬇️ Downloads | `0` |
+
+**🏷 태그:** `peft` `flux` `lora` `illustration` `anime`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>3. <a href="https://huggingface.co/DavidAU/Qwen3.5-9B-Claude-4.6-Opus-Deckard-V4.2-Uncensored-Heretic-Thinking-GGUF">Qwen3.5-9B-Claude-4.6-Opus-Deckard-V4.2-Uncensored-Heretic-Thinking-GGUF</a></b>
+  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
+</summary>
+
+<br>
+
+**📝 설명**
+> image-text-to-text
+
+
+ 
+
+| | |
+|---|---|
+| 📅 등록일 | `2026-03-24` |
+| 🔧 파이프라인 | `image-text-to-text` |
+| ❤️ Likes | `1` |
+| ⬇️ Downloads | `0` |
+
+**🏷 태그:** `gguf` `fine tune` `creative` `creative writing` `fiction writing`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>4. <a href="https://huggingface.co/anan19990108/yolov5s_tflite">yolov5s_tflite</a></b>
+  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
+</summary>
+
+<br>
+
+**📝 설명**
+> object-detection
+
+
+ 
+
+| | |
+|---|---|
+| 📅 등록일 | `2026-03-24` |
+| 🔧 파이프라인 | `object-detection` |
+| ❤️ Likes | `1` |
+| ⬇️ Downloads | `0` |
+
+**🏷 태그:** `tflite` `yolov5` `object-detection` `edge-ai` `qualcomm`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>5. <a href="https://huggingface.co/XiaoyanLi/GooGooLM">GooGooLM</a></b>
+  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
+</summary>
+
+<br>
+
+**📝 설명**
+> _설명 없음_
+
+
+ 
+
+| | |
+|---|---|
+| 📅 등록일 | `2026-03-24` |
+| 🔧 파이프라인 | `N/A` |
+| ❤️ Likes | `1` |
+| ⬇️ Downloads | `0` |
+
+**🏷 태그:** `region:us`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>6. <a href="https://huggingface.co/Madras1/Jade8b-GGUF">Jade8b-GGUF</a></b>
+  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
+</summary>
+
+<br>
+
+**📝 설명**
+> text-generation
+
+
+ 
+
+| | |
+|---|---|
+| 📅 등록일 | `2026-03-24` |
+| 🔧 파이프라인 | `text-generation` |
+| ❤️ Likes | `1` |
+| ⬇️ Downloads | `0` |
+
+**🏷 태그:** `transformers` `gguf` `pt-br` `portuguese` `brazilian-portuguese`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>7. <a href="https://huggingface.co/rahul7star/Math-AI-Full">Math-AI-Full</a></b>
+  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
+</summary>
+
+<br>
+
+**📝 설명**
+> image-text-to-text
+
+
+ 
+
+| | |
+|---|---|
+| 📅 등록일 | `2026-03-24` |
+| 🔧 파이프라인 | `image-text-to-text` |
+| ❤️ Likes | `1` |
+| ⬇️ Downloads | `0` |
+
+**🏷 태그:** `transformers` `safetensors` `gguf` `qwen3_5` `image-text-to-text`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>8. <a href="https://huggingface.co/allenai/MolmoBot-SPOC-FR3PickPlace">MolmoBot-SPOC-FR3PickPlace</a></b>
+  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
+</summary>
+
+<br>
+
+**📝 설명**
+> _설명 없음_
+
+
+ 
+
+| | |
+|---|---|
+| 📅 등록일 | `2026-03-23` |
+| 🔧 파이프라인 | `N/A` |
+| ❤️ Likes | `1` |
+| ⬇️ Downloads | `0` |
+
+**🏷 태그:** `safetensors` `dataset:allenai/molmobot-data` `arxiv:2603.16861` `license:other` `region:us`
+
+&nbsp;
+
+</details>
 
 ---
 
