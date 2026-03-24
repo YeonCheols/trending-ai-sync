@@ -28,7 +28,7 @@ jobs:
 
       - name: Collect data
         env:
-          GH_TOKEN: ${{ secrets.WORK_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
         run: python scripts/collect.py
 
       - name: Summarize with OpenAI
