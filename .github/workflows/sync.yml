@@ -31,15 +31,18 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: python scripts/collect.py
 
-      - name: Summarize with OpenAI
+      - name: Clone and analyze top 5 repos
         env:
+          GH_TOKEN: ${{ secrets.WORK_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python scripts/summarize.py
+        run: python scripts/clone_repos.py
 
       - name: Generate README
         run: python scripts/generate_readme.py
 
       - name: Commit and push
+        env:
+          GH_TOKEN: ${{ secrets.WORK_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

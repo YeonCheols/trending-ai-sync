@@ -84,11 +84,12 @@ def collect_github() -> list[dict]:
 def collect_huggingface() -> list[dict]:
     models: list[dict] = []
     try:
+        # trending 순으로 가져온 뒤 날짜 필터 적용 (신규 모델은 likes가 적어 createdAt 정렬로는 매칭 안 됨)
         url = (
             "https://huggingface.co/api/models"
-            "?sort=createdAt&direction=-1&limit=200&full=true"
+            "?sort=trending&limit=500&full=true"
         )
-        r = requests.get(url, timeout=20)
+        r = requests.get(url, timeout=30)
         if r.status_code != 200:
             print(f"  [HuggingFace] API {r.status_code}")
             return []
@@ -123,19 +124,27 @@ def collect_huggingface() -> list[dict]:
 
 def collect_arxiv() -> list[dict]:
     papers: list[dict] = []
-    since_str = (TODAY - timedelta(days=7)).strftime("%Y%m%d")
-    cats = "cat:cs.AI+OR+cat:cs.LG+OR+cat:cs.CL+OR+cat:cs.CV"
-    query = f"({cats})+AND+submittedDate:[{since_str}0000+TO+*]"
+    # 날짜 필터를 URL에 넣지 않고 Python에서 처리 (특수문자 인코딩 문제 방지)
+    query = urllib.parse.quote("cat:cs.AI OR cat:cs.LG OR cat:cs.CL OR cat:cs.CV")
     url = (
-        f"http://export.arxiv.org/api/query"
-        f"?search_query={query}&start=0&max_results=50"
+        f"https://export.arxiv.org/api/query"
+        f"?search_query={query}&start=0&max_results=100"
         f"&sortBy=submittedDate&sortOrder=descending"
     )
+    for attempt in range(3):
+        try:
+            r = requests.get(url, timeout=20)
+            if r.status_code == 200:
+                break
+            print(f"  [arXiv] API {r.status_code} (attempt {attempt + 1}/3)")
+            time.sleep(5 * (attempt + 1))
+        except requests.exceptions.RequestException as e:
+            print(f"  [arXiv] Error (attempt {attempt + 1}/3): {e}")
+            time.sleep(5 * (attempt + 1))
+    else:
+        return []
+
     try:
-        r = requests.get(url, timeout=20)
-        if r.status_code != 200:
-            print(f"  [arXiv] API {r.status_code}")
-            return []
 
         ns = {"atom": "http://www.w3.org/2005/Atom"}
         root = ET.fromstring(r.text)
@@ -147,6 +156,11 @@ def collect_arxiv() -> list[dict]:
             published_el = entry.find("atom:published", ns)
 
             if not all([title_el, summary_el, id_el, published_el]):
+                continue
+
+            # 날짜 필터: 7일 이내 게재된 논문만
+            published = published_el.text[:10]
+            if published < SINCE:
                 continue
 
             authors = [
@@ -168,10 +182,10 @@ def collect_arxiv() -> list[dict]:
                 "abstract": summary_el.text.strip().replace("\n", " ")[:800],
                 "authors": authors,
                 "categories": categories,
-                "published": published_el.text[:10],
+                "published": published,
             })
-    except (requests.exceptions.RequestException, ET.ParseError) as e:
-        print(f"  [arXiv] Error: {e}")
+    except ET.ParseError as e:
+        print(f"  [arXiv] Parse error: {e}")
 
     return papers
 

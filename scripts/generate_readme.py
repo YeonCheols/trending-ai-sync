@@ -2,9 +2,11 @@
 latest.json을 읽어 카드형 README.md를 생성합니다.
 """
 import json
+import os
 
 DATA_DIR = "data"
 LATEST_PATH = f"{DATA_DIR}/latest.json"
+FORKED_PATH = f"{DATA_DIR}/forked.json"
 
 TOP_GITHUB = 30
 TOP_HF = 20
@@ -159,7 +161,7 @@ def generate() -> None:
     lines.append("# 🤖 Trending AI Sync\n")
     lines.append(
         "> 최근 7일간 생성된 AI 프로젝트를 **매일 09:00 KST** 자동으로 수집하고 "
-        "**Claude**가 한국어로 요약합니다.\n"
+        "**GPT-4o**가 한국어로 분석합니다.\n"
     )
     lines.append(
         f"**수집일:** `{collected_at}` &nbsp;|&nbsp; "
@@ -174,12 +176,37 @@ def generate() -> None:
     lines.append(f"| 📄 arXiv | **{len(arxiv_items)}** | cs.AI / cs.LG / cs.CL / cs.CV |")
     lines.append("")
 
+    # ── 클론된 레포 목록 ──────────────────────────────────────────────────────
+    forked: dict = {}
+    if os.path.exists(FORKED_PATH):
+        with open(FORKED_PATH, "r", encoding="utf-8") as f:
+            forked = json.load(f)
+
     # ── TOC ───────────────────────────────────────────────────────────────────
     lines.append("## 📌 목차\n")
+    if forked:
+        lines.append(f"- [🔬 AI 분석 레포 ({len(forked)})](#-ai-분석-레포)")
     lines.append(f"- [🐙 GitHub Trending ({len(github_items)})](#-github-trending)")
     lines.append(f"- [🤗 HuggingFace Trending ({len(hf_items)})](#-huggingface-trending)")
     lines.append(f"- [📄 arXiv Papers ({len(arxiv_items)})](#-arxiv-papers)")
     lines.append("")
+
+    # ── 클론 & 분석된 레포 섹션 ──────────────────────────────────────────────
+    if forked:
+        lines.append("---\n")
+        lines.append("## 🔬 AI 분석 레포\n")
+        lines.append("> 매일 상위 5개 레포를 clone하고 GPT-4o가 분석한 `ANALYSIS.md`를 추가합니다.\n")
+        lines.append("| # | 레포 | 원본 Stars | 분석 날짜 |")
+        lines.append("|:---:|---|:---:|:---:|")
+        for i, (src_id, info) in enumerate(
+            sorted(forked.items(), key=lambda x: x[1].get("synced_at", ""), reverse=True), 1
+        ):
+            title = info.get("title", src_id.split("/")[-1])
+            repo_url = info.get("repo_url", "")
+            stars = f"{info.get('stars', 0):,}"
+            synced_at = info.get("synced_at", "")
+            lines.append(f"| {i} | [**{title}**]({repo_url}) | ⭐ {stars} | `{synced_at}` |")
+        lines.append("")
 
     # ── GitHub ────────────────────────────────────────────────────────────────
     lines.append("---\n")
