@@ -24,7 +24,7 @@ SINCE = (TODAY - timedelta(days=7)).isoformat()
 DATA_DIR = "data"
 
 GITHUB_MIN_STARS = 10
-HF_MIN_LIKES = 5
+HF_MIN_LIKES = 1
 
 GITHUB_TOPICS = [
     "llm", "large-language-model", "generative-ai", "ai",
@@ -84,10 +84,10 @@ def collect_github() -> list[dict]:
 def collect_huggingface() -> list[dict]:
     models: list[dict] = []
     try:
-        # trending 순으로 가져온 뒤 날짜 필터 적용 (신규 모델은 likes가 적어 createdAt 정렬로는 매칭 안 됨)
+        # createdAt 내림차순으로 1000개 가져온 뒤 likes 필터 적용
         url = (
             "https://huggingface.co/api/models"
-            "?sort=trending&limit=500&full=true"
+            "?sort=createdAt&direction=-1&limit=1000&full=true"
         )
         r = requests.get(url, timeout=30)
         if r.status_code != 200:
@@ -125,10 +125,12 @@ def collect_huggingface() -> list[dict]:
 def collect_arxiv() -> list[dict]:
     papers: list[dict] = []
     # 날짜 필터를 URL에 넣지 않고 Python에서 처리 (특수문자 인코딩 문제 방지)
+    # arXiv는 주말/공휴일 미게재 → 14일치 가져와서 7일치 필터링
+    arxiv_since = (TODAY - timedelta(days=14)).isoformat()
     query = urllib.parse.quote("cat:cs.AI OR cat:cs.LG OR cat:cs.CL OR cat:cs.CV")
     url = (
         f"https://export.arxiv.org/api/query"
-        f"?search_query={query}&start=0&max_results=100"
+        f"?search_query={query}&start=0&max_results=200"
         f"&sortBy=submittedDate&sortOrder=descending"
     )
     for attempt in range(3):
@@ -158,9 +160,9 @@ def collect_arxiv() -> list[dict]:
             if not all([title_el, summary_el, id_el, published_el]):
                 continue
 
-            # 날짜 필터: 7일 이내 게재된 논문만
+            # 날짜 필터: 14일치 수집 후 7일치만 통과
             published = published_el.text[:10]
-            if published < SINCE:
+            if published < arxiv_since:
                 continue
 
             authors = [
