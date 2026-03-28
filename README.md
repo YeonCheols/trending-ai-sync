@@ -2,19 +2,19 @@
 
 > 최근 7일간 생성된 AI 프로젝트를 **매일 09:00 KST** 자동으로 수집하고 **GPT-4o**가 한국어로 분석합니다.
 
-**수집일:** `2026-03-25` &nbsp;|&nbsp; **수집 기준:** `2026-03-18` 이후
+**수집일:** `2026-03-28` &nbsp;|&nbsp; **수집 기준:** `2026-03-21` 이후
 
 | 소스 | 수집 건수 | 기준 |
 |:---:|:---:|:---|
 | 🐙 GitHub | **30** | ⭐ 10+ stars |
-| 🤗 HuggingFace | **3** | ❤️ 5+ likes |
+| 🤗 HuggingFace | **6** | ❤️ 5+ likes |
 | 📄 arXiv | **0** | cs.AI / cs.LG / cs.CL / cs.CV |
 
 ## 📌 목차
 
-- [🔬 AI 분석 레포 (10)](#-ai-분석-레포)
+- [🔬 AI 분석 레포 (15)](#-ai-분석-레포)
 - [🐙 GitHub Trending (30)](#-github-trending)
-- [🤗 HuggingFace Trending (3)](#-huggingface-trending)
+- [🤗 HuggingFace Trending (6)](#-huggingface-trending)
 - [📄 arXiv Papers (0)](#-arxiv-papers)
 
 ---
@@ -25,16 +25,21 @@
 
 | # | 레포 | 원본 Stars | 분석 날짜 |
 |:---:|---|:---:|:---:|
-| 1 | [**awesome-autoresearch**](https://github.com/YeonCheols/ai-sync-awesome-autoresearch) | ⭐ 256 | `2026-03-25` |
-| 2 | [**cc-skills-golang**](https://github.com/YeonCheols/ai-sync-cc-skills-golang) | ⭐ 247 | `2026-03-25` |
-| 3 | [**ai-engineering-interview-questions**](https://github.com/YeonCheols/ai-sync-ai-engineering-interview-questions) | ⭐ 237 | `2026-03-25` |
-| 4 | [**agent-flow**](https://github.com/YeonCheols/ai-sync-agent-flow) | ⭐ 191 | `2026-03-25` |
-| 5 | [**katmer-code**](https://github.com/YeonCheols/ai-sync-katmer-code) | ⭐ 142 | `2026-03-25` |
-| 6 | [**chops**](https://github.com/YeonCheols/ai-sync-chops) | ⭐ 530 | `2026-03-24` |
-| 7 | [**ai-engineering-from-scratch**](https://github.com/YeonCheols/ai-sync-ai-engineering-from-scratch) | ⭐ 414 | `2026-03-24` |
-| 8 | [**opencode-claude-auth**](https://github.com/YeonCheols/ai-sync-opencode-claude-auth) | ⭐ 397 | `2026-03-24` |
-| 9 | [**desktop**](https://github.com/YeonCheols/ai-sync-desktop) | ⭐ 262 | `2026-03-24` |
-| 10 | [**awesome-free-llm-apis**](https://github.com/YeonCheols/ai-sync-awesome-free-llm-apis) | ⭐ 239 | `2026-03-24` |
+| 1 | [**awesome-opensource-ai**](https://github.com/YeonCheols/ai-sync-awesome-opensource-ai) | ⭐ 1,467 | `2026-03-28` |
+| 2 | [**HolyClaude**](https://github.com/YeonCheols/ai-sync-HolyClaude) | ⭐ 973 | `2026-03-28` |
+| 3 | [**lean-ctx**](https://github.com/YeonCheols/ai-sync-lean-ctx) | ⭐ 269 | `2026-03-28` |
+| 4 | [**t1code**](https://github.com/YeonCheols/ai-sync-t1code) | ⭐ 197 | `2026-03-28` |
+| 5 | [**transformer-vm**](https://github.com/YeonCheols/ai-sync-transformer-vm) | ⭐ 153 | `2026-03-28` |
+| 6 | [**awesome-autoresearch**](https://github.com/YeonCheols/ai-sync-awesome-autoresearch) | ⭐ 256 | `2026-03-25` |
+| 7 | [**cc-skills-golang**](https://github.com/YeonCheols/ai-sync-cc-skills-golang) | ⭐ 247 | `2026-03-25` |
+| 8 | [**ai-engineering-interview-questions**](https://github.com/YeonCheols/ai-sync-ai-engineering-interview-questions) | ⭐ 237 | `2026-03-25` |
+| 9 | [**agent-flow**](https://github.com/YeonCheols/ai-sync-agent-flow) | ⭐ 191 | `2026-03-25` |
+| 10 | [**katmer-code**](https://github.com/YeonCheols/ai-sync-katmer-code) | ⭐ 142 | `2026-03-25` |
+| 11 | [**chops**](https://github.com/YeonCheols/ai-sync-chops) | ⭐ 530 | `2026-03-24` |
+| 12 | [**ai-engineering-from-scratch**](https://github.com/YeonCheols/ai-sync-ai-engineering-from-scratch) | ⭐ 414 | `2026-03-24` |
+| 13 | [**opencode-claude-auth**](https://github.com/YeonCheols/ai-sync-opencode-claude-auth) | ⭐ 397 | `2026-03-24` |
+| 14 | [**desktop**](https://github.com/YeonCheols/ai-sync-desktop) | ⭐ 262 | `2026-03-24` |
+| 15 | [**awesome-free-llm-apis**](https://github.com/YeonCheols/ai-sync-awesome-free-llm-apis) | ⭐ 239 | `2026-03-24` |
 
 ---
 
@@ -44,53 +49,26 @@
 
 <details>
 <summary>
-  <b>1. <a href="https://github.com/griffinmartin/opencode-claude-auth">opencode-claude-auth</a></b>
-  &nbsp; ⭐ <b>452</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  <b>1. <a href="https://github.com/alvinunreal/awesome-opensource-ai">awesome-opensource-ai</a></b>
+  &nbsp; ⭐ <b>1,467</b> &nbsp; 
 </summary>
 
 <br>
 
 **📝 설명**
-> OpenCode plugin that uses your existing Claude Code credentials — no separate login needed
+> Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 
 
  
 
 | | |
 |---|---|
-| 📅 생성일 | `2026-03-19` |
-| 💻 언어 | `TypeScript` |
-| ⭐ Stars | `452` |
-| 🍴 Forks | `38` |
-
-**🏷 토픽:** `ai` `anthropic` `authentication` `claude` `claude-code`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>2. <a href="https://github.com/mnfst/awesome-free-llm-apis">awesome-free-llm-apis</a></b>
-  &nbsp; ⭐ <b>444</b> &nbsp; 
-</summary>
-
-<br>
-
-**📝 설명**
-> Permanent Free LLM API List (API Keys) 😎🔑
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-03-21` |
+| 📅 생성일 | `2026-03-24` |
 | 💻 언어 | `N/A` |
-| ⭐ Stars | `444` |
-| 🍴 Forks | `19` |
+| ⭐ Stars | `1,467` |
+| 🍴 Forks | `109` |
 
-**🏷 토픽:** `ai-agents` `anthropic` `gemini` `llm` `llm-router`
+**🏷 토픽:** `agents` `ai` `artificial-intelligence` `awesome` `awesome-list`
 
 &nbsp;
 
@@ -98,26 +76,26 @@
 
 <details>
 <summary>
-  <b>3. <a href="https://github.com/openyak/desktop">desktop</a></b>
-  &nbsp; ⭐ <b>277</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  <b>2. <a href="https://github.com/CoderLuii/HolyClaude">HolyClaude</a></b>
+  &nbsp; ⭐ <b>973</b> &nbsp; ![Dockerfile](https://img.shields.io/badge/-Dockerfile-888888?style=flat-square&logo=dockerfile&logoColor=white)
 </summary>
 
 <br>
 
 **📝 설명**
-> Yak is all you need
+> AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools
 
 
  
 
 | | |
 |---|---|
-| 📅 생성일 | `2026-03-20` |
-| 💻 언어 | `Python` |
-| ⭐ Stars | `277` |
-| 🍴 Forks | `38` |
+| 📅 생성일 | `2026-03-22` |
+| 💻 언어 | `Dockerfile` |
+| ⭐ Stars | `973` |
+| 🍴 Forks | `101` |
 
-**🏷 토픽:** `agent` `agentic-ai` `desktop-application` `llm` `local`
+**🏷 토픽:** `ai` `ai-coding` `anthropic` `claude` `claude-code`
 
 &nbsp;
 
@@ -125,8 +103,8 @@
 
 <details>
 <summary>
-  <b>4. <a href="https://github.com/WecoAI/awesome-autoresearch">awesome-autoresearch</a></b>
-  &nbsp; ⭐ <b>256</b> &nbsp; 
+  <b>3. <a href="https://github.com/WecoAI/awesome-autoresearch">awesome-autoresearch</a></b>
+  &nbsp; ⭐ <b>319</b> &nbsp; 
 </summary>
 
 <br>
@@ -141,8 +119,8 @@
 |---|---|
 | 📅 생성일 | `2026-03-22` |
 | 💻 언어 | `N/A` |
-| ⭐ Stars | `256` |
-| 🍴 Forks | `22` |
+| ⭐ Stars | `319` |
+| 🍴 Forks | `26` |
 
 **🏷 토픽:** `ai-agents` `ai-research` `automated-machine-learning` `autonomous-agents` `autoresearch`
 
@@ -152,278 +130,8 @@
 
 <details>
 <summary>
-  <b>5. <a href="https://github.com/samber/cc-skills-golang">cc-skills-golang</a></b>
-  &nbsp; ⭐ <b>247</b> &nbsp; ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> 🧑‍🎨 A collection of Golang agentic skills that works
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-03-21` |
-| 💻 언어 | `Go` |
-| ⭐ Stars | `247` |
-| 🍴 Forks | `8` |
-
-**🏷 토픽:** `agent` `agent-skills` `ai` `antigravity` `claude`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>6. <a href="https://github.com/amitshekhariitbhu/ai-engineering-interview-questions">ai-engineering-interview-questions</a></b>
-  &nbsp; ⭐ <b>237</b> &nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-888888?style=flat-square&logo=markdown&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> Your Cheat Sheet for AI Engineering Interview – Questions and Answers.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-03-21` |
-| 💻 언어 | `Markdown` |
-| ⭐ Stars | `237` |
-| 🍴 Forks | `64` |
-
-**🏷 토픽:** `agents` `ai` `ai-agents` `ai-engineering` `fine-tuning`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>7. <a href="https://github.com/patoles/agent-flow">agent-flow</a></b>
-  &nbsp; ⭐ <b>191</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-03-21` |
-| 💻 언어 | `TypeScript` |
-| ⭐ Stars | `191` |
-| 🍴 Forks | `26` |
-
-**🏷 토픽:** `agent-visualization` `ai-agents` `claude-code` `developer-tools` `llm`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>8. <a href="https://github.com/hkcanan/katmer-code">katmer-code</a></b>
-  &nbsp; ⭐ <b>142</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-03-22` |
-| 💻 언어 | `TypeScript` |
-| ⭐ Stars | `142` |
-| 🍴 Forks | `5` |
-
-**🏷 토픽:** `academic-research` `ai` `claude` `obsidian` `obsidian-plugin`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>9. <a href="https://github.com/luoling8192/ai-coding-principles">ai-coding-principles</a></b>
-  &nbsp; ⭐ <b>114</b> &nbsp; 
-</summary>
-
-<br>
-
-**📝 설명**
-> A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-03-22` |
-| 💻 언어 | `N/A` |
-| ⭐ Stars | `114` |
-| 🍴 Forks | `5` |
-
-**🏷 토픽:** `ai` `claude-code` `ddia` `skills`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>10. <a href="https://github.com/open-gitagent/clawless">clawless</a></b>
-  &nbsp; ⭐ <b>103</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-03-19` |
-| 💻 언어 | `TypeScript` |
-| ⭐ Stars | `103` |
-| 🍴 Forks | `21` |
-
-**🏷 토픽:** `agent-runtime` `ai` `ai-agents` `ai-sandbox` `audit-logging`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>11. <a href="https://github.com/Aquifer-sea/pattern8">pattern8</a></b>
-  &nbsp; ⭐ <b>99</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> 🎱 AI Agent Governance Framework — Constrain how AI Agents behave in your project. pip install pattern8
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-03-20` |
-| 💻 언어 | `Python` |
-| ⭐ Stars | `99` |
-| 🍴 Forks | `12` |
-
-**🏷 토픽:** `agent` `ai` `ai-safety` `claude` `cursor`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>12. <a href="https://github.com/Dominien/brunnfeld-agentic-world">brunnfeld-agentic-world</a></b>
-  &nbsp; ⭐ <b>90</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> Medieval village economy simulation — 20 LLM agents in a world driven by supply chains, hunger, tool degradation and market pressure. Agentic, brunnfeld, world.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-03-19` |
-| 💻 언어 | `TypeScript` |
-| ⭐ Stars | `90` |
-| 🍴 Forks | `14` |
-
-**🏷 토픽:** `agentic-ai` `agents` `generative-ai` `llm` `medieval`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>13. <a href="https://github.com/openmemind/memind">memind</a></b>
-  &nbsp; ⭐ <b>75</b> &nbsp; ![Java](https://img.shields.io/badge/-Java-B07219?style=flat-square&logo=java&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> Self-evolving cognitive memory for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-03-19` |
-| 💻 언어 | `Java` |
-| ⭐ Stars | `75` |
-| 🍴 Forks | `0` |
-
-**🏷 토픽:** `ai` `ai-agent` `ai-agents` `java` `memory`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>14. <a href="https://github.com/dubermandeer/Worm-GPT-LLM-2026">Worm-GPT-LLM-2026</a></b>
-  &nbsp; ⭐ <b>75</b> &nbsp; ![C++](https://img.shields.io/badge/-C++-F34B7D?style=flat-square&logo=c++&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> High-performance C++ execution engine for LLM red-teaming and prompt engineering. Deploy dynamic jailbreak payloads, bypass alignment guardrails, and utilize free autonomous uncensored conversational logic locally.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-03-21` |
-| 💻 언어 | `C++` |
-| ⭐ Stars | `75` |
-| 🍴 Forks | `0` |
-
-**🏷 토픽:** `adversarial-ai` `ai-safety` `blackhat-gpt` `cpp-framework` `cybersecurity`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>15. <a href="https://github.com/yvgude/lean-ctx">lean-ctx</a></b>
-  &nbsp; ⭐ <b>70</b> &nbsp; ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=white)
+  <b>4. <a href="https://github.com/yvgude/lean-ctx">lean-ctx</a></b>
+  &nbsp; ⭐ <b>269</b> &nbsp; ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=white)
 </summary>
 
 <br>
@@ -438,8 +146,8 @@
 |---|---|
 | 📅 생성일 | `2026-03-23` |
 | 💻 언어 | `Rust` |
-| ⭐ Stars | `70` |
-| 🍴 Forks | `9` |
+| ⭐ Stars | `269` |
+| 🍴 Forks | `41` |
 
 **🏷 토픽:** `agentic-coding` `ai` `claude-code` `cli` `compression`
 
@@ -449,26 +157,26 @@
 
 <details>
 <summary>
-  <b>16. <a href="https://github.com/addyosmani/agent-engineer">agent-engineer</a></b>
-  &nbsp; ⭐ <b>69</b> &nbsp; 
+  <b>5. <a href="https://github.com/maria-rcks/t1code">t1code</a></b>
+  &nbsp; ⭐ <b>197</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 </summary>
 
 <br>
 
 **📝 설명**
-> Agent Engineer - a practical course for software engineers
+> T3Code, but in your terminal
 
 
  
 
 | | |
 |---|---|
-| 📅 생성일 | `2026-03-19` |
-| 💻 언어 | `N/A` |
-| ⭐ Stars | `69` |
-| 🍴 Forks | `1` |
+| 📅 생성일 | `2026-03-25` |
+| 💻 언어 | `TypeScript` |
+| ⭐ Stars | `197` |
+| 🍴 Forks | `19` |
 
-**🏷 토픽:** `agentic-framework` `ai-agents` `generative-ai`
+**🏷 토픽:** `codex` `coding` `llm` `opentui` `t3code`
 
 &nbsp;
 
@@ -476,26 +184,53 @@
 
 <details>
 <summary>
-  <b>17. <a href="https://github.com/salvy9978/pls">pls</a></b>
-  &nbsp; ⭐ <b>59</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  <b>6. <a href="https://github.com/hkcanan/katmer-code">katmer-code</a></b>
+  &nbsp; ⭐ <b>197</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 </summary>
 
 <br>
 
 **📝 설명**
-> Just say what you want. In your terminal.
+> Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support
 
 
  
 
 | | |
 |---|---|
-| 📅 생성일 | `2026-03-21` |
+| 📅 생성일 | `2026-03-22` |
+| 💻 언어 | `TypeScript` |
+| ⭐ Stars | `197` |
+| 🍴 Forks | `9` |
+
+**🏷 토픽:** `academic-research` `ai` `claude` `obsidian` `obsidian-plugin`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>7. <a href="https://github.com/Percepta-Core/transformer-vm">transformer-vm</a></b>
+  &nbsp; ⭐ <b>153</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-03-25` |
 | 💻 언어 | `Python` |
-| ⭐ Stars | `59` |
-| 🍴 Forks | `7` |
+| ⭐ Stars | `153` |
+| 🍴 Forks | `24` |
 
-**🏷 토픽:** `ai` `cli` `command-line` `llm` `natural-language`
+**🏷 토픽:** `transformer` `turing-mac` `wasm`
 
 &nbsp;
 
@@ -503,8 +238,116 @@
 
 <details>
 <summary>
-  <b>18. <a href="https://github.com/robbiecalvin/codexmaster">codexmaster</a></b>
-  &nbsp; ⭐ <b>54</b> &nbsp; ![HTML](https://img.shields.io/badge/-HTML-888888?style=flat-square&logo=html&logoColor=white)
+  <b>8. <a href="https://github.com/luoling8192/ai-coding-principles">ai-coding-principles</a></b>
+  &nbsp; ⭐ <b>127</b> &nbsp; 
+</summary>
+
+<br>
+
+**📝 설명**
+> A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-03-22` |
+| 💻 언어 | `N/A` |
+| ⭐ Stars | `127` |
+| 🍴 Forks | `5` |
+
+**🏷 토픽:** `ai` `claude-code` `ddia` `skills`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>9. <a href="https://github.com/holaboss-ai/hola-boss-oss">hola-boss-oss</a></b>
+  &nbsp; ⭐ <b>101</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> OSS core runtime and desktop workspace stack for Holaboss
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-03-22` |
+| 💻 언어 | `TypeScript` |
+| ⭐ Stars | `101` |
+| 🍴 Forks | `17` |
+
+**🏷 토픽:** `ai` `holaboss`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>10. <a href="https://github.com/F-R-L/forge-film">forge-film</a></b>
+  &nbsp; ⭐ <b>97</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  "把影视生成的执行图从拓扑序变成关键路径最优调度" ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-03-24` |
+| 💻 언어 | `Python` |
+| ⭐ Stars | `97` |
+| 🍴 Forks | `2` |
+
+**🏷 토픽:** `ai` `ai-cinematography` `ai-filmmaking` `ai-video-generation` `cpm`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>11. <a href="https://github.com/UNLINEARITY/CLI-WeChat-Bridge">CLI-WeChat-Bridge</a></b>
+  &nbsp; ⭐ <b>83</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> 将AI命令行工具 以最为原生的方式，集成到微信 Clawbot 中，支持微信和本地终端线程共享、双向对话、将本地文件传输至微信。 目前支持集成 Codex（审批待完善）、Claude Code （非 Channels 模式，支持远程审批）。
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-03-23` |
+| 💻 언어 | `TypeScript` |
+| ⭐ Stars | `83` |
+| 🍴 Forks | `11` |
+
+**🏷 토픽:** `ai` `bot` `claude-code` `cli` `codex`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>12. <a href="https://github.com/robbiecalvin/codexmaster">codexmaster</a></b>
+  &nbsp; ⭐ <b>63</b> &nbsp; ![HTML](https://img.shields.io/badge/-HTML-888888?style=flat-square&logo=html&logoColor=white)
 </summary>
 
 <br>
@@ -519,8 +362,8 @@
 |---|---|
 | 📅 생성일 | `2026-03-22` |
 | 💻 언어 | `HTML` |
-| ⭐ Stars | `54` |
-| 🍴 Forks | `5` |
+| ⭐ Stars | `63` |
+| 🍴 Forks | `6` |
 
 **🏷 토픽:** `agentsmd` `ai` `ai-agent` `ai-coding` `ai-coding-tools`
 
@@ -530,26 +373,26 @@
 
 <details>
 <summary>
-  <b>19. <a href="https://github.com/matt-k-wong/mlx-flash">mlx-flash</a></b>
-  &nbsp; ⭐ <b>52</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  <b>13. <a href="https://github.com/oh-my-mermaid/oh-my-mermaid">oh-my-mermaid</a></b>
+  &nbsp; ⭐ <b>59</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 </summary>
 
 <br>
 
 **📝 설명**
-> Flash weight streaming for MLX: run massive models larger than your RAM on Apple Silicon.
+> Turn complex codebases into clear, navigable architecture diagrams with Claude Code.
 
 
  
 
 | | |
 |---|---|
-| 📅 생성일 | `2026-03-20` |
-| 💻 언어 | `Python` |
-| ⭐ Stars | `52` |
-| 🍴 Forks | `5` |
+| 📅 생성일 | `2026-03-22` |
+| 💻 언어 | `TypeScript` |
+| ⭐ Stars | `59` |
+| 🍴 Forks | `2` |
 
-**🏷 토픽:** `apple-silicon` `large-language-models` `llm` `llm-inference` `lm-studio`
+**🏷 토픽:** `ai` `architecture` `claude-code` `claude-code-skill` `cli`
 
 &nbsp;
 
@@ -557,8 +400,35 @@
 
 <details>
 <summary>
-  <b>20. <a href="https://github.com/ianho7/ai-friendly-web-design-skill">ai-friendly-web-design-skill</a></b>
-  &nbsp; ⭐ <b>45</b> &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+  <b>14. <a href="https://github.com/liyupi/free-video-downloader">free-video-downloader</a></b>
+  &nbsp; ⭐ <b>55</b> &nbsp; ![Vue](https://img.shields.io/badge/-Vue-888888?style=flat-square&logo=vue&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> 2026 年编程导航 AI 编程实战新项目，基于 Vue 3 + FastAPI + yt-dlp + DeepSeek + Stripe 的 AI 万能视频下载总结器，支持 1800+ 平台视频下载、AI 视频总结摘要、思维导图生成、AI 问答、字幕导出、Stripe 国际支付。覆盖 SSE 流式传输、JWT 认证、SEO/GEO 优化。用一套教程掌握 AI 编程全流程，从需求分析到商业变现，不到一周学完，给你的简历增加竞争力
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-03-23` |
+| 💻 언어 | `Vue` |
+| ⭐ Stars | `55` |
+| 🍴 Forks | `10` |
+
+**🏷 토픽:** `ai` `ai-agents` `ai-programming` `backend` `deepseek`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>15. <a href="https://github.com/ianho7/ai-friendly-web-design-skill">ai-friendly-web-design-skill</a></b>
+  &nbsp; ⭐ <b>51</b> &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 </summary>
 
 <br>
@@ -573,8 +443,8 @@
 |---|---|
 | 📅 생성일 | `2026-03-23` |
 | 💻 언어 | `JavaScript` |
-| ⭐ Stars | `45` |
-| 🍴 Forks | `0` |
+| ⭐ Stars | `51` |
+| 🍴 Forks | `1` |
 
 **🏷 토픽:** `agent` `agent-skills` `ai` `claude` `claude-code`
 
@@ -584,7 +454,115 @@
 
 <details>
 <summary>
-  <b>21. <a href="https://github.com/pharaongayd/Album-Formula-Ai-2026-Update">Album-Formula-Ai-2026-Update</a></b>
+  <b>16. <a href="https://github.com/alvinunreal/awesome-openclaw">awesome-openclaw</a></b>
+  &nbsp; ⭐ <b>49</b> &nbsp; 
+</summary>
+
+<br>
+
+**📝 설명**
+> A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-03-27` |
+| 💻 언어 | `N/A` |
+| ⭐ Stars | `49` |
+| 🍴 Forks | `5` |
+
+**🏷 토픽:** `ai` `ai-agents` `automation` `awesome` `awesome-list`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>17. <a href="https://github.com/jameslemon2002/research-idea-explorer">research-idea-explorer</a></b>
+  &nbsp; ⭐ <b>48</b> &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> Literature-grounded research idea exploration for CLI agents. 文献驱动的研究选题与方向探索工具。
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-03-23` |
+| 💻 언어 | `JavaScript` |
+| ⭐ Stars | `48` |
+| 🍴 Forks | `2` |
+
+**🏷 토픽:** `agent` `ai` `llm` `research`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>18. <a href="https://github.com/f/poke-gate">poke-gate</a></b>
+  &nbsp; ⭐ <b>43</b> &nbsp; ![Swift](https://img.shields.io/badge/-Swift-888888?style=flat-square&logo=swift&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> Expose your machine to your Poke AI assistant via MCP tunnel
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-03-23` |
+| 💻 언어 | `Swift` |
+| ⭐ Stars | `43` |
+| 🍴 Forks | `4` |
+
+**🏷 토픽:** `ai` `cli` `mcp` `os` `poke`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>19. <a href="https://github.com/tkalevra/SuperPowersWUI">SuperPowersWUI</a></b>
+  &nbsp; ⭐ <b>41</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> Open WebUI tool port of Superpowers by Jesse Vincent — brainstorm → spec → plan → execute agentic dev workflow for local LLMs
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-03-22` |
+| 💻 언어 | `Python` |
+| ⭐ Stars | `41` |
+| 🍴 Forks | `2` |
+
+**🏷 토픽:** `agentic` `llm` `lm-studio` `local-llm` `ollama`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>20. <a href="https://github.com/pharaongayd/Album-Formula-Ai-2026-Update">Album-Formula-Ai-2026-Update</a></b>
   &nbsp; ⭐ <b>41</b> &nbsp; 
 </summary>
 
@@ -611,41 +589,14 @@
 
 <details>
 <summary>
-  <b>22. <a href="https://github.com/liyupi/free-video-downloader">free-video-downloader</a></b>
-  &nbsp; ⭐ <b>41</b> &nbsp; ![Vue](https://img.shields.io/badge/-Vue-888888?style=flat-square&logo=vue&logoColor=white)
+  <b>21. <a href="https://github.com/lattice1992/Activity2Context-for-openclaw">Activity2Context-for-openclaw</a></b>
+  &nbsp; ⭐ <b>37</b> &nbsp; ![PowerShell](https://img.shields.io/badge/-PowerShell-888888?style=flat-square&logo=powershell&logoColor=white)
 </summary>
 
 <br>
 
 **📝 설명**
-> 2026 年编程导航 AI 编程实战新项目，基于 Vue 3 + FastAPI + yt-dlp + DeepSeek + Stripe 的 AI 万能视频下载总结器，支持 1800+ 平台视频下载、AI 视频总结摘要、思维导图生成、AI 问答、字幕导出、Stripe 国际支付。覆盖 SSE 流式传输、JWT 认证、SEO/GEO 优化。用一套教程掌握 AI 编程全流程，从需求分析到商业变现，不到一周学完，给你的简历增加竞争力
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-03-23` |
-| 💻 언어 | `Vue` |
-| ⭐ Stars | `41` |
-| 🍴 Forks | `8` |
-
-**🏷 토픽:** `ai` `ai-agents` `ai-programming` `backend` `deepseek`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>23. <a href="https://github.com/tkalevra/SuperPowersWUI">SuperPowersWUI</a></b>
-  &nbsp; ⭐ <b>36</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> Open WebUI tool port of Superpowers by Jesse Vincent — brainstorm → spec → plan → execute agentic dev workflow for local LLMs
+> Real-time context layer that converts user activity into actionable signals for OpenClaw.
 
 
  
@@ -653,11 +604,11 @@
 | | |
 |---|---|
 | 📅 생성일 | `2026-03-22` |
-| 💻 언어 | `Python` |
-| ⭐ Stars | `36` |
-| 🍴 Forks | `2` |
+| 💻 언어 | `PowerShell` |
+| ⭐ Stars | `37` |
+| 🍴 Forks | `11` |
 
-**🏷 토픽:** `agentic` `llm` `lm-studio` `local-llm` `ollama`
+**🏷 토픽:** `ai-agent` `context-awareness` `context-engineering` `context-injection` `llm`
 
 &nbsp;
 
@@ -665,8 +616,8 @@
 
 <details>
 <summary>
-  <b>24. <a href="https://github.com/kellyvv/WeiClaw">WeiClaw</a></b>
-  &nbsp; ⭐ <b>31</b> &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+  <b>22. <a href="https://github.com/kellyvv/WeiClaw">WeiClaw</a></b>
+  &nbsp; ⭐ <b>36</b> &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 </summary>
 
 <br>
@@ -681,7 +632,7 @@
 |---|---|
 | 📅 생성일 | `2026-03-22` |
 | 💻 언어 | `JavaScript` |
-| ⭐ Stars | `31` |
+| ⭐ Stars | `36` |
 | 🍴 Forks | `3` |
 
 **🏷 토픽:** `acp` `agent-protocol` `ai-agent` `ai-gateway` `chatbot`
@@ -692,95 +643,14 @@
 
 <details>
 <summary>
-  <b>25. <a href="https://github.com/CoderLuii/HolyClaude">HolyClaude</a></b>
-  &nbsp; ⭐ <b>29</b> &nbsp; ![Dockerfile](https://img.shields.io/badge/-Dockerfile-888888?style=flat-square&logo=dockerfile&logoColor=white)
+  <b>23. <a href="https://github.com/bahdotsh/indxr">indxr</a></b>
+  &nbsp; ⭐ <b>36</b> &nbsp; ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=white)
 </summary>
 
 <br>
 
 **📝 설명**
-> AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-03-22` |
-| 💻 언어 | `Dockerfile` |
-| ⭐ Stars | `29` |
-| 🍴 Forks | `5` |
-
-**🏷 토픽:** `ai` `ai-coding` `anthropic` `claude` `claude-code`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>26. <a href="https://github.com/UdaraJay/tiny-router">tiny-router</a></b>
-  &nbsp; ⭐ <b>28</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> Compact multi-head text classifier for short, domain-neutral routing decisions. 
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-03-19` |
-| 💻 언어 | `Python` |
-| ⭐ Stars | `28` |
-| 🍴 Forks | `6` |
-
-**🏷 토픽:** `intent-classification` `machine-learning` `nlp` `routing` `text-classification`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>27. <a href="https://github.com/yanght24/trt-trackbot">trt-trackbot</a></b>
-  &nbsp; ⭐ <b>27</b> &nbsp; ![C++](https://img.shields.io/badge/-C++-F34B7D?style=flat-square&logo=c++&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> trt-trackbot is a ROS 2 robotics project that demonstrates how to build a real-time, interactive multi-object tracking system on a GPU-accelerated embedded/laptop platform. It is designed for researchers and engineers who want a reproducible, benchmarkable baseline for visual tracking on TurtleBot3.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-03-22` |
-| 💻 언어 | `C++` |
-| ⭐ Stars | `27` |
-| 🍴 Forks | `0` |
-
-**🏷 토픽:** `ai` `ai-tools` `bytetrack` `cpp` `cpp20`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>28. <a href="https://github.com/f/poke-gate">poke-gate</a></b>
-  &nbsp; ⭐ <b>27</b> &nbsp; ![Swift](https://img.shields.io/badge/-Swift-888888?style=flat-square&logo=swift&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> Expose your machine to your Poke AI assistant via MCP tunnel
+> A fast codebase indexer and MCP server for AI coding agents.
 
 
  
@@ -788,11 +658,38 @@
 | | |
 |---|---|
 | 📅 생성일 | `2026-03-23` |
-| 💻 언어 | `Swift` |
-| ⭐ Stars | `27` |
+| 💻 언어 | `Rust` |
+| ⭐ Stars | `36` |
+| 🍴 Forks | `1` |
+
+**🏷 토픽:** `ai` `ai-agents` `claude-code` `mcp-server` `openai`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>24. <a href="https://github.com/OnlyTerp/turboquant">turboquant</a></b>
+  &nbsp; ⭐ <b>35</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> First open-source implementation of Google TurboQuant (ICLR 2026) -- near-optimal KV cache compression for LLM inference. 5x compression with near-zero quality loss.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-03-25` |
+| 💻 언어 | `Python` |
+| ⭐ Stars | `35` |
 | 🍴 Forks | `2` |
 
-**🏷 토픽:** `ai` `cli` `mcp` `os` `poke`
+**🏷 토픽:** `attention` `compression` `deep-learning` `google-research` `iclr`
 
 &nbsp;
 
@@ -800,26 +697,26 @@
 
 <details>
 <summary>
-  <b>29. <a href="https://github.com/PlateerLab/synaptic-memory">synaptic-memory</a></b>
-  &nbsp; ⭐ <b>23</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  <b>25. <a href="https://github.com/EESJGong/Graph-CAD">Graph-CAD</a></b>
+  &nbsp; ⭐ <b>35</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </summary>
 
 <br>
 
 **📝 설명**
-> Brain-inspired knowledge graph: spreading activation, Hebbian learning, memory consolidation.
+> Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD
 
 
  
 
 | | |
 |---|---|
-| 📅 생성일 | `2026-03-21` |
+| 📅 생성일 | `2026-03-26` |
 | 💻 언어 | `Python` |
-| ⭐ Stars | `23` |
-| 🍴 Forks | `0` |
+| ⭐ Stars | `35` |
+| 🍴 Forks | `6` |
 
-**🏷 토픽:** `ai-agent` `embedding` `graph-database` `hebbian-learning` `knowledge-graph`
+**🏷 토픽:** `3d-generation` `3d-modeling` `blender` `blender-python` `cad`
 
 &nbsp;
 
@@ -827,26 +724,134 @@
 
 <details>
 <summary>
-  <b>30. <a href="https://github.com/UNLINEARITY/CLI-WeChat-Bridge">CLI-WeChat-Bridge</a></b>
-  &nbsp; ⭐ <b>23</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  <b>26. <a href="https://github.com/kincoy/cc9s">cc9s</a></b>
+  &nbsp; ⭐ <b>35</b> &nbsp; ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 </summary>
 
 <br>
 
 **📝 설명**
-> 将AI 命令行工具 集成到微信 Clawbot 中 , 目前支持集成 Codex（审批待完善）、Claude Code （非 Channels 模式，支持远程审批）
+> A k9s-inspired CLI and TUI for managing Claude Code sessions — browse, search, inspect, and clean up your AI coding sessions
 
 
  
 
 | | |
 |---|---|
-| 📅 생성일 | `2026-03-23` |
-| 💻 언어 | `TypeScript` |
-| ⭐ Stars | `23` |
-| 🍴 Forks | `3` |
+| 📅 생성일 | `2026-03-22` |
+| 💻 언어 | `Go` |
+| ⭐ Stars | `35` |
+| 🍴 Forks | `1` |
 
-**🏷 토픽:** `ai` `bot` `claude-code` `codex` `wechat`
+**🏷 토픽:** `ai` `ai-coding` `ai-tools` `automation` `claude`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>27. <a href="https://github.com/Arthur-Ficial/apfel">apfel</a></b>
+  &nbsp; ⭐ <b>34</b> &nbsp; ![Swift](https://img.shields.io/badge/-Swift-888888?style=flat-square&logo=swift&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> Apple Intelligence from the command line. On-device LLM via FoundationModels framework. No API keys, no cloud, no dependencies.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-03-24` |
+| 💻 언어 | `Swift` |
+| ⭐ Stars | `34` |
+| 🍴 Forks | `2` |
+
+**🏷 토픽:** `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `llm`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>28. <a href="https://github.com/HKU-MMLab/Macro">Macro</a></b>
+  &nbsp; ⭐ <b>34</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> The official repo of "MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data"
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-03-26` |
+| 💻 언어 | `Python` |
+| ⭐ Stars | `34` |
+| 🍴 Forks | `1` |
+
+**🏷 토픽:** `ai` `benchmark` `cv` `data`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>29. <a href="https://github.com/yazinsai/auto-maintainer">auto-maintainer</a></b>
+  &nbsp; ⭐ <b>31</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> Write your repo rules in Markdown. AI enforces them — triages issues, reviews PRs, fixes bugs, merges code, cuts releases.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-03-22` |
+| 💻 언어 | `TypeScript` |
+| ⭐ Stars | `31` |
+| 🍴 Forks | `4` |
+
+**🏷 토픽:** `ai` `ai-agents` `automation` `claude` `developer-tools`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>30. <a href="https://github.com/CMGS/gua">gua</a></b>
+  &nbsp; ⭐ <b>31</b> &nbsp; ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> Multi-tenant AI agent server that bridges messaging platforms with AI backends through a fully decoupled architecture.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-03-24` |
+| 💻 언어 | `Go` |
+| ⭐ Stars | `31` |
+| 🍴 Forks | `7` |
+
+**🏷 토픽:** `ai` `ai-bo-t` `aibot` `bot` `openclaw`
 
 &nbsp;
 
@@ -860,8 +865,8 @@
 
 <details>
 <summary>
-  <b>1. <a href="https://huggingface.co/thwrhrt/Qwen3.5-0.8B-Base-Quant">Qwen3.5-0.8B-Base-Quant</a></b>
-  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
+  <b>1. <a href="https://huggingface.co/asigalov61/South-Park-Qwen3-4B-Instruct-2507">South-Park-Qwen3-4B-Instruct-2507</a></b>
+  &nbsp; ❤️ <b>2</b> &nbsp; ⬇️ 0
 </summary>
 
 <br>
@@ -874,12 +879,12 @@
 
 | | |
 |---|---|
-| 📅 등록일 | `2026-03-24` |
+| 📅 등록일 | `2026-03-28` |
 | 🔧 파이프라인 | `text-generation` |
-| ❤️ Likes | `1` |
+| ❤️ Likes | `2` |
 | ⬇️ Downloads | `0` |
 
-**🏷 태그:** `gguf` `llama.cpp` `quantized` `qwen` `text-generation`
+**🏷 태그:** `transformers` `south-park` `dialogs` `script-generation` `script`
 
 &nbsp;
 
@@ -887,26 +892,26 @@
 
 <details>
 <summary>
-  <b>2. <a href="https://huggingface.co/RockTalk/GigaChat3.1-10B-A1.8B-MLX-4bit">GigaChat3.1-10B-A1.8B-MLX-4bit</a></b>
+  <b>2. <a href="https://huggingface.co/brad-agi/sana-0.6b-onnx-webgpu">sana-0.6b-onnx-webgpu</a></b>
   &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
 </summary>
 
 <br>
 
 **📝 설명**
-> text-generation
+> text-to-image
 
 
  
 
 | | |
 |---|---|
-| 📅 등록일 | `2026-03-24` |
-| 🔧 파이프라인 | `text-generation` |
+| 📅 등록일 | `2026-03-27` |
+| 🔧 파이프라인 | `text-to-image` |
 | ❤️ Likes | `1` |
 | ⬇️ Downloads | `0` |
 
-**🏷 태그:** `mlx` `safetensors` `deepseek_v3` `moe` `4-bit`
+**🏷 태그:** `sana` `onnx` `text-to-image` `webgpu` `browser`
 
 &nbsp;
 
@@ -914,7 +919,34 @@
 
 <details>
 <summary>
-  <b>3. <a href="https://huggingface.co/tatvamindlabs/ai-career-engine">ai-career-engine</a></b>
+  <b>3. <a href="https://huggingface.co/Al04ni/Umlomo">Umlomo</a></b>
+  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
+</summary>
+
+<br>
+
+**📝 설명**
+> image-classification
+
+
+ 
+
+| | |
+|---|---|
+| 📅 등록일 | `2026-03-27` |
+| 🔧 파이프라인 | `image-classification` |
+| ❤️ Likes | `1` |
+| ⬇️ Downloads | `0` |
+
+**🏷 태그:** `pytorch` `medical` `oral-cancer` `healthcare` `mobileNet`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>4. <a href="https://huggingface.co/GinieAI/Solidity-LLM">Solidity-LLM</a></b>
   &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
 </summary>
 
@@ -928,12 +960,66 @@
 
 | | |
 |---|---|
-| 📅 등록일 | `2026-03-24` |
+| 📅 등록일 | `2026-03-27` |
 | 🔧 파이프라인 | `N/A` |
 | ❤️ Likes | `1` |
 | ⬇️ Downloads | `0` |
 
-**🏷 태그:** `region:us`
+**🏷 태그:** `safetensors` `codegen` `region:us`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>5. <a href="https://huggingface.co/Suvroneel/phynix-emotion-model">phynix-emotion-model</a></b>
+  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
+</summary>
+
+<br>
+
+**📝 설명**
+> _설명 없음_
+
+
+ 
+
+| | |
+|---|---|
+| 📅 등록일 | `2026-03-27` |
+| 🔧 파이프라인 | `N/A` |
+| ❤️ Likes | `1` |
+| ⬇️ Downloads | `0` |
+
+**🏷 태그:** `safetensors` `roberta` `license:apache-2.0` `region:us`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>6. <a href="https://huggingface.co/ApocalypseParty/Nemotron-3-Super-120B-SFT-5-low2-gguf">Nemotron-3-Super-120B-SFT-5-low2-gguf</a></b>
+  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
+</summary>
+
+<br>
+
+**📝 설명**
+> _설명 없음_
+
+
+ 
+
+| | |
+|---|---|
+| 📅 등록일 | `2026-03-27` |
+| 🔧 파이프라인 | `N/A` |
+| ❤️ Likes | `1` |
+| ⬇️ Downloads | `0` |
+
+**🏷 태그:** `gguf` `region:us`
 
 &nbsp;
 

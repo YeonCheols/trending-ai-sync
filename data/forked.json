@@ -58,5 +58,35 @@
     "synced_at": "2026-03-25",
     "stars": 142,
     "title": "katmer-code"
+  },
+  "alvinunreal/awesome-opensource-ai": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-awesome-opensource-ai",
+    "synced_at": "2026-03-28",
+    "stars": 1467,
+    "title": "awesome-opensource-ai"
+  },
+  "CoderLuii/HolyClaude": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-HolyClaude",
+    "synced_at": "2026-03-28",
+    "stars": 973,
+    "title": "HolyClaude"
+  },
+  "yvgude/lean-ctx": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-lean-ctx",
+    "synced_at": "2026-03-28",
+    "stars": 269,
+    "title": "lean-ctx"
+  },
+  "maria-rcks/t1code": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-t1code",
+    "synced_at": "2026-03-28",
+    "stars": 197,
+    "title": "t1code"
+  },
+  "Percepta-Core/transformer-vm": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-transformer-vm",
+    "synced_at": "2026-03-28",
+    "stars": 153,
+    "title": "transformer-vm"
   }
 }
