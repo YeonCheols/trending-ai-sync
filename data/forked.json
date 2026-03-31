@@ -88,5 +88,35 @@
     "synced_at": "2026-03-28",
     "stars": 153,
     "title": "transformer-vm"
+  },
+  "jxnxts/mcp-brasil": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-mcp-brasil",
+    "synced_at": "2026-03-31",
+    "stars": 944,
+    "title": "mcp-brasil"
+  },
+  "LeoYeAI/openclaw-auto-dream": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-openclaw-auto-dream",
+    "synced_at": "2026-03-31",
+    "stars": 485,
+    "title": "openclaw-auto-dream"
+  },
+  "dreddnafious/thereisnospoon": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-thereisnospoon",
+    "synced_at": "2026-03-31",
+    "stars": 378,
+    "title": "thereisnospoon"
+  },
+  "alvinunreal/awesome-openclaw": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-awesome-openclaw",
+    "synced_at": "2026-03-31",
+    "stars": 255,
+    "title": "awesome-openclaw"
+  },
+  "zolotukhin/zinc": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-zinc",
+    "synced_at": "2026-03-31",
+    "stars": 215,
+    "title": "zinc"
   }
 }
