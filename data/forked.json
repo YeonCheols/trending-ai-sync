@@ -118,5 +118,35 @@
     "synced_at": "2026-03-31",
     "stars": 215,
     "title": "zinc"
+  },
+  "ghostwright/phantom": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-phantom",
+    "synced_at": "2026-04-01",
+    "stars": 666,
+    "title": "phantom"
+  },
+  "alvinreal/awesome-openclaw": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-awesome-openclaw",
+    "synced_at": "2026-04-01",
+    "stars": 460,
+    "title": "awesome-openclaw"
+  },
+  "lintsinghua/claude-code-book": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-claude-code-book",
+    "synced_at": "2026-04-01",
+    "stars": 311,
+    "title": "claude-code-book"
+  },
+  "777genius/claude-code-source-code": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-claude-code-source-code",
+    "synced_at": "2026-04-01",
+    "stars": 233,
+    "title": "claude-code-source-code"
+  },
+  "vkhanhqui/figma-mcp-go": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-figma-mcp-go",
+    "synced_at": "2026-04-01",
+    "stars": 222,
+    "title": "figma-mcp-go"
   }
 }
