@@ -148,5 +148,35 @@
     "synced_at": "2026-04-01",
     "stars": 222,
     "title": "figma-mcp-go"
+  },
+  "JackChen-me/open-multi-agent": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-open-multi-agent",
+    "synced_at": "2026-04-04",
+    "stars": 3232,
+    "title": "open-multi-agent"
+  },
+  "Windy3f3f3f3f/how-claude-code-works": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-how-claude-code-works",
+    "synced_at": "2026-04-04",
+    "stars": 1380,
+    "title": "how-claude-code-works"
+  },
+  "openedclaude/claude-reviews-claude": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-claude-reviews-claude",
+    "synced_at": "2026-04-04",
+    "stars": 1178,
+    "title": "claude-reviews-claude"
+  },
+  "lorryjovens-hub/claude-code-rust": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-claude-code-rust",
+    "synced_at": "2026-04-04",
+    "stars": 901,
+    "title": "claude-code-rust"
+  },
+  "Windy3f3f3f3f/claude-code-from-scratch": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-claude-code-from-scratch",
+    "synced_at": "2026-04-04",
+    "stars": 705,
+    "title": "claude-code-from-scratch"
   }
 }
