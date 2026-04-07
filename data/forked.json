@@ -178,5 +178,29 @@
     "synced_at": "2026-04-04",
     "stars": 705,
     "title": "claude-code-from-scratch"
+  },
+  "JuliusBrussee/caveman": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-caveman",
+    "synced_at": "2026-04-07",
+    "stars": 4236,
+    "title": "caveman"
+  },
+  "fikrikarim/parlor": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-parlor",
+    "synced_at": "2026-04-07",
+    "stars": 771,
+    "title": "parlor"
+  },
+  "milla-jovovich/mempalace": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-mempalace",
+    "synced_at": "2026-04-07",
+    "stars": 370,
+    "title": "mempalace"
+  },
+  "x1xhlol/better-clawd": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-better-clawd",
+    "synced_at": "2026-04-07",
+    "stars": 351,
+    "title": "better-clawd"
   }
 }
