@@ -202,5 +202,23 @@
     "synced_at": "2026-04-07",
     "stars": 351,
     "title": "better-clawd"
+  },
+  "Houseofmvps/codesight": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-codesight",
+    "synced_at": "2026-04-10",
+    "stars": 760,
+    "title": "codesight"
+  },
+  "kessler/gemma-gem": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-gemma-gem",
+    "synced_at": "2026-04-10",
+    "stars": 589,
+    "title": "gemma-gem"
+  },
+  "atomicmemory/llm-wiki-compiler": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-llm-wiki-compiler",
+    "synced_at": "2026-04-10",
+    "stars": 288,
+    "title": "llm-wiki-compiler"
   }
 }
