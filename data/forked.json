@@ -220,5 +220,35 @@
     "synced_at": "2026-04-10",
     "stars": 288,
     "title": "llm-wiki-compiler"
+  },
+  "AgriciDaniel/claude-obsidian": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-claude-obsidian",
+    "synced_at": "2026-04-13",
+    "stars": 681,
+    "title": "claude-obsidian"
+  },
+  "Xiangyue-Zhang/auto-deep-researcher-24x7": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-auto-deep-researcher-24x7",
+    "synced_at": "2026-04-13",
+    "stars": 326,
+    "title": "auto-deep-researcher-24x7"
+  },
+  "joyehuang/Learn-Open-Harness": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-Learn-Open-Harness",
+    "synced_at": "2026-04-13",
+    "stars": 230,
+    "title": "Learn-Open-Harness"
+  },
+  "mduongvandinh/llm-wiki": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-llm-wiki",
+    "synced_at": "2026-04-13",
+    "stars": 175,
+    "title": "llm-wiki"
+  },
+  "yanhua1010/zero-to-ai-fullstack": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-zero-to-ai-fullstack",
+    "synced_at": "2026-04-13",
+    "stars": 139,
+    "title": "zero-to-ai-fullstack"
   }
 }
