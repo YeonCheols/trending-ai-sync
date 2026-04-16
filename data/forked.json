@@ -250,5 +250,35 @@
     "synced_at": "2026-04-13",
     "stars": 139,
     "title": "zero-to-ai-fullstack"
+  },
+  "yaojingang/GEOFlow": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-GEOFlow",
+    "synced_at": "2026-04-16",
+    "stars": 687,
+    "title": "GEOFlow"
+  },
+  "amitshekhariitbhu/llm-internals": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-llm-internals",
+    "synced_at": "2026-04-16",
+    "stars": 407,
+    "title": "llm-internals"
+  },
+  "mohi-devhub/antivibe": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-antivibe",
+    "synced_at": "2026-04-16",
+    "stars": 384,
+    "title": "antivibe"
+  },
+  "Manavarya09/design-extract": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-design-extract",
+    "synced_at": "2026-04-16",
+    "stars": 295,
+    "title": "design-extract"
+  },
+  "EKKOLearnAI/hermes-web-ui": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-hermes-web-ui",
+    "synced_at": "2026-04-16",
+    "stars": 222,
+    "title": "hermes-web-ui"
   }
 }
