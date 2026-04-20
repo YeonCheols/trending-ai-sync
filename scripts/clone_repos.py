@@ -41,7 +41,7 @@ def create_repo(username: str, repo_name: str, description: str) -> bool:
     payload = {
         "name": repo_name,
         "description": f"[AI Sync] {description}"[:255],
-        "private": False,
+        "private": True,
         "auto_init": False,
     }
     r = requests.post(url, headers=HEADERS_GH, json=payload, timeout=10)
