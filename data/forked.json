@@ -310,5 +310,35 @@
     "synced_at": "2026-04-19",
     "stars": 100,
     "title": "ddtree-mlx"
+  },
+  "kyegomez/OpenMythos": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-OpenMythos",
+    "synced_at": "2026-04-22",
+    "stars": 7117,
+    "title": "OpenMythos"
+  },
+  "cosmicstack-labs/mercury-agent": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-mercury-agent",
+    "synced_at": "2026-04-22",
+    "stars": 337,
+    "title": "mercury-agent"
+  },
+  "yzhao062/agent-style": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-agent-style",
+    "synced_at": "2026-04-22",
+    "stars": 212,
+    "title": "agent-style"
+  },
+  "Blink-h/agent-startup-kit": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-agent-startup-kit",
+    "synced_at": "2026-04-22",
+    "stars": 173,
+    "title": "agent-startup-kit"
+  },
+  "simoncirstoiu/alice": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-alice",
+    "synced_at": "2026-04-22",
+    "stars": 138,
+    "title": "alice"
   }
 }
