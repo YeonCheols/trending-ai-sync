@@ -340,5 +340,35 @@
     "synced_at": "2026-04-22",
     "stars": 138,
     "title": "alice"
+  },
+  "earthtojake/text-to-cad": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-text-to-cad",
+    "synced_at": "2026-04-25",
+    "stars": 356,
+    "title": "text-to-cad"
+  },
+  "GammaLabTechnologies/harmonist": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-harmonist",
+    "synced_at": "2026-04-25",
+    "stars": 342,
+    "title": "harmonist"
+  },
+  "xiaochong/hi-kid": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-hi-kid",
+    "synced_at": "2026-04-25",
+    "stars": 317,
+    "title": "hi-kid"
+  },
+  "future-agi/future-agi": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-future-agi",
+    "synced_at": "2026-04-25",
+    "stars": 266,
+    "title": "future-agi"
+  },
+  "guanxiaol/WindsurfPoolAPI": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-WindsurfPoolAPI",
+    "synced_at": "2026-04-25",
+    "stars": 120,
+    "title": "WindsurfPoolAPI"
   }
 }
