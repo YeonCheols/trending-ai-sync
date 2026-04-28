@@ -370,5 +370,35 @@
     "synced_at": "2026-04-25",
     "stars": 120,
     "title": "WindsurfPoolAPI"
+  },
+  "alash3al/stash": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-stash",
+    "synced_at": "2026-04-28",
+    "stars": 428,
+    "title": "stash"
+  },
+  "chekusu/wanman": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-wanman",
+    "synced_at": "2026-04-28",
+    "stars": 386,
+    "title": "wanman"
+  },
+  "HKUDS-AI/polymarket-ai-trading": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-polymarket-ai-trading",
+    "synced_at": "2026-04-28",
+    "stars": 154,
+    "title": "polymarket-ai-trading"
+  },
+  "baidu-baige/LoongForge": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-LoongForge",
+    "synced_at": "2026-04-28",
+    "stars": 141,
+    "title": "LoongForge"
+  },
+  "SparkEngineAI/QuantClaw-plugin": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-QuantClaw-plugin",
+    "synced_at": "2026-04-28",
+    "stars": 91,
+    "title": "QuantClaw-plugin"
   }
 }
