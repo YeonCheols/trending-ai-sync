@@ -400,5 +400,35 @@
     "synced_at": "2026-04-28",
     "stars": 91,
     "title": "QuantClaw-plugin"
+  },
+  "nexu-io/open-design": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-open-design",
+    "synced_at": "2026-05-01",
+    "stars": 8523,
+    "title": "open-design"
+  },
+  "endless-sky-team/ai-trading-agent": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-ai-trading-agent",
+    "synced_at": "2026-05-01",
+    "stars": 147,
+    "title": "ai-trading-agent"
+  },
+  "Senabayu08989/Stable-Diffusion-AI-Free": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-Stable-Diffusion-AI-Free",
+    "synced_at": "2026-05-01",
+    "stars": 144,
+    "title": "Stable-Diffusion-AI-Free"
+  },
+  "thinkwee/AwesomeOPD": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-AwesomeOPD",
+    "synced_at": "2026-05-01",
+    "stars": 102,
+    "title": "AwesomeOPD"
+  },
+  "facex-engine/facex": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-facex",
+    "synced_at": "2026-05-01",
+    "stars": 100,
+    "title": "facex"
   }
 }
