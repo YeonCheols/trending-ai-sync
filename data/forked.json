@@ -430,5 +430,35 @@
     "synced_at": "2026-05-01",
     "stars": 100,
     "title": "facex"
+  },
+  "lukiIabs/trading-agents": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-trading-agents",
+    "synced_at": "2026-05-04",
+    "stars": 211,
+    "title": "trading-agents"
+  },
+  "warpdot-dev/composio": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-composio",
+    "synced_at": "2026-05-04",
+    "stars": 206,
+    "title": "composio"
+  },
+  "mrslimslim/gpt-image-canvas": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-gpt-image-canvas",
+    "synced_at": "2026-05-04",
+    "stars": 184,
+    "title": "gpt-image-canvas"
+  },
+  "peter123023/awesome-claude-api": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-awesome-claude-api",
+    "synced_at": "2026-05-04",
+    "stars": 174,
+    "title": "awesome-claude-api"
+  },
+  "warpdot-dev/craft-agents-oss": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-craft-agents-oss",
+    "synced_at": "2026-05-04",
+    "stars": 129,
+    "title": "craft-agents-oss"
   }
 }
