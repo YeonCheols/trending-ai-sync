@@ -460,5 +460,35 @@
     "synced_at": "2026-05-04",
     "stars": 129,
     "title": "craft-agents-oss"
+  },
+  "raiyanyahya/how-to-train-your-gpt": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-how-to-train-your-gpt",
+    "synced_at": "2026-05-07",
+    "stars": 586,
+    "title": "how-to-train-your-gpt"
+  },
+  "yaojingang/yao-open-prompts": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-yao-open-prompts",
+    "synced_at": "2026-05-07",
+    "stars": 476,
+    "title": "yao-open-prompts"
+  },
+  "lightseekorg/tokenspeed": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-tokenspeed",
+    "synced_at": "2026-05-07",
+    "stars": 306,
+    "title": "tokenspeed"
+  },
+  "bestpracticaI/kalshi-ai-trading-bot": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-kalshi-ai-trading-bot",
+    "synced_at": "2026-05-07",
+    "stars": 222,
+    "title": "kalshi-ai-trading-bot"
+  },
+  "lukiIabs/skills": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-skills",
+    "synced_at": "2026-05-07",
+    "stars": 212,
+    "title": "skills"
   }
 }
