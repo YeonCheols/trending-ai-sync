@@ -490,5 +490,35 @@
     "synced_at": "2026-05-07",
     "stars": 212,
     "title": "skills"
+  },
+  "jmerelnyc/Photo-agents": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-Photo-agents",
+    "synced_at": "2026-05-10",
+    "stars": 364,
+    "title": "Photo-agents"
+  },
+  "TitanFlow-Systems/best-of-algorithmic-trading": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-best-of-algorithmic-trading",
+    "synced_at": "2026-05-10",
+    "stars": 269,
+    "title": "best-of-algorithmic-trading"
+  },
+  "NirDiamant/Agent_Memory_Techniques": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-Agent_Memory_Techniques",
+    "synced_at": "2026-05-10",
+    "stars": 247,
+    "title": "Agent_Memory_Techniques"
+  },
+  "kerlos/pordee": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-pordee",
+    "synced_at": "2026-05-10",
+    "stars": 209,
+    "title": "pordee"
+  },
+  "OpenSquilla/opensquilla": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-opensquilla",
+    "synced_at": "2026-05-10",
+    "stars": 163,
+    "title": "opensquilla"
   }
 }
