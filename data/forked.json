@@ -520,5 +520,35 @@
     "synced_at": "2026-05-10",
     "stars": 163,
     "title": "opensquilla"
+  },
+  "cosmicstack-labs/mercury-agent-skills": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-mercury-agent-skills",
+    "synced_at": "2026-05-13",
+    "stars": 102,
+    "title": "mercury-agent-skills"
+  },
+  "ndcorder/outputguard": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-outputguard",
+    "synced_at": "2026-05-13",
+    "stars": 77,
+    "title": "outputguard"
+  },
+  "lucidrains/d4rt": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-d4rt",
+    "synced_at": "2026-05-13",
+    "stars": 50,
+    "title": "d4rt"
+  },
+  "duguying/100M": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-100M",
+    "synced_at": "2026-05-13",
+    "stars": 47,
+    "title": "100M"
+  },
+  "rahilp/second-brain-cloudflare": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-second-brain-cloudflare",
+    "synced_at": "2026-05-13",
+    "stars": 47,
+    "title": "second-brain-cloudflare"
   }
 }
