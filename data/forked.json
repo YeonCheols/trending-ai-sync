@@ -550,5 +550,35 @@
     "synced_at": "2026-05-13",
     "stars": 47,
     "title": "second-brain-cloudflare"
+  },
+  "nexu-io/html-anything": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-html-anything",
+    "synced_at": "2026-05-16",
+    "stars": 2025,
+    "title": "html-anything"
+  },
+  "WantongC/journal-adapt-writing-skill": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-journal-adapt-writing-skill",
+    "synced_at": "2026-05-16",
+    "stars": 256,
+    "title": "journal-adapt-writing-skill"
+  },
+  "Evokoa/pgGraph": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-pgGraph",
+    "synced_at": "2026-05-16",
+    "stars": 144,
+    "title": "pgGraph"
+  },
+  "agentic-in/elephant-agent": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-elephant-agent",
+    "synced_at": "2026-05-16",
+    "stars": 127,
+    "title": "elephant-agent"
+  },
+  "python-telegramBot/ai-auto-trading": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-ai-auto-trading",
+    "synced_at": "2026-05-16",
+    "stars": 120,
+    "title": "ai-auto-trading"
   }
 }
