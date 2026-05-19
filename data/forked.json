@@ -580,5 +580,35 @@
     "synced_at": "2026-05-16",
     "stars": 120,
     "title": "ai-auto-trading"
+  },
+  "BasZ4ll/Stable-Diffusion-WebUI": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-Stable-Diffusion-WebUI",
+    "synced_at": "2026-05-19",
+    "stars": 449,
+    "title": "Stable-Diffusion-WebUI"
+  },
+  "2508965-ship-it/harmonist-orchestral": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-harmonist-orchestral",
+    "synced_at": "2026-05-19",
+    "stars": 421,
+    "title": "harmonist-orchestral"
+  },
+  "chiennv2000/orthrus": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-orthrus",
+    "synced_at": "2026-05-19",
+    "stars": 315,
+    "title": "orthrus"
+  },
+  "thinkpixelIab/polymarket-ai-trading": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-polymarket-ai-trading",
+    "synced_at": "2026-05-19",
+    "stars": 178,
+    "title": "polymarket-ai-trading"
+  },
+  "LiuMengxuan04/shushu-internship-tool": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-shushu-internship-tool",
+    "synced_at": "2026-05-19",
+    "stars": 175,
+    "title": "shushu-internship-tool"
   }
 }
