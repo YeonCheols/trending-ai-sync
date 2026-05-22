@@ -610,5 +610,35 @@
     "synced_at": "2026-05-19",
     "stars": 175,
     "title": "shushu-internship-tool"
+  },
+  "seochecks-ai/slopless": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-slopless",
+    "synced_at": "2026-05-22",
+    "stars": 256,
+    "title": "slopless"
+  },
+  "vincelele/ai-fomo-skills": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-ai-fomo-skills",
+    "synced_at": "2026-05-22",
+    "stars": 102,
+    "title": "ai-fomo-skills"
+  },
+  "DaoyuanLi2816/can-i-finetune-this": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-can-i-finetune-this",
+    "synced_at": "2026-05-22",
+    "stars": 81,
+    "title": "can-i-finetune-this"
+  },
+  "DomDemetz/claude-soul": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-claude-soul",
+    "synced_at": "2026-05-22",
+    "stars": 76,
+    "title": "claude-soul"
+  },
+  "wanshuiyin/ARIS-in-AI-Offer": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-ARIS-in-AI-Offer",
+    "synced_at": "2026-05-22",
+    "stars": 71,
+    "title": "ARIS-in-AI-Offer"
   }
 }
