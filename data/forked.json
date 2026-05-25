@@ -640,5 +640,35 @@
     "synced_at": "2026-05-22",
     "stars": 71,
     "title": "ARIS-in-AI-Offer"
+  },
+  "Tartarus-AI/tartarusai-cli": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-tartarusai-cli",
+    "synced_at": "2026-05-25",
+    "stars": 64,
+    "title": "tartarusai-cli"
+  },
+  "study8677/awesome-architecture": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-awesome-architecture",
+    "synced_at": "2026-05-25",
+    "stars": 50,
+    "title": "awesome-architecture"
+  },
+  "SaroirCommunity/Spiderbrain-V3": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-Spiderbrain-V3",
+    "synced_at": "2026-05-25",
+    "stars": 45,
+    "title": "Spiderbrain-V3"
+  },
+  "kldhsh123/Afterglow": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-Afterglow",
+    "synced_at": "2026-05-25",
+    "stars": 36,
+    "title": "Afterglow"
+  },
+  "norika1207-lab/mercury-mcp": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-mercury-mcp",
+    "synced_at": "2026-05-25",
+    "stars": 30,
+    "title": "mercury-mcp"
   }
 }
