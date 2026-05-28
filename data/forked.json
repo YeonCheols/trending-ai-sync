@@ -670,5 +670,35 @@
     "synced_at": "2026-05-25",
     "stars": 30,
     "title": "mercury-mcp"
+  },
+  "UditAkhourii/adhd": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-adhd",
+    "synced_at": "2026-05-28",
+    "stars": 366,
+    "title": "adhd"
+  },
+  "nekocode/filetree-skill": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-filetree-skill",
+    "synced_at": "2026-05-28",
+    "stars": 94,
+    "title": "filetree-skill"
+  },
+  "X-3306/Project-Onyx": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-Project-Onyx",
+    "synced_at": "2026-05-28",
+    "stars": 83,
+    "title": "Project-Onyx"
+  },
+  "vuejs-ai/vue-tui": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-vue-tui",
+    "synced_at": "2026-05-28",
+    "stars": 64,
+    "title": "vue-tui"
+  },
+  "Gao-Ruilin/AutoRun": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-AutoRun",
+    "synced_at": "2026-05-28",
+    "stars": 50,
+    "title": "AutoRun"
   }
 }
