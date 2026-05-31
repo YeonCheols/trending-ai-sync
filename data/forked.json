@@ -700,5 +700,35 @@
     "synced_at": "2026-05-28",
     "stars": 50,
     "title": "AutoRun"
+  },
+  "withkynam/vibecode-pro-max-kit": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-vibecode-pro-max-kit",
+    "synced_at": "2026-05-31",
+    "stars": 603,
+    "title": "vibecode-pro-max-kit"
+  },
+  "2aronS/Duel-Agents": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-Duel-Agents",
+    "synced_at": "2026-05-31",
+    "stars": 464,
+    "title": "Duel-Agents"
+  },
+  "polymaxi2/polymarket-arbitrage-trading-bot": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-polymarket-arbitrage-trading-bot",
+    "synced_at": "2026-05-31",
+    "stars": 203,
+    "title": "polymarket-arbitrage-trading-bot"
+  },
+  "openfi-dao/kalshi-trading-bot": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-kalshi-trading-bot",
+    "synced_at": "2026-05-31",
+    "stars": 114,
+    "title": "kalshi-trading-bot"
+  },
+  "code-yeongyu/lazycodex": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-lazycodex",
+    "synced_at": "2026-05-31",
+    "stars": 111,
+    "title": "lazycodex"
   }
 }
