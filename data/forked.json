@@ -730,5 +730,35 @@
     "synced_at": "2026-05-31",
     "stars": 111,
     "title": "lazycodex"
+  },
+  "ATOM00blue/machine-learning-library": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-machine-learning-library",
+    "synced_at": "2026-06-01",
+    "stars": 110,
+    "title": "machine-learning-library"
+  },
+  "boona13/image-extender": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-image-extender",
+    "synced_at": "2026-06-01",
+    "stars": 84,
+    "title": "image-extender"
+  },
+  "lilliancrivaro27064501728/AI-Photo-Background-Remover": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-AI-Photo-Background-Remover",
+    "synced_at": "2026-06-01",
+    "stars": 74,
+    "title": "AI-Photo-Background-Remover"
+  },
+  "johnbean393/KeyType": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-KeyType",
+    "synced_at": "2026-06-01",
+    "stars": 71,
+    "title": "KeyType"
+  },
+  "biao994/DocPaws": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-DocPaws",
+    "synced_at": "2026-06-01",
+    "stars": 57,
+    "title": "DocPaws"
   }
 }

@@ -2,19 +2,19 @@
 
 > 최근 7일간 생성된 AI 프로젝트를 **매일 09:00 KST** 자동으로 수집하고 **GPT-4o**가 한국어로 분석합니다.
 
-**수집일:** `2026-05-31` &nbsp;|&nbsp; **수집 기준:** `2026-05-24` 이후
+**수집일:** `2026-06-01` &nbsp;|&nbsp; **수집 기준:** `2026-05-25` 이후
 
 | 소스 | 수집 건수 | 기준 |
 |:---:|:---:|:---|
 | 🐙 GitHub | **30** | ⭐ 10+ stars |
-| 🤗 HuggingFace | **20** | ❤️ 5+ likes |
+| 🤗 HuggingFace | **10** | ❤️ 5+ likes |
 | 📄 arXiv | **0** | cs.AI / cs.LG / cs.CL / cs.CV |
 
 ## 📌 목차
 
-- [🔬 AI 분석 레포 (122)](#-ai-분석-레포)
+- [🔬 AI 분석 레포 (127)](#-ai-분석-레포)
 - [🐙 GitHub Trending (30)](#-github-trending)
-- [🤗 HuggingFace Trending (20)](#-huggingface-trending)
+- [🤗 HuggingFace Trending (10)](#-huggingface-trending)
 - [📄 arXiv Papers (0)](#-arxiv-papers)
 
 ---
@@ -25,128 +25,133 @@
 
 | # | 레포 | 원본 Stars | 분석 날짜 |
 |:---:|---|:---:|:---:|
-| 1 | [**vibecode-pro-max-kit**](https://github.com/YeonCheols/ai-sync-vibecode-pro-max-kit) | ⭐ 603 | `2026-05-31` |
-| 2 | [**Duel-Agents**](https://github.com/YeonCheols/ai-sync-Duel-Agents) | ⭐ 464 | `2026-05-31` |
-| 3 | [**polymarket-arbitrage-trading-bot**](https://github.com/YeonCheols/ai-sync-polymarket-arbitrage-trading-bot) | ⭐ 203 | `2026-05-31` |
-| 4 | [**kalshi-trading-bot**](https://github.com/YeonCheols/ai-sync-kalshi-trading-bot) | ⭐ 114 | `2026-05-31` |
-| 5 | [**lazycodex**](https://github.com/YeonCheols/ai-sync-lazycodex) | ⭐ 111 | `2026-05-31` |
-| 6 | [**adhd**](https://github.com/YeonCheols/ai-sync-adhd) | ⭐ 366 | `2026-05-28` |
-| 7 | [**filetree-skill**](https://github.com/YeonCheols/ai-sync-filetree-skill) | ⭐ 94 | `2026-05-28` |
-| 8 | [**Project-Onyx**](https://github.com/YeonCheols/ai-sync-Project-Onyx) | ⭐ 83 | `2026-05-28` |
-| 9 | [**vue-tui**](https://github.com/YeonCheols/ai-sync-vue-tui) | ⭐ 64 | `2026-05-28` |
-| 10 | [**AutoRun**](https://github.com/YeonCheols/ai-sync-AutoRun) | ⭐ 50 | `2026-05-28` |
-| 11 | [**tartarusai-cli**](https://github.com/YeonCheols/ai-sync-tartarusai-cli) | ⭐ 64 | `2026-05-25` |
-| 12 | [**awesome-architecture**](https://github.com/YeonCheols/ai-sync-awesome-architecture) | ⭐ 50 | `2026-05-25` |
-| 13 | [**Spiderbrain-V3**](https://github.com/YeonCheols/ai-sync-Spiderbrain-V3) | ⭐ 45 | `2026-05-25` |
-| 14 | [**Afterglow**](https://github.com/YeonCheols/ai-sync-Afterglow) | ⭐ 36 | `2026-05-25` |
-| 15 | [**mercury-mcp**](https://github.com/YeonCheols/ai-sync-mercury-mcp) | ⭐ 30 | `2026-05-25` |
-| 16 | [**slopless**](https://github.com/YeonCheols/ai-sync-slopless) | ⭐ 256 | `2026-05-22` |
-| 17 | [**ai-fomo-skills**](https://github.com/YeonCheols/ai-sync-ai-fomo-skills) | ⭐ 102 | `2026-05-22` |
-| 18 | [**can-i-finetune-this**](https://github.com/YeonCheols/ai-sync-can-i-finetune-this) | ⭐ 81 | `2026-05-22` |
-| 19 | [**claude-soul**](https://github.com/YeonCheols/ai-sync-claude-soul) | ⭐ 76 | `2026-05-22` |
-| 20 | [**ARIS-in-AI-Offer**](https://github.com/YeonCheols/ai-sync-ARIS-in-AI-Offer) | ⭐ 71 | `2026-05-22` |
-| 21 | [**Stable-Diffusion-WebUI**](https://github.com/YeonCheols/ai-sync-Stable-Diffusion-WebUI) | ⭐ 449 | `2026-05-19` |
-| 22 | [**harmonist-orchestral**](https://github.com/YeonCheols/ai-sync-harmonist-orchestral) | ⭐ 421 | `2026-05-19` |
-| 23 | [**orthrus**](https://github.com/YeonCheols/ai-sync-orthrus) | ⭐ 315 | `2026-05-19` |
-| 24 | [**polymarket-ai-trading**](https://github.com/YeonCheols/ai-sync-polymarket-ai-trading) | ⭐ 178 | `2026-05-19` |
-| 25 | [**shushu-internship-tool**](https://github.com/YeonCheols/ai-sync-shushu-internship-tool) | ⭐ 175 | `2026-05-19` |
-| 26 | [**html-anything**](https://github.com/YeonCheols/ai-sync-html-anything) | ⭐ 2,025 | `2026-05-16` |
-| 27 | [**journal-adapt-writing-skill**](https://github.com/YeonCheols/ai-sync-journal-adapt-writing-skill) | ⭐ 256 | `2026-05-16` |
-| 28 | [**pgGraph**](https://github.com/YeonCheols/ai-sync-pgGraph) | ⭐ 144 | `2026-05-16` |
-| 29 | [**elephant-agent**](https://github.com/YeonCheols/ai-sync-elephant-agent) | ⭐ 127 | `2026-05-16` |
-| 30 | [**ai-auto-trading**](https://github.com/YeonCheols/ai-sync-ai-auto-trading) | ⭐ 120 | `2026-05-16` |
-| 31 | [**mercury-agent-skills**](https://github.com/YeonCheols/ai-sync-mercury-agent-skills) | ⭐ 102 | `2026-05-13` |
-| 32 | [**outputguard**](https://github.com/YeonCheols/ai-sync-outputguard) | ⭐ 77 | `2026-05-13` |
-| 33 | [**d4rt**](https://github.com/YeonCheols/ai-sync-d4rt) | ⭐ 50 | `2026-05-13` |
-| 34 | [**100M**](https://github.com/YeonCheols/ai-sync-100M) | ⭐ 47 | `2026-05-13` |
-| 35 | [**second-brain-cloudflare**](https://github.com/YeonCheols/ai-sync-second-brain-cloudflare) | ⭐ 47 | `2026-05-13` |
-| 36 | [**Photo-agents**](https://github.com/YeonCheols/ai-sync-Photo-agents) | ⭐ 364 | `2026-05-10` |
-| 37 | [**best-of-algorithmic-trading**](https://github.com/YeonCheols/ai-sync-best-of-algorithmic-trading) | ⭐ 269 | `2026-05-10` |
-| 38 | [**Agent_Memory_Techniques**](https://github.com/YeonCheols/ai-sync-Agent_Memory_Techniques) | ⭐ 247 | `2026-05-10` |
-| 39 | [**pordee**](https://github.com/YeonCheols/ai-sync-pordee) | ⭐ 209 | `2026-05-10` |
-| 40 | [**opensquilla**](https://github.com/YeonCheols/ai-sync-opensquilla) | ⭐ 163 | `2026-05-10` |
-| 41 | [**how-to-train-your-gpt**](https://github.com/YeonCheols/ai-sync-how-to-train-your-gpt) | ⭐ 586 | `2026-05-07` |
-| 42 | [**yao-open-prompts**](https://github.com/YeonCheols/ai-sync-yao-open-prompts) | ⭐ 476 | `2026-05-07` |
-| 43 | [**tokenspeed**](https://github.com/YeonCheols/ai-sync-tokenspeed) | ⭐ 306 | `2026-05-07` |
-| 44 | [**kalshi-ai-trading-bot**](https://github.com/YeonCheols/ai-sync-kalshi-ai-trading-bot) | ⭐ 222 | `2026-05-07` |
-| 45 | [**skills**](https://github.com/YeonCheols/ai-sync-skills) | ⭐ 212 | `2026-05-07` |
-| 46 | [**trading-agents**](https://github.com/YeonCheols/ai-sync-trading-agents) | ⭐ 211 | `2026-05-04` |
-| 47 | [**composio**](https://github.com/YeonCheols/ai-sync-composio) | ⭐ 206 | `2026-05-04` |
-| 48 | [**gpt-image-canvas**](https://github.com/YeonCheols/ai-sync-gpt-image-canvas) | ⭐ 184 | `2026-05-04` |
-| 49 | [**awesome-claude-api**](https://github.com/YeonCheols/ai-sync-awesome-claude-api) | ⭐ 174 | `2026-05-04` |
-| 50 | [**craft-agents-oss**](https://github.com/YeonCheols/ai-sync-craft-agents-oss) | ⭐ 129 | `2026-05-04` |
-| 51 | [**open-design**](https://github.com/YeonCheols/ai-sync-open-design) | ⭐ 8,523 | `2026-05-01` |
-| 52 | [**ai-trading-agent**](https://github.com/YeonCheols/ai-sync-ai-trading-agent) | ⭐ 147 | `2026-05-01` |
-| 53 | [**Stable-Diffusion-AI-Free**](https://github.com/YeonCheols/ai-sync-Stable-Diffusion-AI-Free) | ⭐ 144 | `2026-05-01` |
-| 54 | [**AwesomeOPD**](https://github.com/YeonCheols/ai-sync-AwesomeOPD) | ⭐ 102 | `2026-05-01` |
-| 55 | [**facex**](https://github.com/YeonCheols/ai-sync-facex) | ⭐ 100 | `2026-05-01` |
-| 56 | [**stash**](https://github.com/YeonCheols/ai-sync-stash) | ⭐ 428 | `2026-04-28` |
-| 57 | [**wanman**](https://github.com/YeonCheols/ai-sync-wanman) | ⭐ 386 | `2026-04-28` |
-| 58 | [**polymarket-ai-trading**](https://github.com/YeonCheols/ai-sync-polymarket-ai-trading) | ⭐ 154 | `2026-04-28` |
-| 59 | [**LoongForge**](https://github.com/YeonCheols/ai-sync-LoongForge) | ⭐ 141 | `2026-04-28` |
-| 60 | [**QuantClaw-plugin**](https://github.com/YeonCheols/ai-sync-QuantClaw-plugin) | ⭐ 91 | `2026-04-28` |
-| 61 | [**text-to-cad**](https://github.com/YeonCheols/ai-sync-text-to-cad) | ⭐ 356 | `2026-04-25` |
-| 62 | [**harmonist**](https://github.com/YeonCheols/ai-sync-harmonist) | ⭐ 342 | `2026-04-25` |
-| 63 | [**hi-kid**](https://github.com/YeonCheols/ai-sync-hi-kid) | ⭐ 317 | `2026-04-25` |
-| 64 | [**future-agi**](https://github.com/YeonCheols/ai-sync-future-agi) | ⭐ 266 | `2026-04-25` |
-| 65 | [**WindsurfPoolAPI**](https://github.com/YeonCheols/ai-sync-WindsurfPoolAPI) | ⭐ 120 | `2026-04-25` |
-| 66 | [**OpenMythos**](https://github.com/YeonCheols/ai-sync-OpenMythos) | ⭐ 7,117 | `2026-04-22` |
-| 67 | [**mercury-agent**](https://github.com/YeonCheols/ai-sync-mercury-agent) | ⭐ 337 | `2026-04-22` |
-| 68 | [**agent-style**](https://github.com/YeonCheols/ai-sync-agent-style) | ⭐ 212 | `2026-04-22` |
-| 69 | [**agent-startup-kit**](https://github.com/YeonCheols/ai-sync-agent-startup-kit) | ⭐ 173 | `2026-04-22` |
-| 70 | [**alice**](https://github.com/YeonCheols/ai-sync-alice) | ⭐ 138 | `2026-04-22` |
-| 71 | [**BuilderPulse**](https://github.com/YeonCheols/ai-sync-BuilderPulse) | ⭐ 932 | `2026-04-19` |
-| 72 | [**design-md-chrome**](https://github.com/YeonCheols/ai-sync-design-md-chrome) | ⭐ 428 | `2026-04-19` |
-| 73 | [**WorldSeed**](https://github.com/YeonCheols/ai-sync-WorldSeed) | ⭐ 111 | `2026-04-19` |
-| 74 | [**open-carrusel**](https://github.com/YeonCheols/ai-sync-open-carrusel) | ⭐ 107 | `2026-04-19` |
-| 75 | [**ddtree-mlx**](https://github.com/YeonCheols/ai-sync-ddtree-mlx) | ⭐ 100 | `2026-04-19` |
-| 76 | [**GEOFlow**](https://github.com/YeonCheols/ai-sync-GEOFlow) | ⭐ 687 | `2026-04-16` |
-| 77 | [**llm-internals**](https://github.com/YeonCheols/ai-sync-llm-internals) | ⭐ 407 | `2026-04-16` |
-| 78 | [**antivibe**](https://github.com/YeonCheols/ai-sync-antivibe) | ⭐ 384 | `2026-04-16` |
-| 79 | [**design-extract**](https://github.com/YeonCheols/ai-sync-design-extract) | ⭐ 295 | `2026-04-16` |
-| 80 | [**hermes-web-ui**](https://github.com/YeonCheols/ai-sync-hermes-web-ui) | ⭐ 222 | `2026-04-16` |
-| 81 | [**claude-obsidian**](https://github.com/YeonCheols/ai-sync-claude-obsidian) | ⭐ 681 | `2026-04-13` |
-| 82 | [**auto-deep-researcher-24x7**](https://github.com/YeonCheols/ai-sync-auto-deep-researcher-24x7) | ⭐ 326 | `2026-04-13` |
-| 83 | [**Learn-Open-Harness**](https://github.com/YeonCheols/ai-sync-Learn-Open-Harness) | ⭐ 230 | `2026-04-13` |
-| 84 | [**llm-wiki**](https://github.com/YeonCheols/ai-sync-llm-wiki) | ⭐ 175 | `2026-04-13` |
-| 85 | [**zero-to-ai-fullstack**](https://github.com/YeonCheols/ai-sync-zero-to-ai-fullstack) | ⭐ 139 | `2026-04-13` |
-| 86 | [**codesight**](https://github.com/YeonCheols/ai-sync-codesight) | ⭐ 760 | `2026-04-10` |
-| 87 | [**gemma-gem**](https://github.com/YeonCheols/ai-sync-gemma-gem) | ⭐ 589 | `2026-04-10` |
-| 88 | [**llm-wiki-compiler**](https://github.com/YeonCheols/ai-sync-llm-wiki-compiler) | ⭐ 288 | `2026-04-10` |
-| 89 | [**caveman**](https://github.com/YeonCheols/ai-sync-caveman) | ⭐ 4,236 | `2026-04-07` |
-| 90 | [**parlor**](https://github.com/YeonCheols/ai-sync-parlor) | ⭐ 771 | `2026-04-07` |
-| 91 | [**mempalace**](https://github.com/YeonCheols/ai-sync-mempalace) | ⭐ 370 | `2026-04-07` |
-| 92 | [**better-clawd**](https://github.com/YeonCheols/ai-sync-better-clawd) | ⭐ 351 | `2026-04-07` |
-| 93 | [**open-multi-agent**](https://github.com/YeonCheols/ai-sync-open-multi-agent) | ⭐ 3,232 | `2026-04-04` |
-| 94 | [**how-claude-code-works**](https://github.com/YeonCheols/ai-sync-how-claude-code-works) | ⭐ 1,380 | `2026-04-04` |
-| 95 | [**claude-reviews-claude**](https://github.com/YeonCheols/ai-sync-claude-reviews-claude) | ⭐ 1,178 | `2026-04-04` |
-| 96 | [**claude-code-rust**](https://github.com/YeonCheols/ai-sync-claude-code-rust) | ⭐ 901 | `2026-04-04` |
-| 97 | [**claude-code-from-scratch**](https://github.com/YeonCheols/ai-sync-claude-code-from-scratch) | ⭐ 705 | `2026-04-04` |
-| 98 | [**phantom**](https://github.com/YeonCheols/ai-sync-phantom) | ⭐ 666 | `2026-04-01` |
-| 99 | [**awesome-openclaw**](https://github.com/YeonCheols/ai-sync-awesome-openclaw) | ⭐ 460 | `2026-04-01` |
-| 100 | [**claude-code-book**](https://github.com/YeonCheols/ai-sync-claude-code-book) | ⭐ 311 | `2026-04-01` |
-| 101 | [**claude-code-source-code**](https://github.com/YeonCheols/ai-sync-claude-code-source-code) | ⭐ 233 | `2026-04-01` |
-| 102 | [**figma-mcp-go**](https://github.com/YeonCheols/ai-sync-figma-mcp-go) | ⭐ 222 | `2026-04-01` |
-| 103 | [**mcp-brasil**](https://github.com/YeonCheols/ai-sync-mcp-brasil) | ⭐ 944 | `2026-03-31` |
-| 104 | [**openclaw-auto-dream**](https://github.com/YeonCheols/ai-sync-openclaw-auto-dream) | ⭐ 485 | `2026-03-31` |
-| 105 | [**thereisnospoon**](https://github.com/YeonCheols/ai-sync-thereisnospoon) | ⭐ 378 | `2026-03-31` |
-| 106 | [**awesome-openclaw**](https://github.com/YeonCheols/ai-sync-awesome-openclaw) | ⭐ 255 | `2026-03-31` |
-| 107 | [**zinc**](https://github.com/YeonCheols/ai-sync-zinc) | ⭐ 215 | `2026-03-31` |
-| 108 | [**awesome-opensource-ai**](https://github.com/YeonCheols/ai-sync-awesome-opensource-ai) | ⭐ 1,467 | `2026-03-28` |
-| 109 | [**HolyClaude**](https://github.com/YeonCheols/ai-sync-HolyClaude) | ⭐ 973 | `2026-03-28` |
-| 110 | [**lean-ctx**](https://github.com/YeonCheols/ai-sync-lean-ctx) | ⭐ 269 | `2026-03-28` |
-| 111 | [**t1code**](https://github.com/YeonCheols/ai-sync-t1code) | ⭐ 197 | `2026-03-28` |
-| 112 | [**transformer-vm**](https://github.com/YeonCheols/ai-sync-transformer-vm) | ⭐ 153 | `2026-03-28` |
-| 113 | [**awesome-autoresearch**](https://github.com/YeonCheols/ai-sync-awesome-autoresearch) | ⭐ 256 | `2026-03-25` |
-| 114 | [**cc-skills-golang**](https://github.com/YeonCheols/ai-sync-cc-skills-golang) | ⭐ 247 | `2026-03-25` |
-| 115 | [**ai-engineering-interview-questions**](https://github.com/YeonCheols/ai-sync-ai-engineering-interview-questions) | ⭐ 237 | `2026-03-25` |
-| 116 | [**agent-flow**](https://github.com/YeonCheols/ai-sync-agent-flow) | ⭐ 191 | `2026-03-25` |
-| 117 | [**katmer-code**](https://github.com/YeonCheols/ai-sync-katmer-code) | ⭐ 142 | `2026-03-25` |
-| 118 | [**chops**](https://github.com/YeonCheols/ai-sync-chops) | ⭐ 530 | `2026-03-24` |
-| 119 | [**ai-engineering-from-scratch**](https://github.com/YeonCheols/ai-sync-ai-engineering-from-scratch) | ⭐ 414 | `2026-03-24` |
-| 120 | [**opencode-claude-auth**](https://github.com/YeonCheols/ai-sync-opencode-claude-auth) | ⭐ 397 | `2026-03-24` |
-| 121 | [**desktop**](https://github.com/YeonCheols/ai-sync-desktop) | ⭐ 262 | `2026-03-24` |
-| 122 | [**awesome-free-llm-apis**](https://github.com/YeonCheols/ai-sync-awesome-free-llm-apis) | ⭐ 239 | `2026-03-24` |
+| 1 | [**machine-learning-library**](https://github.com/YeonCheols/ai-sync-machine-learning-library) | ⭐ 110 | `2026-06-01` |
+| 2 | [**image-extender**](https://github.com/YeonCheols/ai-sync-image-extender) | ⭐ 84 | `2026-06-01` |
+| 3 | [**AI-Photo-Background-Remover**](https://github.com/YeonCheols/ai-sync-AI-Photo-Background-Remover) | ⭐ 74 | `2026-06-01` |
+| 4 | [**KeyType**](https://github.com/YeonCheols/ai-sync-KeyType) | ⭐ 71 | `2026-06-01` |
+| 5 | [**DocPaws**](https://github.com/YeonCheols/ai-sync-DocPaws) | ⭐ 57 | `2026-06-01` |
+| 6 | [**vibecode-pro-max-kit**](https://github.com/YeonCheols/ai-sync-vibecode-pro-max-kit) | ⭐ 603 | `2026-05-31` |
+| 7 | [**Duel-Agents**](https://github.com/YeonCheols/ai-sync-Duel-Agents) | ⭐ 464 | `2026-05-31` |
+| 8 | [**polymarket-arbitrage-trading-bot**](https://github.com/YeonCheols/ai-sync-polymarket-arbitrage-trading-bot) | ⭐ 203 | `2026-05-31` |
+| 9 | [**kalshi-trading-bot**](https://github.com/YeonCheols/ai-sync-kalshi-trading-bot) | ⭐ 114 | `2026-05-31` |
+| 10 | [**lazycodex**](https://github.com/YeonCheols/ai-sync-lazycodex) | ⭐ 111 | `2026-05-31` |
+| 11 | [**adhd**](https://github.com/YeonCheols/ai-sync-adhd) | ⭐ 366 | `2026-05-28` |
+| 12 | [**filetree-skill**](https://github.com/YeonCheols/ai-sync-filetree-skill) | ⭐ 94 | `2026-05-28` |
+| 13 | [**Project-Onyx**](https://github.com/YeonCheols/ai-sync-Project-Onyx) | ⭐ 83 | `2026-05-28` |
+| 14 | [**vue-tui**](https://github.com/YeonCheols/ai-sync-vue-tui) | ⭐ 64 | `2026-05-28` |
+| 15 | [**AutoRun**](https://github.com/YeonCheols/ai-sync-AutoRun) | ⭐ 50 | `2026-05-28` |
+| 16 | [**tartarusai-cli**](https://github.com/YeonCheols/ai-sync-tartarusai-cli) | ⭐ 64 | `2026-05-25` |
+| 17 | [**awesome-architecture**](https://github.com/YeonCheols/ai-sync-awesome-architecture) | ⭐ 50 | `2026-05-25` |
+| 18 | [**Spiderbrain-V3**](https://github.com/YeonCheols/ai-sync-Spiderbrain-V3) | ⭐ 45 | `2026-05-25` |
+| 19 | [**Afterglow**](https://github.com/YeonCheols/ai-sync-Afterglow) | ⭐ 36 | `2026-05-25` |
+| 20 | [**mercury-mcp**](https://github.com/YeonCheols/ai-sync-mercury-mcp) | ⭐ 30 | `2026-05-25` |
+| 21 | [**slopless**](https://github.com/YeonCheols/ai-sync-slopless) | ⭐ 256 | `2026-05-22` |
+| 22 | [**ai-fomo-skills**](https://github.com/YeonCheols/ai-sync-ai-fomo-skills) | ⭐ 102 | `2026-05-22` |
+| 23 | [**can-i-finetune-this**](https://github.com/YeonCheols/ai-sync-can-i-finetune-this) | ⭐ 81 | `2026-05-22` |
+| 24 | [**claude-soul**](https://github.com/YeonCheols/ai-sync-claude-soul) | ⭐ 76 | `2026-05-22` |
+| 25 | [**ARIS-in-AI-Offer**](https://github.com/YeonCheols/ai-sync-ARIS-in-AI-Offer) | ⭐ 71 | `2026-05-22` |
+| 26 | [**Stable-Diffusion-WebUI**](https://github.com/YeonCheols/ai-sync-Stable-Diffusion-WebUI) | ⭐ 449 | `2026-05-19` |
+| 27 | [**harmonist-orchestral**](https://github.com/YeonCheols/ai-sync-harmonist-orchestral) | ⭐ 421 | `2026-05-19` |
+| 28 | [**orthrus**](https://github.com/YeonCheols/ai-sync-orthrus) | ⭐ 315 | `2026-05-19` |
+| 29 | [**polymarket-ai-trading**](https://github.com/YeonCheols/ai-sync-polymarket-ai-trading) | ⭐ 178 | `2026-05-19` |
+| 30 | [**shushu-internship-tool**](https://github.com/YeonCheols/ai-sync-shushu-internship-tool) | ⭐ 175 | `2026-05-19` |
+| 31 | [**html-anything**](https://github.com/YeonCheols/ai-sync-html-anything) | ⭐ 2,025 | `2026-05-16` |
+| 32 | [**journal-adapt-writing-skill**](https://github.com/YeonCheols/ai-sync-journal-adapt-writing-skill) | ⭐ 256 | `2026-05-16` |
+| 33 | [**pgGraph**](https://github.com/YeonCheols/ai-sync-pgGraph) | ⭐ 144 | `2026-05-16` |
+| 34 | [**elephant-agent**](https://github.com/YeonCheols/ai-sync-elephant-agent) | ⭐ 127 | `2026-05-16` |
+| 35 | [**ai-auto-trading**](https://github.com/YeonCheols/ai-sync-ai-auto-trading) | ⭐ 120 | `2026-05-16` |
+| 36 | [**mercury-agent-skills**](https://github.com/YeonCheols/ai-sync-mercury-agent-skills) | ⭐ 102 | `2026-05-13` |
+| 37 | [**outputguard**](https://github.com/YeonCheols/ai-sync-outputguard) | ⭐ 77 | `2026-05-13` |
+| 38 | [**d4rt**](https://github.com/YeonCheols/ai-sync-d4rt) | ⭐ 50 | `2026-05-13` |
+| 39 | [**100M**](https://github.com/YeonCheols/ai-sync-100M) | ⭐ 47 | `2026-05-13` |
+| 40 | [**second-brain-cloudflare**](https://github.com/YeonCheols/ai-sync-second-brain-cloudflare) | ⭐ 47 | `2026-05-13` |
+| 41 | [**Photo-agents**](https://github.com/YeonCheols/ai-sync-Photo-agents) | ⭐ 364 | `2026-05-10` |
+| 42 | [**best-of-algorithmic-trading**](https://github.com/YeonCheols/ai-sync-best-of-algorithmic-trading) | ⭐ 269 | `2026-05-10` |
+| 43 | [**Agent_Memory_Techniques**](https://github.com/YeonCheols/ai-sync-Agent_Memory_Techniques) | ⭐ 247 | `2026-05-10` |
+| 44 | [**pordee**](https://github.com/YeonCheols/ai-sync-pordee) | ⭐ 209 | `2026-05-10` |
+| 45 | [**opensquilla**](https://github.com/YeonCheols/ai-sync-opensquilla) | ⭐ 163 | `2026-05-10` |
+| 46 | [**how-to-train-your-gpt**](https://github.com/YeonCheols/ai-sync-how-to-train-your-gpt) | ⭐ 586 | `2026-05-07` |
+| 47 | [**yao-open-prompts**](https://github.com/YeonCheols/ai-sync-yao-open-prompts) | ⭐ 476 | `2026-05-07` |
+| 48 | [**tokenspeed**](https://github.com/YeonCheols/ai-sync-tokenspeed) | ⭐ 306 | `2026-05-07` |
+| 49 | [**kalshi-ai-trading-bot**](https://github.com/YeonCheols/ai-sync-kalshi-ai-trading-bot) | ⭐ 222 | `2026-05-07` |
+| 50 | [**skills**](https://github.com/YeonCheols/ai-sync-skills) | ⭐ 212 | `2026-05-07` |
+| 51 | [**trading-agents**](https://github.com/YeonCheols/ai-sync-trading-agents) | ⭐ 211 | `2026-05-04` |
+| 52 | [**composio**](https://github.com/YeonCheols/ai-sync-composio) | ⭐ 206 | `2026-05-04` |
+| 53 | [**gpt-image-canvas**](https://github.com/YeonCheols/ai-sync-gpt-image-canvas) | ⭐ 184 | `2026-05-04` |
+| 54 | [**awesome-claude-api**](https://github.com/YeonCheols/ai-sync-awesome-claude-api) | ⭐ 174 | `2026-05-04` |
+| 55 | [**craft-agents-oss**](https://github.com/YeonCheols/ai-sync-craft-agents-oss) | ⭐ 129 | `2026-05-04` |
+| 56 | [**open-design**](https://github.com/YeonCheols/ai-sync-open-design) | ⭐ 8,523 | `2026-05-01` |
+| 57 | [**ai-trading-agent**](https://github.com/YeonCheols/ai-sync-ai-trading-agent) | ⭐ 147 | `2026-05-01` |
+| 58 | [**Stable-Diffusion-AI-Free**](https://github.com/YeonCheols/ai-sync-Stable-Diffusion-AI-Free) | ⭐ 144 | `2026-05-01` |
+| 59 | [**AwesomeOPD**](https://github.com/YeonCheols/ai-sync-AwesomeOPD) | ⭐ 102 | `2026-05-01` |
+| 60 | [**facex**](https://github.com/YeonCheols/ai-sync-facex) | ⭐ 100 | `2026-05-01` |
+| 61 | [**stash**](https://github.com/YeonCheols/ai-sync-stash) | ⭐ 428 | `2026-04-28` |
+| 62 | [**wanman**](https://github.com/YeonCheols/ai-sync-wanman) | ⭐ 386 | `2026-04-28` |
+| 63 | [**polymarket-ai-trading**](https://github.com/YeonCheols/ai-sync-polymarket-ai-trading) | ⭐ 154 | `2026-04-28` |
+| 64 | [**LoongForge**](https://github.com/YeonCheols/ai-sync-LoongForge) | ⭐ 141 | `2026-04-28` |
+| 65 | [**QuantClaw-plugin**](https://github.com/YeonCheols/ai-sync-QuantClaw-plugin) | ⭐ 91 | `2026-04-28` |
+| 66 | [**text-to-cad**](https://github.com/YeonCheols/ai-sync-text-to-cad) | ⭐ 356 | `2026-04-25` |
+| 67 | [**harmonist**](https://github.com/YeonCheols/ai-sync-harmonist) | ⭐ 342 | `2026-04-25` |
+| 68 | [**hi-kid**](https://github.com/YeonCheols/ai-sync-hi-kid) | ⭐ 317 | `2026-04-25` |
+| 69 | [**future-agi**](https://github.com/YeonCheols/ai-sync-future-agi) | ⭐ 266 | `2026-04-25` |
+| 70 | [**WindsurfPoolAPI**](https://github.com/YeonCheols/ai-sync-WindsurfPoolAPI) | ⭐ 120 | `2026-04-25` |
+| 71 | [**OpenMythos**](https://github.com/YeonCheols/ai-sync-OpenMythos) | ⭐ 7,117 | `2026-04-22` |
+| 72 | [**mercury-agent**](https://github.com/YeonCheols/ai-sync-mercury-agent) | ⭐ 337 | `2026-04-22` |
+| 73 | [**agent-style**](https://github.com/YeonCheols/ai-sync-agent-style) | ⭐ 212 | `2026-04-22` |
+| 74 | [**agent-startup-kit**](https://github.com/YeonCheols/ai-sync-agent-startup-kit) | ⭐ 173 | `2026-04-22` |
+| 75 | [**alice**](https://github.com/YeonCheols/ai-sync-alice) | ⭐ 138 | `2026-04-22` |
+| 76 | [**BuilderPulse**](https://github.com/YeonCheols/ai-sync-BuilderPulse) | ⭐ 932 | `2026-04-19` |
+| 77 | [**design-md-chrome**](https://github.com/YeonCheols/ai-sync-design-md-chrome) | ⭐ 428 | `2026-04-19` |
+| 78 | [**WorldSeed**](https://github.com/YeonCheols/ai-sync-WorldSeed) | ⭐ 111 | `2026-04-19` |
+| 79 | [**open-carrusel**](https://github.com/YeonCheols/ai-sync-open-carrusel) | ⭐ 107 | `2026-04-19` |
+| 80 | [**ddtree-mlx**](https://github.com/YeonCheols/ai-sync-ddtree-mlx) | ⭐ 100 | `2026-04-19` |
+| 81 | [**GEOFlow**](https://github.com/YeonCheols/ai-sync-GEOFlow) | ⭐ 687 | `2026-04-16` |
+| 82 | [**llm-internals**](https://github.com/YeonCheols/ai-sync-llm-internals) | ⭐ 407 | `2026-04-16` |
+| 83 | [**antivibe**](https://github.com/YeonCheols/ai-sync-antivibe) | ⭐ 384 | `2026-04-16` |
+| 84 | [**design-extract**](https://github.com/YeonCheols/ai-sync-design-extract) | ⭐ 295 | `2026-04-16` |
+| 85 | [**hermes-web-ui**](https://github.com/YeonCheols/ai-sync-hermes-web-ui) | ⭐ 222 | `2026-04-16` |
+| 86 | [**claude-obsidian**](https://github.com/YeonCheols/ai-sync-claude-obsidian) | ⭐ 681 | `2026-04-13` |
+| 87 | [**auto-deep-researcher-24x7**](https://github.com/YeonCheols/ai-sync-auto-deep-researcher-24x7) | ⭐ 326 | `2026-04-13` |
+| 88 | [**Learn-Open-Harness**](https://github.com/YeonCheols/ai-sync-Learn-Open-Harness) | ⭐ 230 | `2026-04-13` |
+| 89 | [**llm-wiki**](https://github.com/YeonCheols/ai-sync-llm-wiki) | ⭐ 175 | `2026-04-13` |
+| 90 | [**zero-to-ai-fullstack**](https://github.com/YeonCheols/ai-sync-zero-to-ai-fullstack) | ⭐ 139 | `2026-04-13` |
+| 91 | [**codesight**](https://github.com/YeonCheols/ai-sync-codesight) | ⭐ 760 | `2026-04-10` |
+| 92 | [**gemma-gem**](https://github.com/YeonCheols/ai-sync-gemma-gem) | ⭐ 589 | `2026-04-10` |
+| 93 | [**llm-wiki-compiler**](https://github.com/YeonCheols/ai-sync-llm-wiki-compiler) | ⭐ 288 | `2026-04-10` |
+| 94 | [**caveman**](https://github.com/YeonCheols/ai-sync-caveman) | ⭐ 4,236 | `2026-04-07` |
+| 95 | [**parlor**](https://github.com/YeonCheols/ai-sync-parlor) | ⭐ 771 | `2026-04-07` |
+| 96 | [**mempalace**](https://github.com/YeonCheols/ai-sync-mempalace) | ⭐ 370 | `2026-04-07` |
+| 97 | [**better-clawd**](https://github.com/YeonCheols/ai-sync-better-clawd) | ⭐ 351 | `2026-04-07` |
+| 98 | [**open-multi-agent**](https://github.com/YeonCheols/ai-sync-open-multi-agent) | ⭐ 3,232 | `2026-04-04` |
+| 99 | [**how-claude-code-works**](https://github.com/YeonCheols/ai-sync-how-claude-code-works) | ⭐ 1,380 | `2026-04-04` |
+| 100 | [**claude-reviews-claude**](https://github.com/YeonCheols/ai-sync-claude-reviews-claude) | ⭐ 1,178 | `2026-04-04` |
+| 101 | [**claude-code-rust**](https://github.com/YeonCheols/ai-sync-claude-code-rust) | ⭐ 901 | `2026-04-04` |
+| 102 | [**claude-code-from-scratch**](https://github.com/YeonCheols/ai-sync-claude-code-from-scratch) | ⭐ 705 | `2026-04-04` |
+| 103 | [**phantom**](https://github.com/YeonCheols/ai-sync-phantom) | ⭐ 666 | `2026-04-01` |
+| 104 | [**awesome-openclaw**](https://github.com/YeonCheols/ai-sync-awesome-openclaw) | ⭐ 460 | `2026-04-01` |
+| 105 | [**claude-code-book**](https://github.com/YeonCheols/ai-sync-claude-code-book) | ⭐ 311 | `2026-04-01` |
+| 106 | [**claude-code-source-code**](https://github.com/YeonCheols/ai-sync-claude-code-source-code) | ⭐ 233 | `2026-04-01` |
+| 107 | [**figma-mcp-go**](https://github.com/YeonCheols/ai-sync-figma-mcp-go) | ⭐ 222 | `2026-04-01` |
+| 108 | [**mcp-brasil**](https://github.com/YeonCheols/ai-sync-mcp-brasil) | ⭐ 944 | `2026-03-31` |
+| 109 | [**openclaw-auto-dream**](https://github.com/YeonCheols/ai-sync-openclaw-auto-dream) | ⭐ 485 | `2026-03-31` |
+| 110 | [**thereisnospoon**](https://github.com/YeonCheols/ai-sync-thereisnospoon) | ⭐ 378 | `2026-03-31` |
+| 111 | [**awesome-openclaw**](https://github.com/YeonCheols/ai-sync-awesome-openclaw) | ⭐ 255 | `2026-03-31` |
+| 112 | [**zinc**](https://github.com/YeonCheols/ai-sync-zinc) | ⭐ 215 | `2026-03-31` |
+| 113 | [**awesome-opensource-ai**](https://github.com/YeonCheols/ai-sync-awesome-opensource-ai) | ⭐ 1,467 | `2026-03-28` |
+| 114 | [**HolyClaude**](https://github.com/YeonCheols/ai-sync-HolyClaude) | ⭐ 973 | `2026-03-28` |
+| 115 | [**lean-ctx**](https://github.com/YeonCheols/ai-sync-lean-ctx) | ⭐ 269 | `2026-03-28` |
+| 116 | [**t1code**](https://github.com/YeonCheols/ai-sync-t1code) | ⭐ 197 | `2026-03-28` |
+| 117 | [**transformer-vm**](https://github.com/YeonCheols/ai-sync-transformer-vm) | ⭐ 153 | `2026-03-28` |
+| 118 | [**awesome-autoresearch**](https://github.com/YeonCheols/ai-sync-awesome-autoresearch) | ⭐ 256 | `2026-03-25` |
+| 119 | [**cc-skills-golang**](https://github.com/YeonCheols/ai-sync-cc-skills-golang) | ⭐ 247 | `2026-03-25` |
+| 120 | [**ai-engineering-interview-questions**](https://github.com/YeonCheols/ai-sync-ai-engineering-interview-questions) | ⭐ 237 | `2026-03-25` |
+| 121 | [**agent-flow**](https://github.com/YeonCheols/ai-sync-agent-flow) | ⭐ 191 | `2026-03-25` |
+| 122 | [**katmer-code**](https://github.com/YeonCheols/ai-sync-katmer-code) | ⭐ 142 | `2026-03-25` |
+| 123 | [**chops**](https://github.com/YeonCheols/ai-sync-chops) | ⭐ 530 | `2026-03-24` |
+| 124 | [**ai-engineering-from-scratch**](https://github.com/YeonCheols/ai-sync-ai-engineering-from-scratch) | ⭐ 414 | `2026-03-24` |
+| 125 | [**opencode-claude-auth**](https://github.com/YeonCheols/ai-sync-opencode-claude-auth) | ⭐ 397 | `2026-03-24` |
+| 126 | [**desktop**](https://github.com/YeonCheols/ai-sync-desktop) | ⭐ 262 | `2026-03-24` |
+| 127 | [**awesome-free-llm-apis**](https://github.com/YeonCheols/ai-sync-awesome-free-llm-apis) | ⭐ 239 | `2026-03-24` |
 
 ---
 
@@ -156,35 +161,8 @@
 
 <details>
 <summary>
-  <b>1. <a href="https://github.com/UditAkhourii/adhd">adhd</a></b>
-  &nbsp; ⭐ <b>607</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-05-25` |
-| 💻 언어 | `TypeScript` |
-| ⭐ Stars | `607` |
-| 🍴 Forks | `27` |
-
-**🏷 토픽:** `adhd` `agents` `ai` `ai-agents` `brainstorm`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>2. <a href="https://github.com/withkynam/vibecode-pro-max-kit">vibecode-pro-max-kit</a></b>
-  &nbsp; ⭐ <b>603</b> &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+  <b>1. <a href="https://github.com/withkynam/vibecode-pro-max-kit">vibecode-pro-max-kit</a></b>
+  &nbsp; ⭐ <b>671</b> &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 </summary>
 
 <br>
@@ -199,8 +177,8 @@
 |---|---|
 | 📅 생성일 | `2026-05-27` |
 | 💻 언어 | `JavaScript` |
-| ⭐ Stars | `603` |
-| 🍴 Forks | `150` |
+| ⭐ Stars | `671` |
+| 🍴 Forks | `162` |
 
 **🏷 토픽:** `agentic` `ai-agents` `ai-coding-assistant` `ai-development` `ai-workflow`
 
@@ -210,8 +188,8 @@
 
 <details>
 <summary>
-  <b>3. <a href="https://github.com/2aronS/Duel-Agents">Duel-Agents</a></b>
-  &nbsp; ⭐ <b>464</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  <b>2. <a href="https://github.com/2aronS/Duel-Agents">Duel-Agents</a></b>
+  &nbsp; ⭐ <b>580</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 </summary>
 
 <br>
@@ -226,8 +204,8 @@
 |---|---|
 | 📅 생성일 | `2026-05-28` |
 | 💻 언어 | `TypeScript` |
-| ⭐ Stars | `464` |
-| 🍴 Forks | `12` |
+| ⭐ Stars | `580` |
+| 🍴 Forks | `16` |
 
 **🏷 토픽:** `ai-agents` `anthropic` `claude-code` `cli` `cursor`
 
@@ -237,8 +215,8 @@
 
 <details>
 <summary>
-  <b>4. <a href="https://github.com/polymaxi2/polymarket-arbitrage-trading-bot">polymarket-arbitrage-trading-bot</a></b>
-  &nbsp; ⭐ <b>203</b> &nbsp; 
+  <b>3. <a href="https://github.com/polymaxi2/polymarket-arbitrage-trading-bot">polymarket-arbitrage-trading-bot</a></b>
+  &nbsp; ⭐ <b>259</b> &nbsp; 
 </summary>
 
 <br>
@@ -253,8 +231,8 @@
 |---|---|
 | 📅 생성일 | `2026-05-31` |
 | 💻 언어 | `N/A` |
-| ⭐ Stars | `203` |
-| 🍴 Forks | `770` |
+| ⭐ Stars | `259` |
+| 🍴 Forks | `4,000` |
 
 **🏷 토픽:** `15min` `5min` `ai` `arbitrage` `arbitragebot`
 
@@ -264,8 +242,8 @@
 
 <details>
 <summary>
-  <b>5. <a href="https://github.com/nekocode/filetree-skill">filetree-skill</a></b>
-  &nbsp; ⭐ <b>125</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  <b>4. <a href="https://github.com/nekocode/filetree-skill">filetree-skill</a></b>
+  &nbsp; ⭐ <b>128</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </summary>
 
 <br>
@@ -280,8 +258,8 @@
 |---|---|
 | 📅 생성일 | `2026-05-26` |
 | 💻 언어 | `Python` |
-| ⭐ Stars | `125` |
-| 🍴 Forks | `7` |
+| ⭐ Stars | `128` |
+| 🍴 Forks | `8` |
 
 **🏷 토픽:** `agent` `ai` `skills`
 
@@ -291,7 +269,7 @@
 
 <details>
 <summary>
-  <b>6. <a href="https://github.com/openfi-dao/kalshi-trading-bot">kalshi-trading-bot</a></b>
+  <b>5. <a href="https://github.com/openfi-dao/kalshi-trading-bot">kalshi-trading-bot</a></b>
   &nbsp; ⭐ <b>114</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 </summary>
 
@@ -308,7 +286,7 @@
 | 📅 생성일 | `2026-05-28` |
 | 💻 언어 | `TypeScript` |
 | ⭐ Stars | `114` |
-| 🍴 Forks | `317` |
+| 🍴 Forks | `318` |
 
 **🏷 토픽:** `ai-trading` `bot` `kalshi` `llm` `nodejs`
 
@@ -318,35 +296,8 @@
 
 <details>
 <summary>
-  <b>7. <a href="https://github.com/code-yeongyu/lazycodex">lazycodex</a></b>
-  &nbsp; ⭐ <b>111</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> LazyCodex: Codex for no-brainers. You don't need to think. Just prompt with ultrawork.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-05-25` |
-| 💻 언어 | `TypeScript` |
-| ⭐ Stars | `111` |
-| 🍴 Forks | `2` |
-
-**🏷 토픽:** `ai` `ai-agents` `claude` `claude-code` `cli`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>8. <a href="https://github.com/ATOM00blue/machine-learning-library">machine-learning-library</a></b>
-  &nbsp; ⭐ <b>106</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  <b>6. <a href="https://github.com/ATOM00blue/machine-learning-library">machine-learning-library</a></b>
+  &nbsp; ⭐ <b>110</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </summary>
 
 <br>
@@ -361,7 +312,7 @@
 |---|---|
 | 📅 생성일 | `2026-05-28` |
 | 💻 언어 | `Python` |
-| ⭐ Stars | `106` |
+| ⭐ Stars | `110` |
 | 🍴 Forks | `11` |
 
 **🏷 토픽:** `arxiv` `corpus` `dataset` `deep-learning` `education`
@@ -372,8 +323,8 @@
 
 <details>
 <summary>
-  <b>9. <a href="https://github.com/Gao-Ruilin/AutoRun">AutoRun</a></b>
-  &nbsp; ⭐ <b>101</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  <b>7. <a href="https://github.com/Gao-Ruilin/AutoRun">AutoRun</a></b>
+  &nbsp; ⭐ <b>102</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </summary>
 
 <br>
@@ -388,7 +339,7 @@
 |---|---|
 | 📅 생성일 | `2026-05-26` |
 | 💻 언어 | `Python` |
-| ⭐ Stars | `101` |
+| ⭐ Stars | `102` |
 | 🍴 Forks | `10` |
 
 **🏷 토픽:** `ai` `ai-agent` `ai-agents` `code-generation`
@@ -399,62 +350,8 @@
 
 <details>
 <summary>
-  <b>10. <a href="https://github.com/1ove9/antenna-forge">antenna-forge</a></b>
-  &nbsp; ⭐ <b>63</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> AI-driven inverse antenna design with real NEC2 + openEMS in the loop. Try the live in-browser playground.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-05-25` |
-| 💻 언어 | `Python` |
-| ⭐ Stars | `63` |
-| 🍴 Forks | `10` |
-
-**🏷 토픽:** `antenna` `antenna-design` `electromagnetics` `fdtd` `inverse-design`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>11. <a href="https://github.com/oleksiijko/pmb">pmb</a></b>
-  &nbsp; ⭐ <b>61</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> Local-first persistent memory for AI coding agents (Claude Code, Cursor, Codex) via MCP. 94.5% LoCoMo recall@10, 70ms p50, multilingual, zero API keys.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-05-25` |
-| 💻 언어 | `Python` |
-| ⭐ Stars | `61` |
-| 🍴 Forks | `1` |
-
-**🏷 토픽:** `ai-agents` `ai-memory` `bm25` `claude-code` `codex`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>12. <a href="https://github.com/boona13/image-extender">image-extender</a></b>
-  &nbsp; ⭐ <b>57</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  <b>8. <a href="https://github.com/boona13/image-extender">image-extender</a></b>
+  &nbsp; ⭐ <b>84</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 </summary>
 
 <br>
@@ -469,8 +366,8 @@
 |---|---|
 | 📅 생성일 | `2026-05-26` |
 | 💻 언어 | `TypeScript` |
-| ⭐ Stars | `57` |
-| 🍴 Forks | `12` |
+| ⭐ Stars | `84` |
+| 🍴 Forks | `17` |
 
 **🏷 토픽:** `ai` `gemini` `image-generation` `nano-banana` `nextjs`
 
@@ -480,8 +377,89 @@
 
 <details>
 <summary>
-  <b>13. <a href="https://github.com/developer2013/bricks-mcp-open">bricks-mcp-open</a></b>
-  &nbsp; ⭐ <b>52</b> &nbsp; ![PHP](https://img.shields.io/badge/-PHP-888888?style=flat-square&logo=php&logoColor=white)
+  <b>9. <a href="https://github.com/lilliancrivaro27064501728/AI-Photo-Background-Remover">AI-Photo-Background-Remover</a></b>
+  &nbsp; ⭐ <b>74</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> An easy-to-use desktop utility powered by AI to automatically remove background from photos locally, offline, and in high resolution.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-05-31` |
+| 💻 언어 | `Python` |
+| ⭐ Stars | `74` |
+| 🍴 Forks | `0` |
+
+**🏷 토픽:** `ai-background-removal` `auto-background-remover` `background-extraction` `background-generation` `background-removal`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>10. <a href="https://github.com/johnbean393/KeyType">KeyType</a></b>
+  &nbsp; ⭐ <b>71</b> &nbsp; ![Swift](https://img.shields.io/badge/-Swift-888888?style=flat-square&logo=swift&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> An open-source Cotypist with macOS system wide AI autocomplete
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-05-31` |
+| 💻 언어 | `Swift` |
+| ⭐ Stars | `71` |
+| 🍴 Forks | `3` |
+
+**🏷 토픽:** `ai` `ai-autocomplete` `autocomplete` `completions` `cotabby`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>11. <a href="https://github.com/biao994/DocPaws">DocPaws</a></b>
+  &nbsp; ⭐ <b>57</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> 工程化 RAG 文档助手：知识库、PDF 索引、Agent 工具编排、scope 检索、引用溯源与拒答阈值。FastAPI + Vue3
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-05-26` |
+| 💻 언어 | `Python` |
+| ⭐ Stars | `57` |
+| 🍴 Forks | `1` |
+
+**🏷 토픽:** `fastapi` `langchain` `rag` `vue`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>12. <a href="https://github.com/developer2013/bricks-mcp-open">bricks-mcp-open</a></b>
+  &nbsp; ⭐ <b>54</b> &nbsp; ![PHP](https://img.shields.io/badge/-PHP-888888?style=flat-square&logo=php&logoColor=white)
 </summary>
 
 <br>
@@ -496,7 +474,7 @@
 |---|---|
 | 📅 생성일 | `2026-05-27` |
 | 💻 언어 | `PHP` |
-| ⭐ Stars | `52` |
+| ⭐ Stars | `54` |
 | 🍴 Forks | `4` |
 
 **🏷 토픽:** `ai` `bricks-builder` `claude` `cursor` `mcp`
@@ -507,14 +485,122 @@
 
 <details>
 <summary>
-  <b>14. <a href="https://github.com/sir1st/hermes-desktop">hermes-desktop</a></b>
+  <b>13. <a href="https://github.com/Liu-Ming-Yu/alpha-forge">alpha-forge</a></b>
+  &nbsp; ⭐ <b>52</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> Alpha Forge — an agentic AI operating system for systematic trading.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-05-27` |
+| 💻 언어 | `Python` |
+| ⭐ Stars | `52` |
+| 🍴 Forks | `7` |
+
+**🏷 토픽:** `algorithmic-trading` `alpha-research` `backtesting` `financial-ml` `ibkr`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>14. <a href="https://github.com/HeartWoodpeckerRepel/Raycast-Pro-cracked">Raycast-Pro-cracked</a></b>
+  &nbsp; ⭐ <b>50</b> &nbsp; 
+</summary>
+
+<br>
+
+**📝 설명**
+> Raycast Pro - macOS launcher with extensions, AI, and developer tools. Official page with installation notes, activation guidance, and configuration tips.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-05-31` |
+| 💻 언어 | `N/A` |
+| ⭐ Stars | `50` |
+| 🍴 Forks | `0` |
+
+**🏷 토픽:** `ai` `developer-tools` `launcher` `macos` `raycast`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>15. <a href="https://github.com/kurikomi-labs/komi-learn">komi-learn</a></b>
+  &nbsp; ⭐ <b>47</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> Continuous memory + self-improvement for AI agents. Learns how you work, recalls it automatically, no commands. Claude Code & Codex.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-05-29` |
+| 💻 언어 | `Python` |
+| ⭐ Stars | `47` |
+| 🍴 Forks | `0` |
+
+**🏷 토픽:** `ai-agents` `claude-code` `codex` `continuous-learning` `llm`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>16. <a href="https://github.com/deusjin/subforge">subforge</a></b>
+  &nbsp; ⭐ <b>47</b> &nbsp; ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> Rust CLI for AI subtitle workflows: transcribe, segment, translate, evaluate, and burn or mux subtitles.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-05-29` |
+| 💻 언어 | `Rust` |
+| ⭐ Stars | `47` |
+| 🍴 Forks | `6` |
+
+**🏷 토픽:** `cli` `faster-whisper` `ffmpeg` `llm` `openai`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>17. <a href="https://github.com/sir1st/hermes-desktop">hermes-desktop</a></b>
   &nbsp; ⭐ <b>45</b> &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 </summary>
 
 <br>
 
 **📝 설명**
-> All-in-one cross-platform desktop app for Hermes Agent — bundles Python + hermes-agent + hermes-web-ui
+> Moved to EKKOLearnAI/hermes-web-ui; this repo is kept for historical releases.
 
 
  
@@ -534,34 +620,7 @@
 
 <details>
 <summary>
-  <b>15. <a href="https://github.com/FutureUniant/WorkShadow">WorkShadow</a></b>
-  &nbsp; ⭐ <b>42</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> 如影随形 · 本地优先桌面工作日志：富文本记录、语义检索、工作台总结/问答；模型自配，数据留在本机。 Local-first desktop work journal—rich logs, semantic search, AI summary & Q&A. BYO models, data stays yours.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-05-25` |
-| 💻 언어 | `TypeScript` |
-| ⭐ Stars | `42` |
-| 🍴 Forks | `1` |
-
-**🏷 토픽:** `agent` `ai` `rich-text-editor` `work`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>16. <a href="https://github.com/dexoryn-china/polymarket-arbitrage-bot">polymarket-arbitrage-bot</a></b>
+  <b>18. <a href="https://github.com/dexoryn-china/polymarket-arbitrage-bot">polymarket-arbitrage-bot</a></b>
   &nbsp; ⭐ <b>42</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </summary>
 
@@ -588,26 +647,26 @@
 
 <details>
 <summary>
-  <b>17. <a href="https://github.com/Liu-Ming-Yu/alpha-forge">alpha-forge</a></b>
-  &nbsp; ⭐ <b>42</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  <b>19. <a href="https://github.com/LLMQuant/skills">skills</a></b>
+  &nbsp; ⭐ <b>38</b> &nbsp; ![Shell](https://img.shields.io/badge/-Shell-89E051?style=flat-square&logo=shell&logoColor=white)
 </summary>
 
 <br>
 
 **📝 설명**
-> Alpha Forge — an agentic AI operating system for systematic trading.
+> Reusable Skills for LLMQuant Agent, Claude Code, Claude.ai, Cursor, Hermes Agent, OpenClaw and Codex, grounded in LLMQuant Data
 
 
  
 
 | | |
 |---|---|
-| 📅 생성일 | `2026-05-27` |
-| 💻 언어 | `Python` |
-| ⭐ Stars | `42` |
+| 📅 생성일 | `2026-05-30` |
+| 💻 언어 | `Shell` |
+| ⭐ Stars | `38` |
 | 🍴 Forks | `4` |
 
-**🏷 토픽:** `algorithmic-trading` `alpha-research` `backtesting` `financial-ml` `ibkr`
+**🏷 토픽:** `agent-skills` `ai-agents` `claude-code` `codex` `cursor`
 
 &nbsp;
 
@@ -615,8 +674,35 @@
 
 <details>
 <summary>
-  <b>18. <a href="https://github.com/AbhisumatK/Epstein_Files_RAG">Epstein_Files_RAG</a></b>
-  &nbsp; ⭐ <b>34</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  <b>20. <a href="https://github.com/StarTrail-org/PixelRAG">PixelRAG</a></b>
+  &nbsp; ⭐ <b>37</b> &nbsp; ![JSON](https://img.shields.io/badge/-JSON-888888?style=flat-square&logo=json&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> The end of web parsing. The beginning of scalable pixel-native search.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-05-29` |
+| 💻 언어 | `JSON` |
+| ⭐ Stars | `37` |
+| 🍴 Forks | `0` |
+
+**🏷 토픽:** `agent` `ai` `memory` `multimodal` `rag`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>21. <a href="https://github.com/AbhisumatK/Epstein_Files_RAG">Epstein_Files_RAG</a></b>
+  &nbsp; ⭐ <b>37</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </summary>
 
 <br>
@@ -631,8 +717,8 @@
 |---|---|
 | 📅 생성일 | `2026-05-27` |
 | 💻 언어 | `Python` |
-| ⭐ Stars | `34` |
-| 🍴 Forks | `9` |
+| ⭐ Stars | `37` |
+| 🍴 Forks | `10` |
 
 **🏷 토픽:** `epstein` `epstein-documents` `epstein-files` `rag` `rag-chatbot`
 
@@ -642,7 +728,34 @@
 
 <details>
 <summary>
-  <b>19. <a href="https://github.com/mai-yyy/multi-llm-mcp">multi-llm-mcp</a></b>
+  <b>22. <a href="https://github.com/Health-Yang/MineEcho">MineEcho</a></b>
+  &nbsp; ⭐ <b>34</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-05-28` |
+| 💻 언어 | `TypeScript` |
+| ⭐ Stars | `34` |
+| 🍴 Forks | `5` |
+
+**🏷 토픽:** `ai-agent` `ai-assistant` `knowledge-graph` `local-first` `memory`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>23. <a href="https://github.com/mai-yyy/multi-llm-mcp">multi-llm-mcp</a></b>
   &nbsp; ⭐ <b>32</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </summary>
 
@@ -669,26 +782,26 @@
 
 <details>
 <summary>
-  <b>20. <a href="https://github.com/StarTrail-org/PixelRAG">PixelRAG</a></b>
-  &nbsp; ⭐ <b>32</b> &nbsp; ![JSON](https://img.shields.io/badge/-JSON-888888?style=flat-square&logo=json&logoColor=white)
+  <b>24. <a href="https://github.com/lucidrains/kalmanformer">kalmanformer</a></b>
+  &nbsp; ⭐ <b>31</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </summary>
 
 <br>
 
 **📝 설명**
-> The end of web parsing. The beginning of scalable pixel-native search.
+> Implementation of Kalmanformer, modeling the Kalman gain with a transformer
 
 
  
 
 | | |
 |---|---|
-| 📅 생성일 | `2026-05-29` |
-| 💻 언어 | `JSON` |
-| ⭐ Stars | `32` |
+| 📅 생성일 | `2026-05-30` |
+| 💻 언어 | `Python` |
+| ⭐ Stars | `31` |
 | 🍴 Forks | `0` |
 
-**🏷 토픽:** `agent` `ai` `memory` `multimodal` `rag`
+**🏷 토픽:** `artificial-intelligence` `deep-learning` `kalman-filter` `state-estimation` `transformers`
 
 &nbsp;
 
@@ -696,197 +809,8 @@
 
 <details>
 <summary>
-  <b>21. <a href="https://github.com/Tejas-TA/predikit">predikit</a></b>
-  &nbsp; ⭐ <b>30</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> The missing bridge between your ML models and your AI agents.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-05-25` |
-| 💻 언어 | `Python` |
-| ⭐ Stars | `30` |
-| 🍴 Forks | `12` |
-
-**🏷 토픽:** `agents` `langchain` `llm` `machine-learning` `model-serving`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>22. <a href="https://github.com/o3dotdev/o3-code">o3-code</a></b>
-  &nbsp; ⭐ <b>28</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> O3 Code brings the Codex desktop experience to a local browser with bridge-powered access to your Mac, workspace, tools, and running agent sessions.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-05-25` |
-| 💻 언어 | `TypeScript` |
-| ⭐ Stars | `28` |
-| 🍴 Forks | `0` |
-
-**🏷 토픽:** `agent-workflows` `ai` `ai-coding` `codex` `coding-agent`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>23. <a href="https://github.com/Saito-Sakuya/CandyCraft">CandyCraft</a></b>
-  &nbsp; ⭐ <b>26</b> &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> Candy Craft：一个可视化 AI 生图提示词优化工具，支持画板编排、相机布光和双模式 API（后台托管/用户自定义），可直接部署到 Cloudflare Pages。
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-05-25` |
-| 💻 언어 | `JavaScript` |
-| ⭐ Stars | `26` |
-| 🍴 Forks | `2` |
-
-**🏷 토픽:** `ai` `cloudflare-pages` `image-generation` `javascript` `prompt-engineering-tool`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>24. <a href="https://github.com/machinesoul11/anti-sycophant-ai-agent-skills">anti-sycophant-ai-agent-skills</a></b>
-  &nbsp; ⭐ <b>26</b> &nbsp; 
-</summary>
-
-<br>
-
-**📝 설명**
-> Skills that get AI assistants to stop agreeing with bad product ideas by default — pressure-test premises, separate hobbies from businesses, and refuse validation theater.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-05-25` |
-| 💻 언어 | `N/A` |
-| ⭐ Stars | `26` |
-| 🍴 Forks | `1` |
-
-**🏷 토픽:** `ai` `ai-agents` `claude` `codex` `cursor`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>25. <a href="https://github.com/Health-Yang/MineEcho">MineEcho</a></b>
-  &nbsp; ⭐ <b>26</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-05-28` |
-| 💻 언어 | `TypeScript` |
-| ⭐ Stars | `26` |
-| 🍴 Forks | `3` |
-
-**🏷 토픽:** `ai-agent` `ai-assistant` `knowledge-graph` `local-first` `memory`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>26. <a href="https://github.com/BioTender-max/awesome-bio-agent-skills">awesome-bio-agent-skills</a></b>
-  &nbsp; ⭐ <b>25</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-05-25` |
-| 💻 언어 | `Python` |
-| ⭐ Stars | `25` |
-| 🍴 Forks | `7` |
-
-**🏷 토픽:** `ai-agent` `awesome` `awesome-list` `bioinformatics` `biomedical`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>27. <a href="https://github.com/garyqlin/gbase">gbase</a></b>
-  &nbsp; ⭐ <b>22</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-</summary>
-
-<br>
-
-**📝 설명**
-> GBase — Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-registered tools.
-
-
- 
-
-| | |
-|---|---|
-| 📅 생성일 | `2026-05-25` |
-| 💻 언어 | `Python` |
-| ⭐ Stars | `22` |
-| 🍴 Forks | `1` |
-
-**🏷 토픽:** `agent-framework` `ai-agents` `cognitive-architecture` `ebbinghaus` `llm`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>28. <a href="https://github.com/shyftlabs/continuum">continuum</a></b>
-  &nbsp; ⭐ <b>22</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  <b>25. <a href="https://github.com/shyftlabs/continuum">continuum</a></b>
+  &nbsp; ⭐ <b>23</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </summary>
 
 <br>
@@ -901,7 +825,7 @@
 |---|---|
 | 📅 생성일 | `2026-05-26` |
 | 💻 언어 | `Python` |
-| ⭐ Stars | `22` |
+| ⭐ Stars | `23` |
 | 🍴 Forks | `1` |
 
 **🏷 토픽:** `agent-framework` `agentic-ai` `ai-agents` `ai-orchestration` `anthropic`
@@ -912,7 +836,61 @@
 
 <details>
 <summary>
-  <b>29. <a href="https://github.com/Chz1Y/Steerable-music-transformer">Steerable-music-transformer</a></b>
+  <b>26. <a href="https://github.com/Adityapal67/context-graph-compressor">context-graph-compressor</a></b>
+  &nbsp; ⭐ <b>22</b> &nbsp; 
+</summary>
+
+<br>
+
+**📝 설명**
+> Convert long AI conversations into portable conversation state graphs for LLM handoffs.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-05-30` |
+| 💻 언어 | `N/A` |
+| ⭐ Stars | `22` |
+| 🍴 Forks | `8` |
+
+**🏷 토픽:** `age` `agent` `ai` `chatgpt` `claude-ai`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>27. <a href="https://github.com/zhnt/loushang">loushang</a></b>
+  &nbsp; ⭐ <b>22</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> AI-native coding orchestration platform: unified multi-model agent runtime with stateful sessions, tool governance, and traceable delivery. 
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-05-29` |
+| 💻 언어 | `Python` |
+| ⭐ Stars | `22` |
+| 🍴 Forks | `4` |
+
+**🏷 토픽:** `agent` `agentic` `agents` `ai` `chatgpt`
+
+&nbsp;
+
+</details>
+
+<details>
+<summary>
+  <b>28. <a href="https://github.com/Chz1Y/Steerable-music-transformer">Steerable-music-transformer</a></b>
   &nbsp; ⭐ <b>21</b> &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </summary>
 
@@ -939,7 +917,7 @@
 
 <details>
 <summary>
-  <b>30. <a href="https://github.com/dabao-yi/model-flux">model-flux</a></b>
+  <b>29. <a href="https://github.com/dabao-yi/model-flux">model-flux</a></b>
   &nbsp; ⭐ <b>16</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 </summary>
 
@@ -964,6 +942,33 @@
 
 </details>
 
+<details>
+<summary>
+  <b>30. <a href="https://github.com/gammahazard/locate-anything">locate-anything</a></b>
+  &nbsp; ⭐ <b>16</b> &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+</summary>
+
+<br>
+
+**📝 설명**
+> Sleek, mobile-friendly web UI for NVIDIA LocateAnything-3B — open-vocabulary object detection & grounding on your own GPU, via one docker compose up.
+
+
+ 
+
+| | |
+|---|---|
+| 📅 생성일 | `2026-05-27` |
+| 💻 언어 | `TypeScript` |
+| ⭐ Stars | `16` |
+| 🍴 Forks | `3` |
+
+**🏷 토픽:** `bounding-boxes` `computer-vision` `cuda` `docker` `fastapi`
+
+&nbsp;
+
+</details>
+
 ---
 
 ## 🤗 HuggingFace Trending
@@ -972,14 +977,14 @@
 
 <details>
 <summary>
-  <b>1. <a href="https://huggingface.co/abhinav337463/medical-billing-anomaly-detector-model">medical-billing-anomaly-detector-model</a></b>
-  &nbsp; ❤️ <b>2</b> &nbsp; ⬇️ 0
+  <b>1. <a href="https://huggingface.co/ibrahimkettaneh/Step-3.7-Flash-uncensored-abliterated-heretic-BF16">Step-3.7-Flash-uncensored-abliterated-heretic-BF16</a></b>
+  &nbsp; ❤️ <b>3</b> &nbsp; ⬇️ 0
 </summary>
 
 <br>
 
 **📝 설명**
-> _설명 없음_
+> image-text-to-text
 
 
  
@@ -987,11 +992,11 @@
 | | |
 |---|---|
 | 📅 등록일 | `2026-05-31` |
-| 🔧 파이프라인 | `N/A` |
-| ❤️ Likes | `2` |
+| 🔧 파이프라인 | `image-text-to-text` |
+| ❤️ Likes | `3` |
 | ⬇️ Downloads | `0` |
 
-**🏷 태그:** `region:us`
+**🏷 태그:** `transformers` `safetensors` `step3p7` `text-generation` `stepfun`
 
 &nbsp;
 
@@ -999,34 +1004,7 @@
 
 <details>
 <summary>
-  <b>2. <a href="https://huggingface.co/Layo-1420/my-second-model">my-second-model</a></b>
-  &nbsp; ❤️ <b>2</b> &nbsp; ⬇️ 0
-</summary>
-
-<br>
-
-**📝 설명**
-> _설명 없음_
-
-
- 
-
-| | |
-|---|---|
-| 📅 등록일 | `2026-05-31` |
-| 🔧 파이프라인 | `N/A` |
-| ❤️ Likes | `2` |
-| ⬇️ Downloads | `0` |
-
-**🏷 태그:** `en` `license:apache-2.0` `region:us`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>3. <a href="https://huggingface.co/Afrostnova/clip-text-msmarco-corrector">clip-text-msmarco-corrector</a></b>
+  <b>2. <a href="https://huggingface.co/Edhane19/Bang.edhane">Bang.edhane</a></b>
   &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
 </summary>
 
@@ -1040,12 +1018,12 @@
 
 | | |
 |---|---|
-| 📅 등록일 | `2026-05-31` |
+| 📅 등록일 | `2026-06-01` |
 | 🔧 파이프라인 | `N/A` |
 | ❤️ Likes | `1` |
 | ⬇️ Downloads | `0` |
 
-**🏷 태그:** `vec2text` `safetensors` `embedding-inversion` `clip` `text-embedding-inversion`
+**🏷 태그:** `license:mit` `region:us`
 
 &nbsp;
 
@@ -1053,7 +1031,7 @@
 
 <details>
 <summary>
-  <b>4. <a href="https://huggingface.co/Jeesup/tofu_1B_f01_RMU_lr3e-6_qat-int4">tofu_1B_f01_RMU_lr3e-6_qat-int4</a></b>
+  <b>3. <a href="https://huggingface.co/LLFF1116/CMS">CMS</a></b>
   &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
 </summary>
 
@@ -1067,34 +1045,7 @@
 
 | | |
 |---|---|
-| 📅 등록일 | `2026-05-31` |
-| 🔧 파이프라인 | `N/A` |
-| ❤️ Likes | `1` |
-| ⬇️ Downloads | `0` |
-
-**🏷 태그:** `tensorboard` `safetensors` `llama` `region:us`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>5. <a href="https://huggingface.co/jsirish/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-oQ8-mtp">Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-oQ8-mtp</a></b>
-  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
-</summary>
-
-<br>
-
-**📝 설명**
-> _설명 없음_
-
-
- 
-
-| | |
-|---|---|
-| 📅 등록일 | `2026-05-31` |
+| 📅 등록일 | `2026-06-01` |
 | 🔧 파이프라인 | `N/A` |
 | ❤️ Likes | `1` |
 | ⬇️ Downloads | `0` |
@@ -1107,61 +1058,7 @@
 
 <details>
 <summary>
-  <b>6. <a href="https://huggingface.co/EiMon724/bigbomb">bigbomb</a></b>
-  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
-</summary>
-
-<br>
-
-**📝 설명**
-> _설명 없음_
-
-
- 
-
-| | |
-|---|---|
-| 📅 등록일 | `2026-05-31` |
-| 🔧 파이프라인 | `N/A` |
-| ❤️ Likes | `1` |
-| ⬇️ Downloads | `0` |
-
-**🏷 태그:** `region:us`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>7. <a href="https://huggingface.co/IbuprofenAmoxicillin/m-4b2dcffcbd">m-4b2dcffcbd</a></b>
-  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
-</summary>
-
-<br>
-
-**📝 설명**
-> _설명 없음_
-
-
- 
-
-| | |
-|---|---|
-| 📅 등록일 | `2026-05-31` |
-| 🔧 파이프라인 | `N/A` |
-| ❤️ Likes | `1` |
-| ⬇️ Downloads | `0` |
-
-**🏷 태그:** `region:us`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>8. <a href="https://huggingface.co/sashaboguraev/pythia-1b-ppt-baseline_1b_v2-seed1024">pythia-1b-ppt-baseline_1b_v2-seed1024</a></b>
+  <b>4. <a href="https://huggingface.co/AlicanKiraz0/Titus-CybersecurityLLM-v1.0-Q4_K_M-No-MTP-GGUF">Titus-CybersecurityLLM-v1.0-Q4_K_M-No-MTP-GGUF</a></b>
   &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
 </summary>
 
@@ -1180,7 +1077,7 @@
 | ❤️ Likes | `1` |
 | ⬇️ Downloads | `0` |
 
-**🏷 태그:** `transformers` `safetensors` `gpt_neox` `text-generation` `arxiv:1910.09700`
+**🏷 태그:** `gguf` `q4_k_m` `no-mtp` `qwen3.5-moe` `cybersecurity`
 
 &nbsp;
 
@@ -1188,14 +1085,14 @@
 
 <details>
 <summary>
-  <b>9. <a href="https://huggingface.co/wowastingray/smolvla_grab-green-cube-25epsclean">smolvla_grab-green-cube-25epsclean</a></b>
+  <b>5. <a href="https://huggingface.co/RektX/gemma-4-E4B-it">gemma-4-E4B-it</a></b>
   &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
 </summary>
 
 <br>
 
 **📝 설명**
-> robotics
+> any-to-any
 
 
  
@@ -1203,11 +1100,11 @@
 | | |
 |---|---|
 | 📅 등록일 | `2026-05-31` |
-| 🔧 파이프라인 | `robotics` |
+| 🔧 파이프라인 | `any-to-any` |
 | ❤️ Likes | `1` |
 | ⬇️ Downloads | `0` |
 
-**🏷 태그:** `lerobot` `safetensors` `robotics` `smolvla` `dataset:wowastingray/grab-green-cube-25epsclean`
+**🏷 태그:** `transformers` `safetensors` `gemma4` `image-text-to-text` `any-to-any`
 
 &nbsp;
 
@@ -1215,34 +1112,7 @@
 
 <details>
 <summary>
-  <b>10. <a href="https://huggingface.co/Faless/harvest_apples_smolvla_v2_base_bs96_ee_7ep">harvest_apples_smolvla_v2_base_bs96_ee_7ep</a></b>
-  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
-</summary>
-
-<br>
-
-**📝 설명**
-> robotics
-
-
- 
-
-| | |
-|---|---|
-| 📅 등록일 | `2026-05-31` |
-| 🔧 파이프라인 | `robotics` |
-| ❤️ Likes | `1` |
-| ⬇️ Downloads | `0` |
-
-**🏷 태그:** `lerobot` `safetensors` `smolvla` `robotics` `dataset:Faless/harvest_apples_with_agilex_piper_sim_ee`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>11. <a href="https://huggingface.co/MarriedGeekGuy/flux-klein-lora-cum-anywhere-concept-klein-9b">flux-klein-lora-cum-anywhere-concept-klein-9b</a></b>
+  <b>6. <a href="https://huggingface.co/kundanhbp108/veloassist-defect-auditor">veloassist-defect-auditor</a></b>
   &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
 </summary>
 
@@ -1269,14 +1139,14 @@
 
 <details>
 <summary>
-  <b>12. <a href="https://huggingface.co/MarriedGeekGuy/flux-klein-lora-perfect-penis-flux-2-klein-9b-v2-0">flux-klein-lora-perfect-penis-flux-2-klein-9b-v2-0</a></b>
+  <b>7. <a href="https://huggingface.co/ngohjuniormbah/d3-gemma-3-1b">d3-gemma-3-1b</a></b>
   &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
 </summary>
 
 <br>
 
 **📝 설명**
-> _설명 없음_
+> text-generation
 
 
  
@@ -1284,11 +1154,11 @@
 | | |
 |---|---|
 | 📅 등록일 | `2026-05-31` |
-| 🔧 파이프라인 | `N/A` |
+| 🔧 파이프라인 | `text-generation` |
 | ❤️ Likes | `1` |
 | ⬇️ Downloads | `0` |
 
-**🏷 태그:** `region:us` `not-for-all-audiences`
+**🏷 태그:** `peft` `safetensors` `d3js` `data-visualization` `code-generation`
 
 &nbsp;
 
@@ -1296,7 +1166,7 @@
 
 <details>
 <summary>
-  <b>13. <a href="https://huggingface.co/geocketa/Doggyrise">Doggyrise</a></b>
+  <b>8. <a href="https://huggingface.co/ajsbsd/mt5-ossetian-translator">mt5-ossetian-translator</a></b>
   &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
 </summary>
 
@@ -1315,7 +1185,7 @@
 | ❤️ Likes | `1` |
 | ⬇️ Downloads | `0` |
 
-**🏷 태그:** `region:us`
+**🏷 태그:** `safetensors` `mt5` `os` `en` `dataset:ayymen/Pontoon-Translations`
 
 &nbsp;
 
@@ -1323,14 +1193,14 @@
 
 <details>
 <summary>
-  <b>14. <a href="https://huggingface.co/EchoSingularity/FLUX1">FLUX1</a></b>
+  <b>9. <a href="https://huggingface.co/OctoMed/OctoMed-8B">OctoMed-8B</a></b>
   &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
 </summary>
 
 <br>
 
 **📝 설명**
-> _설명 없음_
+> image-text-to-text
 
 
  
@@ -1338,11 +1208,11 @@
 | | |
 |---|---|
 | 📅 등록일 | `2026-05-31` |
-| 🔧 파이프라인 | `N/A` |
+| 🔧 파이프라인 | `image-text-to-text` |
 | ❤️ Likes | `1` |
 | ⬇️ Downloads | `0` |
 
-**🏷 태그:** `license:creativeml-openrail-m` `region:us`
+**🏷 태그:** `safetensors` `qwen3_vl` `image-text-to-text` `conversational` `en`
 
 &nbsp;
 
@@ -1350,14 +1220,14 @@
 
 <details>
 <summary>
-  <b>15. <a href="https://huggingface.co/IbuprofenAmoxicillin/m-6ba545c8ca">m-6ba545c8ca</a></b>
+  <b>10. <a href="https://huggingface.co/chrullis/qwen3-asr-radio-1.7b">qwen3-asr-radio-1.7b</a></b>
   &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
 </summary>
 
 <br>
 
 **📝 설명**
-> _설명 없음_
+> automatic-speech-recognition
 
 
  
@@ -1365,146 +1235,11 @@
 | | |
 |---|---|
 | 📅 등록일 | `2026-05-31` |
-| 🔧 파이프라인 | `N/A` |
+| 🔧 파이프라인 | `automatic-speech-recognition` |
 | ❤️ Likes | `1` |
 | ⬇️ Downloads | `0` |
 
-**🏷 태그:** `region:us`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>16. <a href="https://huggingface.co/williamzshih/my_awesome_model">my_awesome_model</a></b>
-  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
-</summary>
-
-<br>
-
-**📝 설명**
-> _설명 없음_
-
-
- 
-
-| | |
-|---|---|
-| 📅 등록일 | `2026-05-31` |
-| 🔧 파이프라인 | `N/A` |
-| ❤️ Likes | `1` |
-| ⬇️ Downloads | `0` |
-
-**🏷 태그:** `transformers` `safetensors` `t5` `text2text-generation` `generated_from_trainer`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>17. <a href="https://huggingface.co/Noburo/co40">co40</a></b>
-  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
-</summary>
-
-<br>
-
-**📝 설명**
-> _설명 없음_
-
-
- 
-
-| | |
-|---|---|
-| 📅 등록일 | `2026-05-31` |
-| 🔧 파이프라인 | `N/A` |
-| ❤️ Likes | `1` |
-| ⬇️ Downloads | `0` |
-
-**🏷 태그:** `region:us`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>18. <a href="https://huggingface.co/saysth/co7">co7</a></b>
-  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
-</summary>
-
-<br>
-
-**📝 설명**
-> _설명 없음_
-
-
- 
-
-| | |
-|---|---|
-| 📅 등록일 | `2026-05-31` |
-| 🔧 파이프라인 | `N/A` |
-| ❤️ Likes | `1` |
-| ⬇️ Downloads | `0` |
-
-**🏷 태그:** `region:us`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>19. <a href="https://huggingface.co/Mug-tree-guy/co240">co240</a></b>
-  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
-</summary>
-
-<br>
-
-**📝 설명**
-> _설명 없음_
-
-
- 
-
-| | |
-|---|---|
-| 📅 등록일 | `2026-05-31` |
-| 🔧 파이프라인 | `N/A` |
-| ❤️ Likes | `1` |
-| ⬇️ Downloads | `0` |
-
-**🏷 태그:** `region:us`
-
-&nbsp;
-
-</details>
-
-<details>
-<summary>
-  <b>20. <a href="https://huggingface.co/castdies/cn-92">cn-92</a></b>
-  &nbsp; ❤️ <b>1</b> &nbsp; ⬇️ 0
-</summary>
-
-<br>
-
-**📝 설명**
-> _설명 없음_
-
-
- 
-
-| | |
-|---|---|
-| 📅 등록일 | `2026-05-31` |
-| 🔧 파이프라인 | `N/A` |
-| ❤️ Likes | `1` |
-| ⬇️ Downloads | `0` |
-
-**🏷 태그:** `region:us`
+**🏷 태그:** `transformers` `safetensors` `qwen3_asr` `text-generation` `automatic-speech-recognition`
 
 &nbsp;
 
