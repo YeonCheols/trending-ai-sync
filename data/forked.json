@@ -760,5 +760,35 @@
     "synced_at": "2026-06-01",
     "stars": 57,
     "title": "DocPaws"
+  },
+  "PentesterFlow/agent": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-agent",
+    "synced_at": "2026-06-04",
+    "stars": 213,
+    "title": "agent"
+  },
+  "duncatzat/vigils": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-vigils",
+    "synced_at": "2026-06-04",
+    "stars": 205,
+    "title": "vigils"
+  },
+  "stormneonnightraven4640692/DeepFake-AI-RealTime": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-DeepFake-AI-RealTime",
+    "synced_at": "2026-06-04",
+    "stars": 182,
+    "title": "DeepFake-AI-RealTime"
+  },
+  "Soul-AILab/SoulX-Transcriber": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-SoulX-Transcriber",
+    "synced_at": "2026-06-04",
+    "stars": 143,
+    "title": "SoulX-Transcriber"
+  },
+  "couragec/llm-intern-skill": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-llm-intern-skill",
+    "synced_at": "2026-06-04",
+    "stars": 85,
+    "title": "llm-intern-skill"
   }
 }
