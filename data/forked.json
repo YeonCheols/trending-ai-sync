@@ -790,5 +790,35 @@
     "synced_at": "2026-06-04",
     "stars": 85,
     "title": "llm-intern-skill"
+  },
+  "tastyeffectco/sandboxes": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-sandboxes",
+    "synced_at": "2026-06-07",
+    "stars": 472,
+    "title": "sandboxes"
+  },
+  "razr001/align-dev": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-align-dev",
+    "synced_at": "2026-06-07",
+    "stars": 177,
+    "title": "align-dev"
+  },
+  "couragec/LLMInternSkill": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-LLMInternSkill",
+    "synced_at": "2026-06-07",
+    "stars": 151,
+    "title": "LLMInternSkill"
+  },
+  "2417467487-hub/WorldCupROI": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-WorldCupROI",
+    "synced_at": "2026-06-07",
+    "stars": 121,
+    "title": "WorldCupROI"
+  },
+  "PanisHandsome/ai-rules-sync": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-ai-rules-sync",
+    "synced_at": "2026-06-07",
+    "stars": 112,
+    "title": "ai-rules-sync"
   }
 }
