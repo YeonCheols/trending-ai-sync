@@ -820,5 +820,35 @@
     "synced_at": "2026-06-07",
     "stars": 112,
     "title": "ai-rules-sync"
+  },
+  "amElnagdy/guard-skills": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-guard-skills",
+    "synced_at": "2026-06-10",
+    "stars": 519,
+    "title": "guard-skills"
+  },
+  "myccarl/ai-shortVideo-pipeline": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-ai-shortVideo-pipeline",
+    "synced_at": "2026-06-10",
+    "stars": 113,
+    "title": "ai-shortVideo-pipeline"
+  },
+  "zengxiao-he/tessera": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-tessera",
+    "synced_at": "2026-06-10",
+    "stars": 82,
+    "title": "tessera"
+  },
+  "borhen68/TokenTamer": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-TokenTamer",
+    "synced_at": "2026-06-10",
+    "stars": 62,
+    "title": "TokenTamer"
+  },
+  "axocoatl/axocoatl": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-axocoatl",
+    "synced_at": "2026-06-10",
+    "stars": 55,
+    "title": "axocoatl"
   }
 }
