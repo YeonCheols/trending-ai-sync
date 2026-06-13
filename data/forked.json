@@ -850,5 +850,35 @@
     "synced_at": "2026-06-10",
     "stars": 55,
     "title": "axocoatl"
+  },
+  "DietrichGebert/ponytail": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-ponytail",
+    "synced_at": "2026-06-13",
+    "stars": 968,
+    "title": "ponytail"
+  },
+  "coder/boo": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-boo",
+    "synced_at": "2026-06-13",
+    "stars": 277,
+    "title": "boo"
+  },
+  "alchaincyf/fanbox": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-fanbox",
+    "synced_at": "2026-06-13",
+    "stars": 217,
+    "title": "fanbox"
+  },
+  "cobusgreyling/loop-engineering": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-loop-engineering",
+    "synced_at": "2026-06-13",
+    "stars": 110,
+    "title": "loop-engineering"
+  },
+  "TestSprite/testsprite-cli": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-testsprite-cli",
+    "synced_at": "2026-06-13",
+    "stars": 97,
+    "title": "testsprite-cli"
   }
 }
