@@ -880,5 +880,35 @@
     "synced_at": "2026-06-13",
     "stars": 97,
     "title": "testsprite-cli"
+  },
+  "eli-labz/Third-Eye": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-Third-Eye",
+    "synced_at": "2026-06-16",
+    "stars": 292,
+    "title": "Third-Eye"
+  },
+  "buynao/aipath": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-aipath",
+    "synced_at": "2026-06-16",
+    "stars": 266,
+    "title": "aipath"
+  },
+  "itsinseong/value-for-fable": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-value-for-fable",
+    "synced_at": "2026-06-16",
+    "stars": 194,
+    "title": "value-for-fable"
+  },
+  "gykim80/perfectpixel-studio": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-perfectpixel-studio",
+    "synced_at": "2026-06-16",
+    "stars": 179,
+    "title": "perfectpixel-studio"
+  },
+  "john-rocky/coreai-model-zoo": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-coreai-model-zoo",
+    "synced_at": "2026-06-16",
+    "stars": 137,
+    "title": "coreai-model-zoo"
   }
 }
