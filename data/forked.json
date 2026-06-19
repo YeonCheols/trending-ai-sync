@@ -910,5 +910,35 @@
     "synced_at": "2026-06-16",
     "stars": 137,
     "title": "coreai-model-zoo"
+  },
+  "LichAmnesia/awesome-ad-video-prompts": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-awesome-ad-video-prompts",
+    "synced_at": "2026-06-19",
+    "stars": 124,
+    "title": "awesome-ad-video-prompts"
+  },
+  "KorroAi/drunk-claude": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-drunk-claude",
+    "synced_at": "2026-06-19",
+    "stars": 111,
+    "title": "drunk-claude"
+  },
+  "Happy-Chen-CH/Educational_RAG_System": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-Educational_RAG_System",
+    "synced_at": "2026-06-19",
+    "stars": 75,
+    "title": "Educational_RAG_System"
+  },
+  "Lekien082/AI-Photo-Background-Remover": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-AI-Photo-Background-Remover",
+    "synced_at": "2026-06-19",
+    "stars": 75,
+    "title": "AI-Photo-Background-Remover"
+  },
+  "agiwhitelist/tokdiet": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-tokdiet",
+    "synced_at": "2026-06-19",
+    "stars": 68,
+    "title": "tokdiet"
   }
 }
