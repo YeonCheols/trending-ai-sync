@@ -940,5 +940,35 @@
     "synced_at": "2026-06-19",
     "stars": 68,
     "title": "tokdiet"
+  },
+  "sums001/Windows-Copilot-API": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-Windows-Copilot-API",
+    "synced_at": "2026-06-22",
+    "stars": 136,
+    "title": "Windows-Copilot-API"
+  },
+  "raiyanyahya/recall": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-recall",
+    "synced_at": "2026-06-22",
+    "stars": 125,
+    "title": "recall"
+  },
+  "umacloud/umadev": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-umadev",
+    "synced_at": "2026-06-22",
+    "stars": 78,
+    "title": "umadev"
+  },
+  "PerfectXM/mcp-db-server": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-mcp-db-server",
+    "synced_at": "2026-06-22",
+    "stars": 77,
+    "title": "mcp-db-server"
+  },
+  "VisionForge-OU/foreman": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-foreman",
+    "synced_at": "2026-06-22",
+    "stars": 75,
+    "title": "foreman"
   }
 }
