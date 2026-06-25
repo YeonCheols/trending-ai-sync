@@ -970,5 +970,35 @@
     "synced_at": "2026-06-22",
     "stars": 75,
     "title": "foreman"
+  },
+  "benchflow-ai/awesome-evals": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-awesome-evals",
+    "synced_at": "2026-06-25",
+    "stars": 190,
+    "title": "awesome-evals"
+  },
+  "Karovia/fullstack-ai-agent-roadmap": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-fullstack-ai-agent-roadmap",
+    "synced_at": "2026-06-25",
+    "stars": 178,
+    "title": "fullstack-ai-agent-roadmap"
+  },
+  "Reyzowter/Hello-Agents": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-Hello-Agents",
+    "synced_at": "2026-06-25",
+    "stars": 129,
+    "title": "Hello-Agents"
+  },
+  "lightbearco/tupper": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-tupper",
+    "synced_at": "2026-06-25",
+    "stars": 123,
+    "title": "tupper"
+  },
+  "Simpl3x3/ESEILANE": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-ESEILANE",
+    "synced_at": "2026-06-25",
+    "stars": 105,
+    "title": "ESEILANE"
   }
 }
