@@ -1000,5 +1000,35 @@
     "synced_at": "2026-06-25",
     "stars": 105,
     "title": "ESEILANE"
+  },
+  "eli-labz/Godcoder": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-Godcoder",
+    "synced_at": "2026-06-28",
+    "stars": 240,
+    "title": "Godcoder"
+  },
+  "NotASithLord/peerd": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-peerd",
+    "synced_at": "2026-06-28",
+    "stars": 195,
+    "title": "peerd"
+  },
+  "lemma-work/lemma-platform": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-lemma-platform",
+    "synced_at": "2026-06-28",
+    "stars": 143,
+    "title": "lemma-platform"
+  },
+  "GraeLefix/GITVERSE": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-GITVERSE",
+    "synced_at": "2026-06-28",
+    "stars": 131,
+    "title": "GITVERSE"
+  },
+  "benlamiro/ShipGenAI": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-ShipGenAI",
+    "synced_at": "2026-06-28",
+    "stars": 130,
+    "title": "ShipGenAI"
   }
 }
