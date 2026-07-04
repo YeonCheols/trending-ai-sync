@@ -1060,5 +1060,35 @@
     "synced_at": "2026-07-01",
     "stars": 152,
     "title": "opus-prompt-architect"
+  },
+  "uzairansaruzi/hermex": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-hermex",
+    "synced_at": "2026-07-04",
+    "stars": 450,
+    "title": "hermex"
+  },
+  "jmerelnyc/Talos": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-Talos",
+    "synced_at": "2026-07-04",
+    "stars": 333,
+    "title": "Talos"
+  },
+  "SuperJJ007/CSswitch": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-CSswitch",
+    "synced_at": "2026-07-04",
+    "stars": 167,
+    "title": "CSswitch"
+  },
+  "thenicolas1894/awesome-claude-fable-5-prompt-vault": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-awesome-claude-fable-5-prompt-vault",
+    "synced_at": "2026-07-04",
+    "stars": 158,
+    "title": "awesome-claude-fable-5-prompt-vault"
+  },
+  "Sakshxm1/hermes-agency-orchestrator": {
+    "repo_url": "https://github.com/YeonCheols/ai-sync-hermes-agency-orchestrator",
+    "synced_at": "2026-07-04",
+    "stars": 155,
+    "title": "hermes-agency-orchestrator"
   }
 }
